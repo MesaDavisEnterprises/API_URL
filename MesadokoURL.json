@@ -3,5 +3,6 @@
   "serverUrl": "https://mesadokostorage.web.app/",
   "platformUrl": "https://mesadavisenterprises.com/",
   "gameLevel": 20, 
-  "_gameLevel": "Hard -> 22 / Easy -> 40"
+  "_gameLevel": "Hard -> 22 / Easy -> 40",
+  "appVersion": "1.3"
 }
