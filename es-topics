@@ -1,0 +1,35 @@
+{
+  "1": {
+    "name": "Química"
+  },
+  "2": {
+    "name": "Español"
+  },
+  "3": {
+    "name": "Francés"
+  },
+  "4": {
+    "name": "Italiano"
+  },
+  "5": {
+    "name": "Computación"
+  },
+  "6": {
+    "name": "Economía"
+  },
+  "7": {
+    "name": "Portugués"
+  },
+  "8": {
+    "name": "Inglés"
+  },
+  "9": {
+    "name": "Alemán"
+  },
+  "10": {
+    "name": "Desarrollo de Software"
+  },
+  "11": {
+    "name": "Física"
+  }
+}
