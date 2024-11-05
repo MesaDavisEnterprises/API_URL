@@ -1,0 +1,206 @@
+{
+  "1": {
+    "name": "Fundamentos Químicos"
+  },
+  "2": {
+    "name": "Metales"
+  },
+  "3": {
+    "name": "Metales de Transición"
+  },
+  "4": {
+    "name": "Metaloides"
+  },
+  "5": {
+    "name": "No Metales"
+  },
+  "6": {
+    "name": "Sustancias Químicas"
+  },
+  "7": {
+    "name": "Elementos Sintéticos"
+  },
+  "8": {
+    "name": "Español Básico"
+  },
+  "9": {
+    "name": "Comidas"
+  },
+  "10": {
+    "name": "Profesiones"
+  },
+  "11": {
+    "name": "Pasatiempos"
+  },
+  "12": {
+    "name": "Animales"
+  },
+  "13": {
+    "name": "Transporte"
+  },
+  "14": {
+    "name": "Verbos"
+  },
+  "15": {
+    "name": "Francés Básico"
+  },
+  "16": {
+    "name": "Comidas"
+  },
+  "17": {
+    "name": "Profesiones"
+  },
+  "18": {
+    "name": "Palabras de Deporte"
+  },
+  "19": {
+    "name": "Palabras de Casa"
+  },
+  "20": {
+    "name": "Animales"
+  },
+  "21": {
+    "name": "Transporte"
+  },
+  "22": {
+    "name": "Italiano Básico"
+  },
+  "23": {
+    "name": "Sustantivos"
+  },
+  "24": {
+    "name": "Comidas"
+  },
+  "25": {
+    "name": "Animales"
+  },
+  "26": {
+    "name": "Profesiones"
+  },
+  "27": {
+    "name": "Adjetivos"
+  },
+  "28": {
+    "name": "Verbos"
+  },
+  "29": {
+    "name": "Computación Fundamental"
+  },
+  "30": {
+    "name": "Hardware"
+  },
+  "31": {
+    "name": "Software"
+  },
+  "32": {
+    "name": "Redes"
+  },
+  "33": {
+    "name": "Seguridad"
+  },
+  "34": {
+    "name": "Economía Fundamental"
+  },
+  "35": {
+    "name": "Macroeconomía"
+  },
+  "36": {
+    "name": "Microeconomía"
+  },
+  "37": {
+    "name": "Portugués Básico"
+  },
+  "38": {
+    "name": "Sustantivos"
+  },
+  "39": {
+    "name": "Comidas"
+  },
+  "40": {
+    "name": "Animales"
+  },
+  "41": {
+    "name": "Profesiones"
+  },
+  "42": {
+    "name": "Adjetivos"
+  },
+  "43": {
+    "name": "Verbos"
+  },
+  "44": {
+    "name": "Inglés Básico"
+  },
+  "45": {
+    "name": "Sustantivos"
+  },
+  "46": {
+    "name": "Comidas"
+  },
+  "47": {
+    "name": "Animales"
+  },
+  "48": {
+    "name": "Profesiones"
+  },
+  "49": {
+    "name": "Adjetivos"
+  },
+  "50": {
+    "name": "Verbos"
+  },
+  "51": {
+    "name": "Alemán Básico"
+  },
+  "52": {
+    "name": "Sustantivos"
+  },
+  "53": {
+    "name": "Comidas"
+  },
+  "54": {
+    "name": "Animales"
+  },
+  "55": {
+    "name": "Profesiones"
+  },
+  "56": {
+    "name": "Adjetivos"
+  },
+  "57": {
+    "name": "Verbos"
+  },
+  "58": {
+    "name": "Fundamentos del Desarrollo de Software"
+  },
+  "59": {
+    "name": "Lenguajes de Programación"
+  },
+  "60": {
+    "name": "Frameworks"
+  },
+  "61": {
+    "name": "Bases de Datos"
+  },
+  "62": {
+    "name": "Backend"
+  },
+  "63": {
+    "name": "Frontend"
+  },
+  "64": {
+    "name": "Fundamentos de Física"
+  },
+  "65": {
+    "name": "Mecánica"
+  },
+  "66": {
+    "name": "Termodinámica"
+  },
+  "67": {
+    "name": "Electromagnetismo"
+  },
+  "68": {
+    "name": "Ondas y Óptica"
+  }
+}
