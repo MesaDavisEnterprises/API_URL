@@ -1,0 +1,836 @@
+{
+  "1": {
+    "word": "Molécula",
+    "clue": "Un grupo de dos o más átomos unidos por enlaces químicos"
+  },
+  "2": {
+    "word": "Solución",
+    "clue": "Una mezcla homogénea compuesta de dos o más sustancias"
+  },
+  "3": {
+    "word": "Reactivo",
+    "clue": "Es una sustancia o compuesto agregado a un sistema para causar una reacción química o probar si ocurre"
+  },
+  "4": {
+    "word": "Elemento",
+    "clue": "Una sustancia que no puede descomponerse en sustancias más simples mediante medios químicos"
+  },
+  "5": {
+    "word": "Ácido",
+    "clue": "Un compuesto que libera iones de hidrógeno (H+) en una solución con agua"
+  },
+  "6": {
+    "word": "Base",
+    "clue": "Un compuesto que libera iones hidroxilo (OH-) en una solución con agua"
+  },
+  "7": {
+    "word": "Isómero",
+    "clue": "Un compuesto con la misma fórmula molecular que otro, pero con una disposición diferente de los átomos"
+  },
+  "8": {
+    "word": "Alqueno",
+    "clue": "Un hidrocarburo con un doble enlace carbono-carbono"
+  },
+  "9": {
+    "word": "Alcohol",
+    "clue": "Un compuesto que contiene un grupo hidroxilo (-OH) unido a un átomo de carbono saturado"
+  },
+  "10": {
+    "word": "Cetonas",
+    "clue": "Un compuesto que contiene un grupo carbonilo (C=O) unido a dos átomos de carbono"
+  },
+  "11": {
+    "word": "Éster",
+    "clue": "Un compuesto derivado de un ácido en el que el grupo hidroxilo del ácido ha sido reemplazado por un grupo alquilo (-OR)"
+  },
+  "12": {
+    "word": "Benceno",
+    "clue": "Un hidrocarburo aromático con la fórmula C6H6"
+  },
+  "13": {
+    "word": "Haluro",
+    "clue": "Un compuesto que contiene un átomo de halógeno"
+  },
+  "14": {
+    "word": "Óxido",
+    "clue": "Un compuesto químico que contiene al menos un átomo de oxígeno y otro elemento en su fórmula química"
+  },
+  "15": {
+    "word": "Hidróxido",
+    "clue": "Un anión diatómico con la fórmula química OH−"
+  },
+  "16": {
+    "word": "Nitruro",
+    "clue": "Un compuesto inorgánico de nitrógeno"
+  },
+  "17": {
+    "word": "Sulfuro",
+    "clue": "Un compuesto que contiene azufre"
+  },
+  "18": {
+    "word": "Carbonato",
+    "clue": "Es una sal del ácido carbónico (H2CO3), caracterizada por la presencia del ion carbonato"
+  },
+  "19": {
+    "word": "Exergía",
+    "clue": "Es el trabajo útil máximo posible durante un proceso que lleva el sistema a equilibrio con un reservorio de calor"
+  },
+  "20": {
+    "word": "Entalpía",
+    "clue": "Suma de energía interna, presión y volumen"
+  },
+  "21": {
+    "word": "Temperatura",
+    "clue": "La energía cinética promedio de las partículas en una sustancia"
+  },
+  "22": {
+    "word": "Energía Libre",
+    "clue": "La energía que está disponible para realizar trabajo"
+  },
+  "23": {
+    "word": "Calor",
+    "clue": "La energía transferida entre un sistema y su entorno"
+  },
+  "24": {
+    "word": "Entropía",
+    "clue": "La medida del desorden de un sistema"
+  },
+  "25": {
+    "word": "Tasa",
+    "clue": "La velocidad a la que ocurre una reacción química"
+  },
+  "26": {
+    "word": "Equilibrio",
+    "clue": "Un estado en el que fuerzas o influencias opuestas están equilibradas"
+  },
+  "27": {
+    "word": "Vida Media",
+    "clue": "El tiempo necesario para que la concentración de un reactante disminuya a la mitad de su valor inicial"
+  },
+  "28": {
+    "word": "Catalizador",
+    "clue": "Una sustancia que aumenta la velocidad de una reacción química al reducir la energía de activación requerida para que ocurra la reacción"
+  },
+  "29": {
+    "word": "Colisión",
+    "clue": "Un proceso en el que dos o más partículas chocan"
+  },
+  "30": {
+    "word": "Reacción",
+    "clue": "Un proceso en el que una o más sustancias se transforman en una o más sustancias diferentes"
+  },
+  "31": {
+    "word": "Electrodo",
+    "clue": "Un conductor a través del cual entra o sale corriente eléctrica de una celda electrolítica o celda electroquímica"
+  },
+  "32": {
+    "word": "Electrolito",
+    "clue": "Una sustancia que conduce electricidad cuando se disuelve en un disolvente, o en estado fundido"
+  },
+  "33": {
+    "word": "Reducción",
+    "clue": "La ganancia de electrones por una especie durante una reacción química"
+  },
+  "34": {
+    "word": "Oxidación",
+    "clue": "La pérdida de electrones por una especie durante una reacción química"
+  },
+  "35": {
+    "word": "Electrón",
+    "clue": "Una partícula subatómica con carga negativa"
+  },
+  "36": {
+    "word": "Electrólisis",
+    "clue": "Un proceso en el que se utiliza energía eléctrica para impulsar una reacción química no espontánea"
+  },
+  "37": {
+    "word": "Li",
+    "clue": "Bajo condiciones estándar, es el metal menos denso y el elemento sólido menos denso",
+    "learn": "Litio"
+  },
+  "38": {
+    "word": "Na",
+    "clue": "Un metal altamente reactivo que se encuentra comúnmente en la sal de mesa",
+    "learn": "Sodio"
+  },
+  "39": {
+    "word": "K",
+    "clue": "Un metal blando y de color blanco plateado utilizado en fertilizantes y fuegos artificiales",
+    "learn": "Potasio"
+  },
+  "40": {
+    "word": "Rb",
+    "clue": "Fue descubierto en 1861 por los químicos alemanes Robert Bunsen y Gustav Kirchhoff utilizando espectroscopía de llama",
+    "learn": "Rubidio"
+  },
+  "41": {
+    "word": "Cs",
+    "clue": "El metal más reactivo conocido, utilizado en relojes atómicos",
+    "learn": "Cesio"
+  },
+  "42": {
+    "word": "Fr",
+    "clue": "Es el segundo elemento más electropositivo, solo detrás del cesio, y es el segundo elemento natural más raro (después del astatino)",
+    "learn": "Francio"
+  },
+  "43": {
+    "word": "Be",
+    "clue": "Usado en piedras preciosas como la aguamarina y la esmeralda",
+    "learn": "Berilio"
+  },
+  "44": {
+    "word": "Mg",
+    "clue": "Un metal ligero y plateado que se utiliza ampliamente en aleaciones y es conocido por su papel en la clorofila",
+    "learn": "Magnesio"
+  },
+  "45": {
+    "word": "Ca",
+    "clue": "Un metal reactivo que es un componente esencial de los huesos y dientes",
+    "learn": "Calcio"
+  },
+  "46": {
+    "word": "Sr",
+    "clue": "Un metal denso y plateado que es conocido por su alta reactividad y se utiliza en aplicaciones como la imagenología de rayos X y fuegos artificiales",
+    "learn": "Estroncio"
+  },
+  "47": {
+    "word": "Ba",
+    "clue": "Nunca se encuentra en la naturaleza como elemento libre, comúnmente encontrado en los minerales baritina y witherita",
+    "learn": "Bario"
+  },
+  "48": {
+    "word": "Ra",
+    "clue": "Es un metal radioactivo altamente reactivo que brilla en la oscuridad debido a su intensa radiación",
+    "learn": "Radón"
+  },
+  "49": {
+    "word": "La",
+    "clue": "Es un metal blando, dúctil y de color blanco plateado que se empaña lentamente cuando se expone al aire",
+    "learn": "Lantano"
+  },
+  "50": {
+    "word": "Ce",
+    "clue": "Es el segundo elemento en la serie de los lantánidos, y aunque a menudo muestra el estado de oxidación +3 característico de la serie",
+    "learn": "Cerio"
+  },
+  "51": {
+    "word": "Pr",
+    "clue": "Es el tercer miembro de la serie de los lantánidos y se considera uno de los metales raros",
+    "learn": "Praseodimio"
+  },
+  "52": {
+    "word": "Nd",
+    "clue": "Cuando se oxida, reacciona rápidamente produciendo compuestos de colores rosa, púrpura/azul y amarillo",
+    "learn": "Neodimio"
+  },
+  "53": {
+    "word": "Pm",
+    "clue": "Todos sus isótopos son radiactivos; es extremadamente raro, con solo unos 500-600 gramos presentes en la corteza terrestre en cualquier momento dado",
+    "learn": "Prometio"
+  },
+  "54": {
+    "word": "Sm",
+    "clue": "Es un metal moderadamente duro y plateado que se oxida lentamente en el aire",
+    "learn": "Samario"
+  },
+  "55": {
+    "word": "Eu",
+    "clue": "Es el lantánido más reactivo por lejos, y debe ser almacenado bajo un fluido inerte para protegerlo de la atmósfera",
+    "learn": "Europio"
+  },
+  "56": {
+    "word": "Gd",
+    "clue": "Fue descubierto en 1880 por Jean Charles de Marignac, quien detectó su óxido utilizando espectroscopía",
+    "learn": "Gadolinio"
+  },
+  "57": {
+    "word": "Tb",
+    "clue": "Es un metal bastante electropositivo que reacciona con el agua, evolucionando gas hidrógeno",
+    "learn": "Terbio"
+  },
+  "58": {
+    "word": "Dy",
+    "clue": "Nunca se encuentra en la naturaleza como elemento libre, aunque, como otros lantánidos, se encuentra en varios minerales, como el xenotime",
+    "learn": "Disprosio"
+  },
+  "59": {
+    "word": "Ho",
+    "clue": "Es un metal relativamente blando, plateado, bastante resistente a la corrosión y maleable",
+    "learn": "Holmio"
+  },
+  "60": {
+    "word": "Er",
+    "clue": "Es un lantánido, un elemento de tierras raras, encontrado originalmente en la mina de gadolinita en Ytterby, Suecia, que es la fuente del nombre del elemento",
+    "learn": "Erbio"
+  },
+  "61": {
+    "word": "Ac",
+    "clue": "Fue aislado por primera vez por Friedrich Oskar Giesel en 1902",
+    "learn": "Actinio"
+  },
+  "62": {
+    "word": "Th",
+    "clue": "Es plateado y se oscurece al exponerse al aire, es moderadamente blando y maleable y tiene un alto punto de fusión",
+    "learn": "Torio"
+  },
+  "63": {
+    "word": "Pa",
+    "clue": "Es un metal actínido denso y de color gris plateado que reacciona fácilmente con oxígeno, vapor de agua y ácidos inorgánicos",
+    "learn": "Protactinio"
+  },
+  "64": {
+    "word": "U",
+    "clue": "Un metal de color gris plateado en la serie de actínidos de la tabla periódica",
+    "learn": "Uranio"
+  },
+  "65": {
+    "word": "Np",
+    "clue": "Su posición en la tabla periódica es justo después del uranio, nombrado así por el planeta Urano",
+    "learn": "Neptunio"
+  },
+  "66": {
+    "word": "Pu",
+    "clue": "Es un metal actínido de apariencia gris plateado que se oscurece al exponerse al aire y forma un recubrimiento opaco cuando se oxida",
+    "learn": "Plutonio"
+  },
+  "67": {
+    "word": "Am",
+    "clue": "Es un miembro transuránico de la serie de actínidos, en la tabla periódica situado debajo del elemento lantánido europio",
+    "learn": "Americio"
+  },
+  "68": {
+    "word": "Cm",
+    "clue": "Este elemento actínido fue nombrado en honor a los eminentes científicos Marie y Pierre Curie, ambos conocidos por su investigación sobre la radiactividad",
+    "learn": "Curio"
+  },
+  "69": {
+    "word": "Bk",
+    "clue": "Lleva el nombre de la ciudad de Berkeley, California, la ubicación del Laboratorio Nacional de Lawrence Berkeley donde fue descubierto en diciembre de 1949",
+    "learn": "Berkelio"
+  },
+  "70": {
+    "word": "Cf",
+    "clue": "El elemento fue sintetizado por primera vez en 1950 en el Laboratorio Nacional de Lawrence Berkeley (entonces Laboratorio de Radiación de la Universidad de California)",
+    "learn": "Californio"
+  },
+  "71": {
+    "word": "Es",
+    "clue": "Fue nombrado en honor a Albert Einstein",
+    "learn": "Einstenio"
+  },
+  "72": {
+    "word": "Fm",
+    "clue": "Es un actínido y el elemento más pesado que puede formarse mediante la bombardearlo con neutrones de elementos más ligeros",
+    "learn": "Fermio"
+  },
+  "73": {
+    "word": "Al",
+    "clue": "Es el metal más abundante en la corteza terrestre, donde es el tercer elemento más abundante después del oxígeno y el silicio",
+    "learn": "Aluminio"
+  },
+  "74": {
+    "word": "Ga",
+    "clue": "Descubierto por el químico francés Paul-Émile Lecoq de Boisbaudran en 1875",
+    "learn": "Galio"
+  },
+  "75": {
+    "word": "Sn",
+    "clue": "El estaño es un metal post-transición en el grupo 14 de la tabla periódica de elementos",
+    "learn": "Estaño"
+  },
+  "76": {
+    "word": "Tl",
+    "clue": "Es un metal post-transición gris que no se encuentra libre en la naturaleza",
+    "learn": "Talio"
+  },
+  "77": {
+    "word": "Pb",
+    "clue": "Es un metal pesado que es más denso que la mayoría de los materiales comunes",
+    "learn": "Plomo"
+  },
+  "78": {
+    "word": "Po",
+    "clue": "Un metal raro y altamente radiactivo sin isótopos estables",
+    "learn": "Polonio"
+  },
+  "79": {
+    "word": "Sc",
+    "clue": "Es un elemento metálico de transición de color plateado-blanco",
+    "learn": "Escandio"
+  },
+  "80": {
+    "word": "Ti",
+    "clue": "Descubierto en Cornualles, Gran Bretaña, por William Gregor en 1791 y nombrado en honor a los Titanes de la mitología griega por Martin Heinrich Klaproth",
+    "learn": "Titanio"
+  },
+  "81": {
+    "word": "V",
+    "clue": "Es un metal de transición duro, de color gris plateado y maleable",
+    "learn": "Vanadio"
+  },
+  "82": {
+    "word": "Cr",
+    "clue": "Es un metal de transición de color gris acerado, brillante, duro y quebradizo",
+    "learn": "Cromo"
+  },
+  "83": {
+    "word": "Mn",
+    "clue": "Es un metal quebradizo y duro de color plateado, a menudo encontrado en minerales en combinación con hierro",
+    "learn": "Manganeso"
+  },
+  "84": {
+    "word": "Fe",
+    "clue": "Es, en masa, el elemento más común en la Tierra, justo por delante del oxígeno (32.1% y 30.1%, respectivamente)",
+    "learn": "Hierro"
+  },
+  "85": {
+    "word": "Co",
+    "clue": "El elemento libre, producido por fundición reductora, es un metal duro y brillante de color plateado",
+    "learn": "Cobalto"
+  },
+  "86": {
+    "word": "Ni",
+    "clue": "Es un metal brillante y plateado con un ligero tono dorado",
+    "learn": "Níquel"
+  },
+  "87": {
+    "word": "Cu",
+    "clue": "Un metal rojizo ampliamente utilizado en la industria eléctrica y electrónica, así como en la fabricación de cables y alambres",
+    "learn": "Cobre"
+  },
+  "88": {
+    "word": "Zn",
+    "clue": "Un metal de color plateado utilizado en galvanización y en la producción de aleaciones y recubrimientos protectores",
+    "learn": "Zinc"
+  },
+  "89": {
+    "word": "Y",
+    "clue": "Un metal de color plateado utilizado en la producción de lámparas de arco, superconductores y aleaciones de alta temperatura",
+    "learn": "Itrio"
+  },
+  "90": {
+    "word": "Zr",
+    "clue": "Un metal grisáceo resistente a la corrosión, utilizado en la fabricación de aleaciones de alta resistencia y en la industria nuclear",
+    "learn": "Zirconio"
+  },
+  "91": {
+    "word": "Nb",
+    "clue": "Es un metal de transición de color gris claro, cristalino y dúctil",
+    "learn": "Niobio"
+  },
+  "92": {
+    "word": "Mo",
+    "clue": "El elemento fue descubierto en 1778 por Carl Wilhelm Scheele",
+    "learn": "Molibdeno"
+  },
+  "93": {
+    "word": "Tc",
+    "clue": "Es el elemento más ligero cuyos isótopos son todos radiactivos",
+    "learn": "Tecnecio"
+  },
+  "94": {
+    "word": "Ru",
+    "clue": "Es un metal de transición raro que pertenece al grupo del platino en la tabla periódica",
+    "learn": "Rutenio"
+  },
+  "95": {
+    "word": "Rh",
+    "clue": "Es un metal noble muy raro, de color plateado-blanco, duro y resistente a la corrosión. Es un metal noble y un miembro del grupo del platino",
+    "learn": "Rutenio"
+  },
+  "96": {
+    "word": "Pd",
+    "clue": "Un metal de color plateado-blanco con un bajo punto de fusión utilizado en convertidores catalíticos, joyería y aplicaciones dentales",
+    "learn": "Paladio"
+  },
+  "97": {
+    "word": "Ag",
+    "clue": "Un metal de transición suave, blanco y lustroso, que exhibe la mayor conductividad eléctrica, conductividad térmica y reflectividad de cualquier metal",
+    "learn": "Plata"
+  },
+  "98": {
+    "word": "Cd",
+    "clue": "Este metal suave, de color blanco plateado, es químicamente similar a los otros dos metales estables del grupo 12, zinc y mercurio",
+    "learn": "Cadmio"
+  },
+  "99": {
+    "word": "Hf",
+    "clue": "Su existencia fue predicha por Dmitri Mendeléyev en 1869, aunque no fue identificado hasta 1923 por Dirk Coster y George de Hevesy",
+    "learn": "Hafnio"
+  },
+  "100": {
+    "word": "Ta",
+    "clue": "Está nombrado en honor a Tántalo, una figura de la mitología griega",
+    "learn": "Tantalio"
+  },
+  "101": {
+    "word": "W",
+    "clue": "Es un metal brillante de color plateado que se utiliza en la fabricación de filamentos de lámparas incandescentes",
+    "learn": "Wolframio"
+  },
+  "102": {
+    "word": "Re",
+    "clue": "Es un metal de transición pesado de color gris plateado en el grupo 7 de la tabla periódica",
+    "learn": "Renio"
+  },
+  "103": {
+    "word": "Os",
+    "clue": "Es un metal de transición duro y quebradizo de color blanco azulado que se encuentra como elemento traza en aleaciones, principalmente en minerales de platino",
+    "learn": "Osmio"
+  },
+  "104": {
+    "word": "Ir",
+    "clue": "Un metal de transición muy duro y quebradizo de color plateado, se considera el segundo metal más denso que ocurre naturalmente",
+    "learn": "Iridio"
+  },
+  "105": {
+    "word": "Pt",
+    "clue": "Es un metal de transición denso, maleable, dúctil, altamente inerte, precioso y de color plateado",
+    "learn": "Platino"
+  },
+  "106": {
+    "word": "Au",
+    "clue": "Es un metal brillante de color amarillo ligeramente anaranjado, denso, suave, maleable y dúctil en forma pura",
+    "learn": "Oro"
+  },
+  "107": {
+    "word": "Hg",
+    "clue": "También es conocido como mercurio y fue denominado anteriormente hydrargyrum a partir de las palabras griegas hydor (agua) y argyros (plata)",
+    "learn": "Mercurio"
+  },
+  "108": {
+    "word": "Rf",
+    "clue": "Como elemento sintético, no se encuentra en la naturaleza y solo puede ser producido en un acelerador de partículas",
+    "learn": "Rutherfordio"
+  },
+  "109": {
+    "word": "B",
+    "clue": "En su forma cristalina es un metaloide quebradizo y oscuro; en su forma amorfa es un polvo marrón",
+    "learn": "Boro"
+  },
+  "110": {
+    "word": "Si",
+    "clue": "Es un sólido cristalino duro y quebradizo con un lustre metálico azul-grisáceo, y es un metaloide tetravalente y semiconductor",
+    "learn": "Silicio"
+  },
+  "111": {
+    "word": "Ge",
+    "clue": "Es un metaloide del grupo del carbono que es químicamente similar a sus vecinos del grupo, silicio y estaño",
+    "learn": "Germanio"
+  },
+  "112": {
+    "word": "As",
+    "clue": "Tiene varias alótropas, pero solo la forma gris, que tiene una apariencia metálica, es importante para la industria",
+    "learn": "Arsénico"
+  },
+  "113": {
+    "word": "Sb",
+    "clue": "Un metaloide gris lustroso, se encuentra en la naturaleza principalmente como el mineral sulfuro de estibina",
+    "learn": "Antimonio"
+  },
+  "114": {
+    "word": "Te",
+    "clue": "Es un metaloide quebradizo, ligeramente tóxico, raro y de color plateado",
+    "learn": "Telurio"
+  },
+  "115": {
+    "word": "H",
+    "clue": "Es incoloro, inodoro, insípido, no tóxico y altamente combustible",
+    "learn": "Hidrógeno"
+  },
+  "116": {
+    "word": "C",
+    "clue": "Es no metálico y tetravalente; su átomo proporciona cuatro electrones para formar enlaces químicos covalentes",
+    "learn": "Carbono"
+  },
+  "117": {
+    "word": "N",
+    "clue": "Es un elemento común en el universo, estimado en séptimo en abundancia total en la Vía Láctea y el Sistema Solar",
+    "learn": "Nitrógeno"
+  },
+  "118": {
+    "word": "O",
+    "clue": "Es el tercer elemento más abundante en el universo",
+    "learn": "Oxígeno"
+  },
+  "119": {
+    "word": "F",
+    "clue": "Es el halógeno más ligero y existe en condiciones estándar como un gas diatómico altamente tóxico de color amarillo pálido",
+    "learn": "Flúor"
+  },
+  "120": {
+    "word": "P",
+    "clue": "Tiene una concentración en la corteza terrestre de aproximadamente un gramo por kilogramo (comparar con el cobre que tiene alrededor de 0.06 gramos)",
+    "learn": "Fósforo"
+  },
+  "121": {
+    "word": "S",
+    "clue": "El mayor uso comercial del elemento es la producción de ácido sulfúrico para fertilizantes de sulfato y fosfato",
+    "learn": "Azufre"
+  },
+  "122": {
+    "word": "Cl",
+    "clue": "El segundo más ligero de los halógenos, aparece entre el flúor y el bromo en la tabla periódica",
+    "learn": "Cloro"
+  },
+  "123": {
+    "word": "Se",
+    "clue": "Es un no metal con propiedades intermedias entre los elementos arriba y abajo en la tabla periódica",
+    "learn": "Selenio"
+  },
+  "124": {
+    "word": "Br",
+    "clue": "Es un líquido rojo-marrón volátil a temperatura ambiente que se evapora fácilmente para formar un vapor de color similar",
+    "learn": "Bromo"
+  },
+  "125": {
+    "word": "I",
+    "clue": "El más pesado de los halógenos estables",
+    "learn": "Yodo"
+  },
+  "126": {
+    "word": "O",
+    "clue": "Es el tercer elemento más abundante en el universo",
+    "learn": "Oxígeno"
+  },
+  "127": {
+    "word": "He",
+    "clue": "Es un gas incoloro, inodoro, insípido, no tóxico e inerte y el primero en el grupo de gases nobles en la tabla periódica",
+    "learn": "Helio"
+  },
+  "128": {
+    "word": "Ne",
+    "clue": "Fue descubierto (junto con el criptón y el xenón) en 1898 como uno de los tres elementos inertes residuales restantes en el aire seco",
+    "learn": "Neón"
+  },
+  "129": {
+    "word": "Ar",
+    "clue": "Es el tercer gas más abundante en la atmósfera de la Tierra",
+    "learn": "Argón"
+  },
+  "130": {
+    "word": "Kr",
+    "clue": "Es un gas noble incoloro, inodoro e insípido que ocurre en cantidades traza en la atmósfera",
+    "learn": "Kripton"
+  },
+  "131": {
+    "word": "Xe",
+    "clue": "Es un gas noble denso, incoloro e inodoro que se encuentra en la atmósfera de la Tierra en cantidades traza",
+    "learn": "Xenón"
+  },
+  "132": {
+    "word": "Rn",
+    "clue": "Es un gas noble radiactivo, incoloro, inodoro e insípido",
+    "learn": "Radón"
+  },
+  "133": {
+    "word": "NaOH",
+    "clue": "Un compuesto alcalino fuerte que se disocia en agua para formar iones hidróxido",
+    "learn": "Hidróxido de sodio"
+  },
+  "134": {
+    "word": "KOH",
+    "clue": "Un álcali fuerte, comúnmente utilizado en la fabricación de jabón y como reactivo de laboratorio",
+    "learn": "Hidróxido de potasio"
+  },
+  "135": {
+    "word": "Ca(OH)2",
+    "clue": "Es un cristal incoloro o un polvo blanco y se produce cuando se mezcla cal viva con agua",
+    "learn": "Hidróxido de calcio"
+  },
+  "136": {
+    "word": "Mg(OH)2",
+    "clue": "Un compuesto inorgánico comúnmente utilizado como antiácido y laxante",
+    "learn": "Hidróxido de magnesio"
+  },
+  "137": {
+    "word": "NH4OH",
+    "clue": "Una solución básica incolora que se produce al disolver gas amoníaco en agua",
+    "learn": "Hidróxido de amonio"
+  },
+  "138": {
+    "word": "LiOH",
+    "clue": "Puede existir como anhidro o hidratado, y ambas formas son sólidos blancos higroscópicos. Son solubles en agua y ligeramente solubles en etanol",
+    "learn": "Hidróxido de litio"
+  },
+  "139": {
+    "word": "H2O",
+    "clue": "Es una sustancia química transparente, insípida, inodora y casi incolora",
+    "learn": "Agua"
+  },
+  "140": {
+    "word": "CO2",
+    "clue": "Es un gas incoloro con una densidad aproximadamente un 60% mayor que la del aire seco",
+    "learn": "Dióxido de carbono"
+  },
+  "141": {
+    "word": "Cl2",
+    "clue": "Este gas se utiliza ampliamente en la producción de productos de limpieza para el hogar y tratamientos para piscinas, pero la exposición a altas concentraciones puede ser extremadamente peligrosa",
+    "learn": "Gas cloro"
+  },
+  "142": {
+    "word": "NH3",
+    "clue": "Es un gas incoloro con un olor característico y penetrante",
+    "learn": "Amoníaco"
+  },
+  "143": {
+    "word": "H2O2",
+    "clue": "En su forma pura, es un líquido azul pálido que es ligeramente más viscoso que el agua",
+    "learn": "Peróxido de hidrógeno"
+  },
+  "144": {
+    "word": "C2H5OH",
+    "clue": "Es un líquido incoloro y inflamable con un olor característico que es el principal ingrediente activo en las bebidas alcohólicas",
+    "learn": "Etanol"
+  },
+  "145": {
+    "word": "C6H12O6",
+    "clue": "Es un azúcar simple que es una fuente de energía importante en los organismos vivos y es un componente de muchos carbohidratos",
+    "learn": "Glucosa"
+  },
+  "146": {
+    "word": "CH4",
+    "clue": "Es un gas incoloro, inodoro, no tóxico y flamable con un olor característico",
+    "learn": "Metano"
+  },
+  "147": {
+    "word": "CH3COOH",
+    "clue": "Es un líquido ácido, incoloro y un compuesto orgánico",
+    "learn": "Ácido acético"
+  },
+  "148": {
+    "word": "C12H22O11",
+    "clue": "Es un disacárido compuesto de glucosa y fructosa",
+    "learn": "Sacarosa"
+  },
+  "149": {
+    "word": "ATP",
+    "clue": "Es un nucleótido que es la fuente primaria de energía para todas las células",
+    "learn": "Adenosín trifosfato"
+  },
+  "150": {
+    "word": "C27H46O",
+    "clue": "Es una sustancia cerosa y similar a la grasa que es un componente estructural en las membranas celulares de los animales",
+    "learn": "Colesterol"
+  },
+  "151": {
+    "word": "NaCl",
+    "clue": "Es la sal más responsable de la salinidad del agua de mar y del líquido extracelular de muchos organismos multicelulares",
+    "learn": "Cloruro de sodio"
+  },
+  "152": {
+    "word": "CaCO3",
+    "clue": "Es una sustancia común que se encuentra en las rocas como los minerales calcita y aragonita",
+    "learn": "Carbonato de calcio"
+  },
+  "153": {
+    "word": "HNO3",
+    "clue": "El compuesto es incoloro, pero las muestras más antiguas tienden a tener un tono amarillo debido a la descomposición en óxidos de nitrógeno",
+    "learn": "Ácido nítrico"
+  },
+  "154": {
+    "word": "CaSO4",
+    "clue": "Un determinado hidrato es mejor conocido como yeso de París, y otro ocurre naturalmente como el mineral yeso",
+    "learn": "Sulfato de calcio"
+  },
+  "155": {
+    "word": "HCl",
+    "clue": "Se clasifica como un ácido fuerte",
+    "learn": "Ácido clorhídrico"
+  },
+  "156": {
+    "word": "NaHCO3",
+    "clue": "Es un sólido blanco que es cristalino, pero a menudo aparece como un polvo fino",
+    "learn": "Bicarbonato de sodio"
+  },
+  "157": {
+    "word": "H2SO4",
+    "clue": "Es un ácido mineral compuesto por los elementos azufre, oxígeno e hidrógeno",
+    "learn": "Ácido sulfúrico"
+  },
+  "158": {
+    "word": "H3PO4",
+    "clue": "Es un sólido incoloro e inodoro que contiene fósforo y es un compuesto inorgánico",
+    "learn": "Ácido fosfórico"
+  },
+  "159": {
+    "word": "HF",
+    "clue": "Se utiliza para hacer la mayoría de los compuestos que contienen flúor",
+    "learn": "Ácido fluorhídrico"
+  },
+  "160": {
+    "word": "C6H8O7",
+    "clue": "Es un ácido orgánico débil e incoloro",
+    "learn": "Ácido cítrico"
+  },
+  "161": {
+    "word": "HCOOH",
+    "clue": "Es un intermediario importante en la síntesis química y ocurre naturalmente, notablemente en algunas hormigas",
+    "learn": "Ácido fórmico"
+  },
+  "162": {
+    "word": "C4H8O2",
+    "clue": "Fue observado por primera vez en forma impura en 1814 por el químico francés Michel Eugène Chevreul",
+    "learn": "Ácido butírico"
+  },
+  "163": {
+    "word": "MgSO4",
+    "clue": "Se obtiene generalmente directamente de lechos de lagos secos y otras fuentes naturales",
+    "learn": "Sulfato de magnesio"
+  },
+  "164": {
+    "word": "KNO3",
+    "clue": "Es uno de varios compuestos que contienen nitrógeno que se conocen colectivamente como salitre",
+    "learn": "Nitrato de potasio"
+  },
+  "165": {
+    "word": "Ca3(PO4)2",
+    "clue": "Se produce comercialmente tratando hidroxiapatita con ácido fosfórico y cal apagada",
+    "learn": "Fosfato tricálcico"
+  },
+  "166": {
+    "word": "Al2O3",
+    "clue": "Se llama comúnmente alúmina y también puede llamarse alóxido, aloxito o alundum en varias formas y aplicaciones",
+    "learn": "Óxido de aluminio"
+  },
+  "167": {
+    "word": "CuSO4",
+    "clue": "Es una sal que es una combinación de cobre y sulfato",
+    "learn": "Sulfato de cobre(II)"
+  },
+  "168": {
+    "word": "AgNO3",
+    "clue": "Es un precursor versátil de muchos otros compuestos de plata",
+    "learn": "Nitrato de plata"
+  },
+  "169": {
+    "word": "Mt",
+    "clue": "Se calcula que tiene propiedades similares a sus homólogos más ligeros, cobalto, rodio e iridio",
+    "learn": "Meitnerio"
+  },
+  "170": {
+    "word": "Ds",
+    "clue": "Este elemento lleva el nombre de la ciudad en Alemania donde fue descubierto",
+    "learn": "Darmstadtium"
+  },
+  "171": {
+    "word": "Rg",
+    "clue": "Este elemento lleva el nombre del físico alemán que descubrió los rayos X",
+    "learn": "Roentgenium"
+  },
+  "172": {
+    "word": "Cn",
+    "clue": "Este elemento lleva el nombre del astrónomo polaco que propuso el modelo heliocéntrico del sistema solar",
+    "learn": "Copernicium"
+  },
+  "173": {
+    "word": "Nh",
+    "clue": "Este elemento lleva el nombre del país en Asia donde fue sintetizado por primera vez",
+    "learn": "Nihonium"
+  },
+  "174": {
+    "word": "Fl",
+    "clue": "Se llama así en honor al Laboratorio Flerov de Reacciones Nucleares del Instituto Conjunto de Investigación Nuclear en Dubna, Rusia, donde fue descubierto en 1999",
+    "learn": "Flerovium"
+  }
+}
