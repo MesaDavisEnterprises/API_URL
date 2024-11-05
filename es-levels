@@ -1,0 +1,821 @@
+{
+  "1": {
+    "name": "Química General"
+  },
+  "2": {
+    "name": "Química Orgánica"
+  },
+  "3": {
+    "name": "Química Inorgánica"
+  },
+  "4": {
+    "name": "Termodinámica"
+  },
+  "5": {
+    "name": "Cinética Química"
+  },
+  "6": {
+    "name": "Electroquímica"
+  },
+  "7": {
+    "name": "Metales Alcalinos"
+  },
+  "8": {
+    "name": "Metales Alcalinotérreos"
+  },
+  "9": {
+    "name": "Lantanoides I"
+  },
+  "10": {
+    "name": "Lantanoides II"
+  },
+  "11": {
+    "name": "Actinoides I"
+  },
+  "12": {
+    "name": "Actinoides II"
+  },
+  "13": {
+    "name": "Metales Post-Transición"
+  },
+  "14": {
+    "name": "Metales de Transición I"
+  },
+  "15": {
+    "name": "Metales de Transición II"
+  },
+  "16": {
+    "name": "Metales de Transición III"
+  },
+  "17": {
+    "name": "Metales de Transición IV"
+  },
+  "18": {
+    "name": "Metales de Transición V"
+  },
+  "19": {
+    "name": "Metaloides"
+  },
+  "20": {
+    "name": "No Metales Reactivos I"
+  },
+  "21": {
+    "name": "No Metales Reactivos II"
+  },
+  "22": {
+    "name": "Gases Nobles"
+  },
+  "23": {
+    "name": "Compuestos Básicos I"
+  },
+  "24": {
+    "name": "Compuestos Covalentes I"
+  },
+  "25": {
+    "name": "Compuestos Orgánicos I"
+  },
+  "26": {
+    "name": "Compuestos Inorgánicos I"
+  },
+  "27": {
+    "name": "Compuestos Ácidos I"
+  },
+  "28": {
+    "name": "Compuestos Iónicos I"
+  },
+  "29": {
+    "name": "Elementos Sintéticos"
+  },
+  "30": {
+    "name": "Números 1"
+  },
+  "31": {
+    "name": "Números 2"
+  },
+  "32": {
+    "name": "Colores 1"
+  },
+  "33": {
+    "name": "Colores 2"
+  },
+  "34": {
+    "name": "Pronombres"
+  },
+  "35": {
+    "name": "Preguntas WH"
+  },
+  "36": {
+    "name": "Alimentos 1"
+  },
+  "37": {
+    "name": "Alimentos 2"
+  },
+  "38": {
+    "name": "Alimentos 3"
+  },
+  "39": {
+    "name": "Profesiones 1"
+  },
+  "40": {
+    "name": "Profesiones 2"
+  },
+  "41": {
+    "name": "Profesiones 3"
+  },
+  "42": {
+    "name": "Pasatiempos 1"
+  },
+  "43": {
+    "name": "Pasatiempos 2"
+  },
+  "44": {
+    "name": "Pasatiempos 3"
+  },
+  "45": {
+    "name": "Animales 1"
+  },
+  "46": {
+    "name": "Animales 2"
+  },
+  "47": {
+    "name": "Animales 3"
+  },
+  "48": {
+    "name": "Transporte 1"
+  },
+  "49": {
+    "name": "Transporte 2"
+  },
+  "50": {
+    "name": "Transporte 3"
+  },
+  "51": {
+    "name": "Verbos 1"
+  },
+  "52": {
+    "name": "Verbos 2"
+  },
+  "53": {
+    "name": "Verbos 3"
+  },
+  "54": {
+    "name": "Números 1"
+  },
+  "55": {
+    "name": "Números 2"
+  },
+  "56": {
+    "name": "Colores 1"
+  },
+  "57": {
+    "name": "Colores 2"
+  },
+  "58": {
+    "name": "Pronombres"
+  },
+  "59": {
+    "name": "Preguntas WH"
+  },
+  "60": {
+    "name": "Comidas 1"
+  },
+  "61": {
+    "name": "Comidas 2"
+  },
+  "62": {
+    "name": "Comidas 3"
+  },
+  "63": {
+    "name": "Profesiones 1"
+  },
+  "64": {
+    "name": "Profesiones 2"
+  },
+  "65": {
+    "name": "Profesiones 3"
+  },
+  "66": {
+    "name": "Palabras de deportes 1"
+  },
+  "67": {
+    "name": "Palabras de deportes 2"
+  },
+  "68": {
+    "name": "Palabras de deportes 3"
+  },
+  "69": {
+    "name": "Palabras del hogar 1"
+  },
+  "70": {
+    "name": "Palabras del hogar 2"
+  },
+  "71": {
+    "name": "Palabras del hogar 3"
+  },
+  "72": {
+    "name": "Animales 1"
+  },
+  "73": {
+    "name": "Animales 2"
+  },
+  "74": {
+    "name": "Animales 3"
+  },
+  "75": {
+    "name": "Transporte 1"
+  },
+  "76": {
+    "name": "Transporte 2"
+  },
+  "77": {
+    "name": "Transporte 3"
+  },
+  "78": {
+    "name": "Números 1"
+  },
+  "79": {
+    "name": "Números 2"
+  },
+  "80": {
+    "name": "Colores 1"
+  },
+  "81": {
+    "name": "Colores 2"
+  },
+  "82": {
+    "name": "Pronombres"
+  },
+  "83": {
+    "name": "Preguntas WH"
+  },
+  "84": {
+    "name": "Sustantivos 1"
+  },
+  "85": {
+    "name": "Sustantivos 2"
+  },
+  "86": {
+    "name": "Sustantivos 3"
+  },
+  "87": {
+    "name": "Comidas 1"
+  },
+  "88": {
+    "name": "Comidas 2"
+  },
+  "89": {
+    "name": "Comidas 3"
+  },
+  "90": {
+    "name": "Animales 1"
+  },
+  "91": {
+    "name": "Animales 2"
+  },
+  "92": {
+    "name": "Animales 3"
+  },
+  "93": {
+    "name": "Profesiones 1"
+  },
+  "94": {
+    "name": "Profesiones 2"
+  },
+  "95": {
+    "name": "Profesiones 3"
+  },
+  "96": {
+    "name": "Adjetivos 1"
+  },
+  "97": {
+    "name": "Adjetivos 2"
+  },
+  "98": {
+    "name": "Adjetivos 3"
+  },
+  "99": {
+    "name": "Verbos 1"
+  },
+  "100": {
+    "name": "Verbos 2"
+  },
+  "101": {
+    "name": "Verbos 3"
+  },
+  "102": {
+    "name": "Computación fundamental 1"
+  },
+  "103": {
+    "name": "Computación fundamental 2"
+  },
+  "104": {
+    "name": "Computación fundamental 3"
+  },
+  "105": {
+    "name": "Computación fundamental 4"
+  },
+  "106": {
+    "name": "Computación fundamental 5"
+  },
+  "107": {
+    "name": "Computación fundamental 6"
+  },
+  "108": {
+    "name": "Hardware 1"
+  },
+  "109": {
+    "name": "Hardware 2"
+  },
+  "110": {
+    "name": "Hardware 3"
+  },
+  "111": {
+    "name": "Hardware 4"
+  },
+  "112": {
+    "name": "Hardware 5"
+  },
+  "113": {
+    "name": "Software 1"
+  },
+  "114": {
+    "name": "Software 2"
+  },
+  "115": {
+    "name": "Software 3"
+  },
+  "116": {
+    "name": "Software 4"
+  },
+  "117": {
+    "name": "Software 5"
+  },
+  "118": {
+    "name": "Software 6"
+  },
+  "119": {
+    "name": "Redes 1"
+  },
+  "120": {
+    "name": "Redes 2"
+  },
+  "121": {
+    "name": "Redes 3"
+  },
+  "122": {
+    "name": "Redes 4"
+  },
+  "123": {
+    "name": "Redes 5"
+  },
+  "124": {
+    "name": "Seguridad 1"
+  },
+  "125": {
+    "name": "Seguridad 2"
+  },
+  "126": {
+    "name": "Seguridad 3"
+  },
+  "127": {
+    "name": "Seguridad 4"
+  },
+  "128": {
+    "name": "Seguridad 5"
+  },
+  "129": {
+    "name": "Seguridad 6"
+  },
+  "130": {
+    "name": "Economía Fundamental 1"
+  },
+  "131": {
+    "name": "Economía Fundamental 2"
+  },
+  "132": {
+    "name": "Economía Fundamental 3"
+  },
+  "133": {
+    "name": "Economía Fundamental 4"
+  },
+  "134": {
+    "name": "Macroeconomía 1"
+  },
+  "135": {
+    "name": "Macroeconomía 2"
+  },
+  "136": {
+    "name": "Macroeconomía 3"
+  },
+  "137": {
+    "name": "Macroeconomía 4"
+  },
+  "138": {
+    "name": "Microeconomía 1"
+  },
+  "139": {
+    "name": "Microeconomía 2"
+  },
+  "140": {
+    "name": "Microeconomía 3"
+  },
+  "141": {
+    "name": "Microeconomía 4"
+  },
+  "142": {
+    "name": "Números 1"
+  },
+  "143": {
+    "name": "Números 2"
+  },
+  "144": {
+    "name": "Colores 1"
+  },
+  "145": {
+    "name": "Colores 2"
+  },
+  "146": {
+    "name": "Pronombres"
+  },
+  "147": {
+    "name": "Preguntas WH"
+  },
+  "148": {
+    "name": "Sustantivos 1"
+  },
+  "149": {
+    "name": "Sustantivos 2"
+  },
+  "150": {
+    "name": "Sustantivos 3"
+  },
+  "151": {
+    "name": "Comidas 1"
+  },
+  "152": {
+    "name": "Comidas 2"
+  },
+  "153": {
+    "name": "Comidas 3"
+  },
+  "154": {
+    "name": "Animales 1"
+  },
+  "155": {
+    "name": "Animales 2"
+  },
+  "156": {
+    "name": "Animales 3"
+  },
+  "157": {
+    "name": "Profesiones 1"
+  },
+  "158": {
+    "name": "Profesiones 2"
+  },
+  "159": {
+    "name": "Profesiones 3"
+  },
+  "160": {
+    "name": "Adjetivos 1"
+  },
+  "161": {
+    "name": "Adjetivos 2"
+  },
+  "162": {
+    "name": "Adjetivos 3"
+  },
+  "163": {
+    "name": "Verbos 1"
+  },
+  "164": {
+    "name": "Verbos 2"
+  },
+  "165": {
+    "name": "Verbos 3"
+  },
+  "166": {
+    "name": "Números 1"
+  },
+  "167": {
+    "name": "Números 2"
+  },
+  "168": {
+    "name": "Colores 1"
+  },
+  "169": {
+    "name": "Colores 2"
+  },
+  "170": {
+    "name": "Pronombres"
+  },
+  "171": {
+    "name": "Preguntas WH"
+  },
+  "172": {
+    "name": "Sustantivos 1"
+  },
+  "173": {
+    "name": "Sustantivos 2"
+  },
+  "174": {
+    "name": "Sustantivos 3"
+  },
+  "175": {
+    "name": "Comidas 1"
+  },
+  "176": {
+    "name": "Comidas 2"
+  },
+  "177": {
+    "name": "Comidas 3"
+  },
+  "178": {
+    "name": "Animales 1"
+  },
+  "179": {
+    "name": "Animales 2"
+  },
+  "180": {
+    "name": "Animales 3"
+  },
+  "181": {
+    "name": "Profesiones 1"
+  },
+  "182": {
+    "name": "Profesiones 2"
+  },
+  "183": {
+    "name": "Profesiones 3"
+  },
+  "184": {
+    "name": "Adjetivos 1"
+  },
+  "185": {
+    "name": "Adjetivos 2"
+  },
+  "186": {
+    "name": "Adjetivos 3"
+  },
+  "187": {
+    "name": "Verbos 1"
+  },
+  "188": {
+    "name": "Verbos 2"
+  },
+  "189": {
+    "name": "Verbos 3"
+  },
+  "190": {
+    "name": "Números 1"
+  },
+  "191": {
+    "name": "Números 2"
+  },
+  "192": {
+    "name": "Colores 1"
+  },
+  "193": {
+    "name": "Colores 2"
+  },
+  "194": {
+    "name": "Pronombres"
+  },
+  "195": {
+    "name": "Preguntas WH"
+  },
+  "196": {
+    "name": "Sustantivos 1"
+  },
+  "197": {
+    "name": "Sustantivos 2"
+  },
+  "198": {
+    "name": "Sustantivos 3"
+  },
+  "199": {
+    "name": "Comidas 1"
+  },
+  "200": {
+    "name": "Comidas 2"
+  },
+  "201": {
+    "name": "Comidas 3"
+  },
+  "202": {
+    "name": "Animales 1"
+  },
+  "203": {
+    "name": "Animales 2"
+  },
+  "204": {
+    "name": "Animales 3"
+  },
+  "205": {
+    "name": "Profesiones 1"
+  },
+  "206": {
+    "name": "Profesiones 2"
+  },
+  "207": {
+    "name": "Profesiones 3"
+  },
+  "208": {
+    "name": "Adjetivos 1"
+  },
+  "209": {
+    "name": "Adjetivos 2"
+  },
+  "210": {
+    "name": "Adjetivos 3"
+  },
+  "211": {
+    "name": "Verbos 1"
+  },
+  "212": {
+    "name": "Verbos 2"
+  },
+  "213": {
+    "name": "Verbos 3"
+  },
+  "214": {
+    "name": "Variables y Tipos de Datos"
+  },
+  "215": {
+    "name": "Operadores y Expresiones"
+  },
+  "216": {
+    "name": "Estructuras de Control"
+  },
+  "217": {
+    "name": "Estructuras de Datos Básicas"
+  },
+  "218": {
+    "name": "Funciones y Procedimientos"
+  },
+  "219": {
+    "name": "Manejo de Errores"
+  },
+  "220": {
+    "name": "POO"
+  },
+  "221": {
+    "name": "Ensamblador"
+  },
+  "222": {
+    "name": "Lenguajes Pioneros 1"
+  },
+  "223": {
+    "name": "Lenguajes Pioneros 2"
+  },
+  "224": {
+    "name": "Lenguajes de Programación 1"
+  },
+  "225": {
+    "name": "Lenguajes de Programación 2"
+  },
+  "226": {
+    "name": "Lenguajes de Programación 3"
+  },
+  "227": {
+    "name": "Lenguajes de Programación 4"
+  },
+  "228": {
+    "name": "Lenguajes de Programación 5"
+  },
+  "229": {
+    "name": "Lenguajes de Programación 6"
+  },
+  "230": {
+    "name": "Fundamentos de Frameworks"
+  },
+  "231": {
+    "name": "Conceptos Avanzados"
+  },
+  "232": {
+    "name": "Patrones de Frameworks"
+  },
+  "233": {
+    "name": "Optimización de Rendimiento"
+  },
+  "234": {
+    "name": "Seguridad en Frameworks"
+  },
+  "235": {
+    "name": "Pruebas de Frameworks"
+  },
+  "236": {
+    "name": "Fundamentos de Bases de Datos"
+  },
+  "237": {
+    "name": "Tipos de Bases de Datos"
+  },
+  "238": {
+    "name": "Consultas y Comandos (DML)"
+  },
+  "239": {
+    "name": "Estructura de Bases de Datos (DDL)"
+  },
+  "240": {
+    "name": "Transacciones y ACID"
+  },
+  "241": {
+    "name": "Optimización de Rendimiento"
+  },
+  "242": {
+    "name": "Seguridad en Bases de Datos"
+  },
+  "243": {
+    "name": "Fundamentos de Backend"
+  },
+  "244": {
+    "name": "Arquitecturas de Backend"
+  },
+  "245": {
+    "name": "Lenguajes de Backend"
+  },
+  "246": {
+    "name": "Frameworks de Backend"
+  },
+  "247": {
+    "name": "Bases de Datos en Backend"
+  },
+  "248": {
+    "name": "Seguridad en Backend"
+  },
+  "249": {
+    "name": "Rendimiento de Backend"
+  },
+  "250": {
+    "name": "Fundamentos de Frontend"
+  },
+  "251": {
+    "name": "Diseño y Estilo"
+  },
+  "252": {
+    "name": "Bibliotecas de Frontend"
+  },
+  "253": {
+    "name": "Gestión de Estado"
+  },
+  "254": {
+    "name": "Diseño Responsivo"
+  },
+  "255": {
+    "name": "Rendimiento de Frontend"
+  },
+  "256": {
+    "name": "Pruebas de Frontend"
+  },
+  "257": {
+    "name": "Cantidades Básicas"
+  },
+  "258": {
+    "name": "Unidades y Medición"
+  },
+  "259": {
+    "name": "Fuerzas en la Naturaleza"
+  },
+  "260": {
+    "name": "Formas de Energía"
+  },
+  "261": {
+    "name": "Leyes y Principios"
+  },
+  "262": {
+    "name": "Movimiento y Fuerzas"
+  },
+  "263": {
+    "name": "Leyes de Newton"
+  },
+  "264": {
+    "name": "Trabajo y Energía"
+  },
+  "265": {
+    "name": "Calor y Temperatura"
+  },
+  "266": {
+    "name": "Leyes de la Termodinámica"
+  },
+  "267": {
+    "name": "Transferencia de Calor"
+  },
+  "268": {
+    "name": "Conceptos Básicos de Electricidad"
+  },
+  "269": {
+    "name": "Campos Magnéticos"
+  },
+  "270": {
+    "name": "Inducción Electromagnética"
+  },
+  "271": {
+    "name": "Fundamentos de Ondas"
+  },
+  "272": {
+    "name": "Tipos de Ondas"
+  },
+  "273": {
+    "name": "Óptica"
+  }
+}
