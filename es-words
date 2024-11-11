@@ -832,5 +832,365 @@
     "word": "Fl",
     "clue": "Se llama así en honor al Laboratorio Flerov de Reacciones Nucleares del Instituto Conjunto de Investigación Nuclear en Dubna, Rusia, donde fue descubierto en 1999",
     "learn": "Flerovio"
+  },
+  "175": {
+    "word": "Economía",
+    "clue": "Es la ciencia social que estudia la producción, distribución y consumo de bienes y servicios",
+    "learn": ""
+  },
+  "176": {
+    "word": "Microeconomía",
+    "clue": "Es una rama de la economía que estudia el comportamiento de individuos y empresas en la toma de decisiones sobre la asignación de recursos limitados",
+    "learn": ""
+  },
+  "177": {
+    "word": "Macroeconomía",
+    "clue": "Es una rama de la economía que trata con el rendimiento, estructura, comportamiento y toma de decisiones de una economía en su conjunto",
+    "learn": ""
+  },
+  "178": {
+    "word": "Recursos",
+    "clue": "Es una fuente o suministro del que se produce un beneficio",
+    "learn": ""
+  },
+  "179": {
+    "word": "Trabajo",
+    "clue": "Es la cantidad de esfuerzo físico, mental y social utilizado para producir bienes y servicios en una economía",
+    "learn": ""
+  },
+  "180": {
+    "word": "Capital",
+    "clue": "Es un factor de producción que ha sido producido para su uso en la producción de otros bienes y servicios",
+    "learn": ""
+  },
+  "181": {
+    "word": "Escasez",
+    "clue": "Es el estado de estar en escasez o en suministro limitado; carencia",
+    "learn": ""
+  },
+  "182": {
+    "word": "Marginal",
+    "clue": "Es el costo adicional incurrido por producir una unidad más de un producto",
+    "learn": ""
+  },
+  "183": {
+    "word": "Variable",
+    "clue": "Es un elemento, característica o factor que puede variar o cambiar",
+    "learn": ""
+  },
+  "184": {
+    "word": "Equilibrio",
+    "clue": "Es un estado en el que fuerzas o influencias opuestas están balanceadas",
+    "learn": ""
+  },
+  "185": {
+    "word": "Mercado",
+    "clue": "Es una reunión regular de personas para la compra y venta de provisiones, ganado y otras mercancías",
+    "learn": ""
+  },
+  "186": {
+    "word": "Demanda",
+    "clue": "Es una solicitud insistente y perentoria, hecha como si fuera un derecho",
+    "learn": ""
+  },
+  "187": {
+    "word": "Oferta",
+    "clue": "Es un stock de un recurso del cual una persona o lugar puede ser provisto con la cantidad necesaria de ese recurso",
+    "learn": ""
+  },
+  "188": {
+    "word": "Precio",
+    "clue": "Es la cantidad de dinero esperada, requerida o dada en pago por algo",
+    "learn": ""
+  },
+  "189": {
+    "word": "Cantidad",
+    "clue": "Es la cantidad o número de una cosa material o abstracta que no suele estimarse por medida espacial",
+    "learn": ""
+  },
+  "190": {
+    "word": "Sustituto",
+    "clue": "Es una persona o cosa que actúa o sirve en lugar de otra",
+    "learn": ""
+  },
+  "191": {
+    "word": "Complemento",
+    "clue": "Es algo que completa o lleva a la perfección",
+    "learn": ""
+  },
+  "192": {
+    "word": "Elasticidad",
+    "clue": "Es la capacidad de un material para volver a su forma normal después de ser estirado o comprimido; elasticidad",
+    "learn": ""
+  },
+  "193": {
+    "word": "Inversión",
+    "clue": "Es la acción o proceso de invertir dinero para obtener un beneficio o resultado material",
+    "learn": ""
+  },
+  "194": {
+    "word": "Ganancia",
+    "clue": "Es un beneficio financiero, especialmente la diferencia entre lo ganado y lo gastado en la compra, operación o producción de algo",
+    "learn": ""
+  },
+  "195": {
+    "word": "Utilidad",
+    "clue": "Es el estado de ser útil, rentable o beneficioso",
+    "learn": ""
+  },
+  "196": {
+    "word": "Inflación",
+    "clue": "Es un aumento general de los precios y una caída en el valor adquisitivo del dinero",
+    "learn": ""
+  },
+  "197": {
+    "word": "Deflación",
+    "clue": "Es la reducción del nivel general de precios en una economía",
+    "learn": ""
+  },
+  "198": {
+    "word": "Recesión",
+    "clue": "Es un período de declive económico temporal durante el cual se reducen el comercio y la actividad industrial, generalmente identificado por una caída del PIB en dos trimestres sucesivos",
+    "learn": ""
+  },
+  "199": {
+    "word": "PIB",
+    "clue": "Es el valor total de bienes producidos y servicios prestados en un país durante un año",
+    "learn": ""
+  },
+  "200": {
+    "word": "PNB",
+    "clue": "Es el valor total de bienes producidos y servicios prestados por un país durante un año, igual al producto interno bruto más el ingreso neto de inversiones extranjeras",
+    "learn": ""
+  },
+  "201": {
+    "word": "INB",
+    "clue": "(Ingreso Nacional Bruto) Es el total de la producción interna y externa reclamada por los residentes de un país, que consiste en el PIB más los ingresos obtenidos por los residentes en el extranjero, menos los ingresos obtenidos en la economía doméstica por no residentes",
+    "learn": ""
+  },
+  "202": {
+    "word": "PIB per cápita",
+    "clue": "Es una medida de la producción económica de un país que tiene en cuenta su población",
+    "learn": ""
+  },
+  "203": {
+    "word": "PNB per cápita",
+    "clue": "Es una medida de la producción total de un país que toma el PIB y lo divide entre el número de habitantes del país",
+    "learn": ""
+  },
+  "204": {
+    "word": "INB per cápita",
+    "clue": "Es el valor en dólares del ingreso final de un país en un año, dividido entre su población",
+    "learn": ""
+  },
+  "205": {
+    "word": "Desempleo",
+    "clue": "Es un fenómeno que ocurre cuando una persona que busca empleo activamente no puede encontrar trabajo",
+    "learn": ""
+  },
+  "206": {
+    "word": "Inflación",
+    "clue": "Es un aumento sostenido del nivel general de precios de bienes y servicios en una economía durante un periodo de tiempo",
+    "learn": ""
+  },
+  "207": {
+    "word": "Deflación",
+    "clue": "Es una disminución del nivel general de precios de bienes y servicios",
+    "learn": ""
+  },
+  "208": {
+    "word": "Recesión",
+    "clue": "Es un periodo de declive económico temporal durante el cual el comercio y la actividad industrial se reducen, generalmente identificado por una caída del PIB en dos trimestres consecutivos",
+    "learn": ""
+  },
+  "209": {
+    "word": "Depresión",
+    "clue": "Es una recesión larga y severa en una economía o mercado",
+    "learn": ""
+  },
+  "210": {
+    "word": "Monopolio",
+    "clue": "Es la posesión o control exclusivo del suministro o comercio de un producto o servicio",
+    "learn": ""
+  },
+  "211": {
+    "word": "Costos Sociales",
+    "clue": "Los costos totales para la sociedad que incluyen tanto los costos privados como los costos externos",
+    "learn": ""
+  },
+  "212": {
+    "word": "Externalidades",
+    "clue": "Efectos secundarios o consecuencias no deseadas de una actividad industrial o comercial que afectan a otras partes sin reflejarse en el costo de los bienes o servicios involucrados",
+    "learn": ""
+  },
+  "213": {
+    "word": "Eficiencia",
+    "clue": "Es el estado o la cualidad de ser eficiente",
+    "learn": ""
+  },
+  "214": {
+    "word": "Fallo del Mercado",
+    "clue": "Es una situación en la que un mercado, por sí solo, no asigna recursos de manera eficiente",
+    "learn": ""
+  },
+  "215": {
+    "word": "Demanda Agregada",
+    "clue": "Es la demanda total de bienes y servicios en una economía a un nivel general de precios dado y en un periodo de tiempo determinado",
+    "learn": ""
+  },
+  "216": {
+    "word": "Oferta Agregada",
+    "clue": "Es la cantidad total de bienes y servicios que los productores en una economía están dispuestos y son capaces de suministrar a un nivel general de precios dado en un periodo de tiempo determinado",
+    "learn": ""
+  },
+  "217": {
+    "word": "Externalidades",
+    "clue": "Efectos secundarios no deseados de una actividad comercial o industrial que afectan a terceros sin que esto se refleje en el costo de los productos o servicios",
+    "learn": ""
+  },
+  "218": {
+    "word": "Política Fiscal",
+    "clue": "Uso del gobierno de impuestos y gastos para influir en la economía",
+    "learn": ""
+  },
+  "219": {
+    "word": "Política Monetaria",
+    "clue": "Gestión del banco central sobre la oferta monetaria y las tasas de interés para controlar la economía",
+    "learn": ""
+  },
+  "220": {
+    "word": "Elasticidad Cruzada",
+    "clue": "Medida de cómo cambia la cantidad demandada de un bien en respuesta a un cambio en el precio de otro bien",
+    "learn": ""
+  },
+  "221": {
+    "word": "Elasticidad",
+    "clue": "Es la capacidad de un material para recuperar su forma normal después de ser estirado o comprimido",
+    "learn": ""
+  },
+  "222": {
+    "word": "Inversión Pública",
+    "clue": "Gasto del gobierno en infraestructura y otros proyectos públicos",
+    "learn": ""
+  },
+  "223": {
+    "word": "Economía",
+    "clue": "Es la ciencia social que estudia la producción, distribución y consumo de bienes y servicios",
+    "learn": ""
+  },
+  "224": {
+    "word": "Microeconomía",
+    "clue": "Es una rama de la economía que estudia el comportamiento de individuos y empresas en la toma de decisiones sobre la asignación de recursos limitados",
+    "learn": ""
+  },
+  "225": {
+    "word": "Estructura de Mercado",
+    "clue": "Se refiere a las características organizacionales y competitivas de un mercado, incluyendo el número y tamaño de las empresas, condiciones de entrada y salida, y el grado de diferenciación de productos",
+    "learn": ""
+  },
+  "226": {
+    "word": "Recursos",
+    "clue": "Es una fuente o suministro del cual se produce un beneficio",
+    "learn": ""
+  },
+  "227": {
+    "word": "Trabajo",
+    "clue": "Es la cantidad de esfuerzo físico, mental y social utilizado para producir bienes y servicios en una economía",
+    "learn": ""
+  },
+  "228": {
+    "word": "Capital",
+    "clue": "Es un factor de producción que se ha producido para su uso en la producción de otros bienes y servicios",
+    "learn": ""
+  },
+  "229": {
+    "word": "Recursos Naturales",
+    "clue": "Es una fuente material de riqueza, como madera, agua dulce o un depósito mineral, que ocurre en un estado natural y tiene valor económico",
+    "learn": ""
+  },
+  "230": {
+    "word": "Salarios",
+    "clue": "Es un pago regular y fijo ganado por trabajo o servicios, generalmente pagado de forma diaria o semanal",
+    "learn": ""
+  },
+  "231": {
+    "word": "Interés",
+    "clue": "Es el cargo por el privilegio de pedir dinero prestado, generalmente expresado como una tasa porcentual anual",
+    "learn": ""
+  },
+  "232": {
+    "word": "Renta",
+    "clue": "Es el pago regular de un inquilino a un propietario por el uso de una propiedad o terreno",
+    "learn": ""
+  },
+  "233": {
+    "word": "Bien",
+    "clue": "Es un artículo que es útil para las personas pero escaso en relación con su demanda, lo que requiere esfuerzo humano para obtenerlo",
+    "learn": ""
+  },
+  "234": {
+    "word": "Servicio",
+    "clue": "Es un bien intangible en economía, como la contabilidad, banca, consultoría, etc.",
+    "learn": ""
+  },
+  "235": {
+    "word": "Demanda",
+    "clue": "Es una solicitud insistente y perentoria, hecha como si fuera un derecho",
+    "learn": ""
+  },
+  "236": {
+    "word": "Oferta",
+    "clue": "Es un stock de un recurso del cual una persona o lugar puede ser provisto con la cantidad necesaria de ese recurso",
+    "learn": ""
+  },
+  "237": {
+    "word": "Precio",
+    "clue": "Es la cantidad de dinero esperada, requerida o dada como pago por algo",
+    "learn": ""
+  },
+  "238": {
+    "word": "Cantidad",
+    "clue": "Es la cantidad o número de una cosa material o abstracta que no se suele estimar por medición espacial",
+    "learn": ""
+  },
+  "239": {
+    "word": "Sustituto",
+    "clue": "Es una persona o cosa que actúa o sirve en lugar de otra",
+    "learn": ""
+  },
+  "240": {
+    "word": "Complemento",
+    "clue": "Es algo que completa o lleva a la perfección",
+    "learn": ""
+  },
+  "241": {
+    "word": "Elasticidad",
+    "clue": "Es una medida en microeconomía de cuán sensible es la cantidad demandada o la cantidad ofrecida a los cambios en el precio",
+    "learn": ""
+  },
+  "242": {
+    "word": "Inversión",
+    "clue": "Es la compra de bienes que no se consumen hoy pero se usan en el futuro para crear riqueza en microeconomía",
+    "learn": ""
+  },
+  "243": {
+    "word": "Beneficio",
+    "clue": "Es la ganancia financiera en microeconomía, especialmente la diferencia entre los ingresos totales y los costos explícitos de producción",
+    "learn": ""
+  },
+  "244": {
+    "word": "Utilidad",
+    "clue": "Se refiere en microeconomía a la satisfacción o beneficio que obtienen los consumidores al consumir un bien o servicio",
+    "learn": ""
+  },
+  "245": {
+    "word": "Inflación",
+    "clue": "En microeconomía, hace que individuos y empresas enfrenten mayores ingresos nominales pero no necesariamente mayores ingresos reales",
+    "learn": ""
+  },
+  "246": {
+    "word": "Deflación",
+    "clue": "En microeconomía, aumenta el valor real del dinero que tienen y deben individuos o empresas",
+    "learn": ""
   }
 }
