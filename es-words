@@ -1192,5 +1192,845 @@
     "word": "Deflación",
     "clue": "En microeconomía, aumenta el valor real del dinero que tienen y deben individuos o empresas",
     "learn": ""
+  },
+  "247": {
+    "word": "Bit",
+    "clue": "Es la unidad más pequeña de datos en una computadora",
+    "learn": ""
+  },
+  "248": {
+    "word": "Byte",
+    "clue": "Una unidad de información digital que consiste en ocho bits",
+    "learn": ""
+  },
+  "249": {
+    "word": "Kilobyte",
+    "clue": "Una unidad de información digital equivalente a 1,024 bytes",
+    "learn": ""
+  },
+  "250": {
+    "word": "Megabyte",
+    "clue": "Es una unidad de información equivalente a 1,048,576 bytes",
+    "learn": ""
+  },
+  "251": {
+    "word": "Gigabyte",
+    "clue": "Una unidad de información digital equivalente a 1,073,741,824 bytes",
+    "learn": ""
+  },
+  "252": {
+    "word": "Terabyte",
+    "clue": "Es una unidad de información equivalente a 1,099,511,627,776 bytes",
+    "learn": ""
+  },
+  "253": {
+    "word": "Binario",
+    "clue": "Está relacionado con, usa o se expresa en un sistema de notación numérica que tiene 2 en lugar de 10 como base",
+    "learn": ""
+  },
+  "254": {
+    "word": "Algoritmo",
+    "clue": "Es un proceso o conjunto de reglas a seguir en cálculos u otras operaciones de resolución de problemas, especialmente por una computadora",
+    "learn": ""
+  },
+  "255": {
+    "word": "Hardware",
+    "clue": "Son las máquinas, cableado y otros componentes físicos de una computadora u otro sistema electrónico",
+    "learn": ""
+  },
+  "256": {
+    "word": "Software",
+    "clue": "Son los programas y otra información operativa utilizada por una computadora",
+    "learn": ""
+  },
+  "257": {
+    "word": "Entrada",
+    "clue": "Es la información o señales enviadas a un sistema informático para su procesamiento, como comandos, datos o interacciones de usuario",
+    "learn": ""
+  },
+  "258": {
+    "word": "Salida",
+    "clue": "Es la información que un sistema informático produce o presenta al usuario u otro sistema",
+    "learn": ""
+  },
+  "259": {
+    "word": "Sistema Operativo",
+    "clue": "Es el software que apoya las funciones básicas de una computadora, como programar tareas, ejecutar aplicaciones y controlar periféricos",
+    "learn": ""
+  },
+  "260": {
+    "word": "Aplicación",
+    "clue": "Es un programa de software diseñado para realizar una tarea o conjunto de tareas específicas para los usuarios finales",
+    "learn": ""
+  },
+  "261": {
+    "word": "Programa",
+    "clue": "Es un conjunto de instrucciones que una computadora puede seguir para realizar una tarea específica o lograr un resultado particular",
+    "learn": ""
+  },
+  "262": {
+    "word": "Compilador",
+    "clue": "Es un programa que traduce instrucciones a código máquina o a una forma de bajo nivel para que puedan ser leídas y ejecutadas por una computadora",
+    "learn": ""
+  },
+  "263": {
+    "word": "Intérprete",
+    "clue": "Es un programa que ejecuta directamente instrucciones escritas en un lenguaje de programación o secuencias de comandos sin requerir que sean compiladas previamente a un programa en lenguaje de máquina",
+    "learn": ""
+  },
+  "264": {
+    "word": "Ensamblador",
+    "clue": "Es un programa de utilidad que convierte el lenguaje ensamblador en código máquina",
+    "learn": ""
+  },
+  "265": {
+    "word": "ROM",
+    "clue": "Es un tipo de memoria no volátil utilizada en computadoras y otros dispositivos electrónicos",
+    "learn": ""
+  },
+  "266": {
+    "word": "BIOS",
+    "clue": "Es un conjunto de instrucciones de computadora en firmware que controlan las operaciones de entrada y salida",
+    "learn": ""
+  },
+  "267": {
+    "word": "Caché",
+    "clue": "Es un componente de hardware o software que almacena datos para que futuras solicitudes de esos datos puedan ser atendidas más rápidamente",
+    "learn": ""
+  },
+  "268": {
+    "word": "Bus",
+    "clue": "Es un sistema de comunicación que transfiere datos entre componentes dentro de una computadora o entre computadoras",
+    "learn": ""
+  },
+  "269": {
+    "word": "Datos",
+    "clue": "Cualquier información que es procesada o almacenada por un sistema informático, incluyendo texto, números, imágenes, audio y video",
+    "learn": ""
+  },
+  "270": {
+    "word": "Firmware",
+    "clue": "Software incrustado en un dispositivo o componente electrónico, diseñado para controlar su operación",
+    "learn": ""
+  },
+  "271": {
+    "word": "Storage",
+    "clue": "Es la acción o método de almacenar algo para su uso futuro",
+    "learn": ""
+  },
+  "272": {
+    "word": "Memoria",
+    "clue": "Es la parte de una computadora en la que los datos o instrucciones del programa pueden almacenarse para su recuperación",
+    "learn": ""
+  },
+  "273": {
+    "word": "CPU",
+    "clue": "Es la parte de una computadora en la que las operaciones son controladas y ejecutadas",
+    "learn": ""
+  },
+  "274": {
+    "word": "Placa Base",
+    "clue": "Es la placa de circuito impreso principal de una computadora que contiene la CPU, la memoria y los conectores para otros periféricos",
+    "learn": ""
+  },
+  "275": {
+    "word": "GPU",
+    "clue": "Es un circuito electrónico especializado diseñado para manipular y alterar rápidamente la memoria para acelerar la creación de imágenes en un búfer de trama destinado a la salida a un dispositivo de visualización",
+    "learn": ""
+  },
+  "276": {
+    "word": "RAM",
+    "clue": "Es un tipo de memoria de computadora que se puede acceder aleatoriamente, es decir, cualquier byte de memoria se puede acceder sin tocar los bytes anteriores",
+    "learn": ""
+  },
+  "277": {
+    "word": "Internet",
+    "clue": "Es una red global de computadoras y dispositivos conectados que se comunican entre sí utilizando protocolos estandarizados",
+    "learn": ""
+  },
+  "278": {
+    "word": "World Wide Web",
+    "clue": "Es un sistema de documentos de hipertexto interconectados que se acceden a través de Internet",
+    "learn": ""
+  },
+  "279": {
+    "word": "Navegador",
+    "clue": "Es una aplicación de software utilizada para acceder y ver sitios web",
+    "learn": ""
+  },
+  "280": {
+    "word": "URL",
+    "clue": "Es una dirección web que especifica la ubicación de un recurso específico en Internet",
+    "learn": ""
+  },
+  "281": {
+    "word": "Red",
+    "clue": "Se refiere a un grupo de sistemas informáticos interconectados que pueden comunicarse entre sí",
+    "learn": ""
+  },
+  "282": {
+    "word": "LAN",
+    "clue": "Es un tipo de red que conecta computadoras y otros dispositivos en un área geográfica limitada, como una casa o una oficina",
+    "learn": ""
+  },
+  "283": {
+    "word": "Monitor",
+    "clue": "Es un dispositivo de salida que muestra información en forma pictórica",
+    "learn": ""
+  },
+  "284": {
+    "word": "Teclado",
+    "clue": "Es un dispositivo de entrada que contiene teclas que los usuarios presionan para ingresar datos e instrucciones en una computadora",
+    "learn": ""
+  },
+  "285": {
+    "word": "Ratón",
+    "clue": "Es un dispositivo de entrada que controla el movimiento del cursor o puntero en una pantalla",
+    "learn": ""
+  },
+  "286": {
+    "word": "Impresora",
+    "clue": "Es un dispositivo de salida que produce una copia impresa de texto o gráficos",
+    "learn": ""
+  },
+  "287": {
+    "word": "Escáner",
+    "clue": "Es un dispositivo de entrada que captura imágenes de impresiones fotográficas, carteles, páginas de revistas y fuentes similares para la edición y visualización en la computadora",
+    "learn": ""
+  },
+  "288": {
+    "word": "Altavoz",
+    "clue": "Es un dispositivo de salida que te permite escuchar voces, música y otros sonidos desde tu computadora",
+    "learn": ""
+  },
+  "289": {
+    "word": "Auriculares",
+    "clue": "Son un par de pequeños altavoces que se colocan sobre o alrededor de las orejas del usuario",
+    "learn": ""
+  },
+  "290": {
+    "word": "Micrófono",
+    "clue": "Es un dispositivo de entrada que permite grabar sonido y transmitir señales de audio a una computadora",
+    "learn": ""
+  },
+  "291": {
+    "word": "Cámara Web",
+    "clue": "Es una cámara de video que envía imágenes a una computadora conectada a Internet, permitiendo que sus imágenes sean vistas por los usuarios de la red",
+    "learn": ""
+  },
+  "292": {
+    "word": "Joystick",
+    "clue": "Es un dispositivo de entrada que permite al usuario controlar un personaje o máquina en un programa de computadora, como un avión en un simulador de vuelo",
+    "learn": ""
+  },
+  "293": {
+    "word": "Control de juegos",
+    "clue": "Es un dispositivo de entrada utilizado para jugar videojuegos",
+    "learn": ""
+  },
+  "294": {
+    "word": "Panel táctil",
+    "clue": "Es un dispositivo de señalización con un sensor táctil, una superficie especializada que traduce el movimiento y la posición de los dedos del usuario a una posición relativa en el sistema operativo, que se muestra en la pantalla",
+    "learn": ""
+  },
+  "295": {
+    "word": "Disco duro",
+    "clue": "Es un dispositivo de almacenamiento que contiene uno o más discos inflexibles que utilizan partículas magnéticas para almacenar datos, instrucciones e información",
+    "learn": ""
+  },
+  "296": {
+    "word": "Unidad de estado sólido",
+    "clue": "Es un dispositivo de almacenamiento que generalmente utiliza memoria flash para almacenar datos, instrucciones e información",
+    "learn": ""
+  },
+  "297": {
+    "word": "Unidad flash",
+    "clue": "Es un dispositivo de almacenamiento portátil que se conecta a un puerto USB de una computadora o dispositivo móvil",
+    "learn": ""
+  },
+  "298": {
+    "word": "Unidad óptica",
+    "clue": "Es un dispositivo de almacenamiento que utiliza láseres para leer los datos almacenados en la superficie reflectante de un disco",
+    "learn": ""
+  },
+  "299": {
+    "word": "CPU",
+    "clue": "Es el componente electrónico que interpreta y ejecuta las instrucciones básicas que operan una computadora",
+    "learn": ""
+  },
+  "300": {
+    "word": "GPU",
+    "clue": "Es un circuito electrónico especializado diseñado para manipular y alterar rápidamente la memoria, acelerando la creación de imágenes en un búfer de cuadro destinado a la salida en una pantalla",
+    "learn": ""
+  },
+  "301": {
+    "word": "Disipador de calor",
+    "clue": "Es un dispositivo de enfriamiento pasivo que absorbe y disipa el calor de un componente electrónico o de la computadora",
+    "learn": ""
+  },
+  "302": {
+    "word": "Fuente de alimentación",
+    "clue": "Es un dispositivo que proporciona energía a una computadora",
+    "learn": ""
+  },
+  "303": {
+    "word": "Tarjeta de expansión",
+    "clue": "Es una tarjeta de circuito insertada en una ranura de la placa base para mejorar las capacidades de la computadora",
+    "learn": ""
+  },
+  "304": {
+    "word": "Tarjeta de sonido",
+    "clue": "Es una tarjeta de expansión que permite a una computadora manipular y emitir sonidos",
+    "learn": ""
+  },
+  "305": {
+    "word": "Tarjeta de video",
+    "clue": "Es una tarjeta de expansión que convierte la salida de la computadora en una señal de video y la envía a un dispositivo de visualización",
+    "learn": ""
+  },
+  "306": {
+    "word": "Tarjeta de red",
+    "clue": "Es una tarjeta de expansión que permite a una computadora conectarse a otras computadoras o a un módem de cable para facilitar una conexión a Internet de alta velocidad",
+    "learn": ""
+  },
+  "307": {
+    "word": "RAM",
+    "clue": "Es un tipo de memoria de computadora a la que se puede acceder de manera aleatoria, es decir, cualquier byte de memoria se puede acceder sin tocar los bytes anteriores",
+    "learn": ""
+  },
+  "308": {
+    "word": "ROM",
+    "clue": "Es un tipo de memoria no volátil utilizada en computadoras y otros dispositivos electrónicos",
+    "learn": ""
+  },
+  "309": {
+    "word": "BIOS",
+    "clue": "Es un conjunto de instrucciones de computadora en firmware que controlan las operaciones de entrada y salida",
+    "learn": ""
+  },
+  "310": {
+    "word": "Caché",
+    "clue": "Es un componente de hardware o software que almacena datos para que las solicitudes futuras de esos datos se puedan atender más rápidamente",
+    "learn": ""
+  },
+  "311": {
+    "word": "Bus",
+    "clue": "Es un sistema de comunicación que transfiere datos entre componentes dentro de una computadora o entre computadoras",
+    "learn": ""
+  },
+  "312": {
+    "word": "Ventilador",
+    "clue": "Es un componente de hardware que circula aire dentro de una computadora o dispositivo electrónico para enfriar los componentes",
+    "learn": ""
+  },
+  "313": {
+    "word": "Sistema",
+    "clue": "Es un tipo de programa informático diseñado para ejecutar el hardware y los programas de aplicación de una computadora",
+    "learn": ""
+  },
+  "314": {
+    "word": "Aplicación",
+    "clue": "Es un tipo de programa informático que realiza una función personal, educativa o empresarial específica",
+    "learn": ""
+  },
+  "315": {
+    "word": "Utilidad",
+    "clue": "Es un tipo de software de sistema que permite al usuario realizar tareas de mantenimiento relacionadas con la gestión de una computadora, sus dispositivos o sus programas",
+    "learn": ""
+  },
+  "316": {
+    "word": "Controlador",
+    "clue": "Es un tipo de software de utilidad que permite que un sistema operativo se comunique con un dispositivo",
+    "learn": ""
+  },
+  "317": {
+    "word": "Firmware",
+    "clue": "Es un tipo de software de sistema que contiene programas para controlar dispositivos de hardware de bajo nivel",
+    "learn": ""
+  },
+  "318": {
+    "word": "Versión Beta",
+    "clue": "Es un tipo de software de aplicación que es una versión previa al lanzamiento y que no ha sido completamente probada para detectar errores",
+    "learn": ""
+  },
+  "319": {
+    "word": "Freeware",
+    "clue": "Es un tipo de software de aplicación que se distribuye gratuitamente por un período de prueba",
+    "learn": ""
+  },
+  "320": {
+    "word": "Dominio Público",
+    "clue": "Es un tipo de software de aplicación que es gratuito y no tiene derechos de autor",
+    "learn": ""
+  },
+  "321": {
+    "word": "Código Abierto",
+    "clue": "Es un tipo de software de aplicación cuyo código fuente se proporciona para su uso, modificación y redistribución",
+    "learn": ""
+  },
+  "322": {
+    "word": "Código Cerrado",
+    "clue": "Es un tipo de software de aplicación cuyo código fuente no se proporciona para su uso, modificación o redistribución",
+    "learn": ""
+  },
+  "323": {
+    "word": "Comercial",
+    "clue": "Es un tipo de software de aplicación que se desarrolla y vende con fines de lucro",
+    "learn": ""
+  },
+  "324": {
+    "word": "Shareware",
+    "clue": "Es un tipo de software de aplicación que se distribuye gratuitamente por un período de prueba",
+    "learn": ""
+  },
+  "325": {
+    "word": "Procesador de Texto",
+    "clue": "Es un tipo de software de aplicación que permite crear y editar documentos",
+    "learn": ""
+  },
+  "326": {
+    "word": "Hoja de Cálculo",
+    "clue": "Es un tipo de software de aplicación que permite organizar datos en filas y columnas y realizar cálculos",
+    "learn": ""
+  },
+  "327": {
+    "word": "Base de Datos",
+    "clue": "Es un tipo de software de aplicación que permite crear, acceder y gestionar una base de datos",
+    "learn": ""
+  },
+  "328": {
+    "word": "Presentación",
+    "clue": "Es un tipo de software de aplicación que permite crear ayudas visuales para presentaciones y comunicar ideas, mensajes e información a un grupo",
+    "learn": ""
+  },
+  "329": {
+    "word": "Sketching",
+    "clue": "Es un tipo de software de aplicación que permite crear dibujos a mano alzada, bocetos o notas manuscritas de forma digital",
+    "learn": ""
+  },
+  "330": {
+    "word": "Navegador Web",
+    "clue": "Es un tipo de software de aplicación que permite ver páginas web",
+    "learn": ""
+  },
+  "331": {
+    "word": "Correo Electrónico",
+    "clue": "Es un tipo de software de comunicación que permite enviar y recibir mensajes electrónicos",
+    "learn": ""
+  },
+  "332": {
+    "word": "Mensajería Instantánea",
+    "clue": "Es un tipo de software de comunicación que permite comunicarse con otros usuarios en tiempo real",
+    "learn": ""
+  },
+  "333": {
+    "word": "FTP",
+    "clue": "Es un tipo de software de comunicación que permite transferir archivos hacia y desde una computadora a través de Internet",
+    "learn": ""
+  },
+  "334": {
+    "word": "Telnet",
+    "clue": "Es un tipo de software de comunicación que permite iniciar sesión en otras computadoras a través de Internet",
+    "learn": ""
+  },
+  "335": {
+    "word": "Salas de Chat",
+    "clue": "Es un tipo de software de comunicación que permite comunicarse con otros usuarios en tiempo real",
+    "learn": ""
+  },
+  "336": {
+    "word": "Newsgroups",
+    "clue": "Es un tipo de software de comunicación que permite publicar mensajes a un grupo de usuarios",
+    "learn": ""
+  },
+  "337": {
+    "word": "Motor de Búsqueda",
+    "clue": "Es un tipo de herramienta de Internet que permite buscar información en la web",
+    "learn": ""
+  },
+  "338": {
+    "word": "Blog",
+    "clue": "Es un tipo de herramienta de Internet que permite publicar tus pensamientos y opiniones en un sitio web",
+    "learn": ""
+  },
+  "339": {
+    "word": "Wiki",
+    "clue": "Es un tipo de herramienta de Internet que permite crear y editar documentos de forma colaborativa",
+    "learn": ""
+  },
+  "340": {
+    "word": "Redes Sociales",
+    "clue": "Es un tipo de herramienta de Internet que permite comunicarte, compartir y hacer contactos con otros usuarios",
+    "learn": ""
+  },
+  "341": {
+    "word": "Reproductor Multimedia",
+    "clue": "Es un tipo de herramienta de Internet que permite reproducir archivos de audio y video",
+    "learn": ""
+  },
+  "342": {
+    "word": "Biblioteca Multimedia",
+    "clue": "Es un tipo de herramienta de Internet que permite organizar y gestionar tus archivos multimedia",
+    "learn": ""
+  },
+  "343": {
+    "word": "Cortafuegos",
+    "clue": "Es un tipo de software de seguridad que protege una computadora o red de intrusos",
+    "learn": ""
+  },
+  "344": {
+    "word": "Antivirus",
+    "clue": "Es un tipo de software de seguridad que protege una computadora contra virus",
+    "learn": ""
+  },
+  "345": {
+    "word": "Spyware",
+    "clue": "Es un tipo de software de seguridad que detecta y elimina programas espías y otros similares",
+    "learn": ""
+  },
+  "346": {
+    "word": "Adware",
+    "clue": "Es un tipo de software de seguridad que detecta y elimina programas publicitarios y otros similares",
+    "learn": ""
+  },
+  "347": {
+    "word": "Spam",
+    "clue": "Es un tipo de software de seguridad que detecta y elimina correos electrónicos no deseados y otros programas similares",
+    "learn": ""
+  },
+  "348": {
+    "word": "Phishing",
+    "clue": "Es un tipo de software de seguridad que detecta y elimina fraudes en línea y otros programas similares",
+    "learn": ""
+  },
+  "349": {
+    "word": "Red",
+    "clue": "Conjunto de computadoras interconectadas que pueden comunicarse y compartir recursos",
+    "learn": ""
+  },
+  "350": {
+    "word": "Router",
+    "clue": "Dispositivo de red que reenvía paquetes de datos entre redes informáticas",
+    "learn": ""
+  },
+  "351": {
+    "word": "Switch",
+    "clue": "Dispositivo de red que conecta dispositivos dentro de una misma red local (LAN) y utiliza direcciones MAC para reenviar datos al destino correcto",
+    "learn": ""
+  },
+  "352": {
+    "word": "Dirección IP",
+    "clue": "Etiqueta numérica asignada a cada dispositivo en una red que utiliza el Protocolo de Internet para la comunicación",
+    "learn": ""
+  },
+  "353": {
+    "word": "Cortafuegos",
+    "clue": "Dispositivo de seguridad de red que monitorea y controla el tráfico entrante y saliente basado en reglas de seguridad predeterminadas",
+    "learn": ""
+  },
+  "354": {
+    "word": "Inalámbrico",
+    "clue": "Tecnología que permite la conexión de dispositivos sin necesidad de cables o alambres físicos",
+    "learn": ""
+  },
+  "355": {
+    "word": "LAN",
+    "clue": "Red que conecta computadoras y dispositivos en un área geográfica limitada, como una casa, oficina o campus",
+    "learn": ""
+  },
+  "356": {
+    "word": "WAN",
+    "clue": "Red que cubre una área amplia, como una ciudad, país o incluso globalmente, y conecta varias LANs",
+    "learn": ""
+  },
+  "357": {
+    "word": "Protocolo",
+    "clue": "Conjunto de reglas que define cómo se transmite la información en una red",
+    "learn": ""
+  },
+  "358": {
+    "word": "DNS",
+    "clue": "Sistema que traduce los nombres de dominio legibles por humanos en direcciones IP, facilitando la identificación de recursos en una red",
+    "learn": ""
+  },
+  "359": {
+    "word": "TCP/IP",
+    "clue": "Conjunto de protocolos de comunicación utilizados para interconectar dispositivos de red en internet",
+    "learn": ""
+  },
+  "360": {
+    "word": "Ancho de Banda",
+    "clue": "La tasa máxima de transferencia de datos en una red",
+    "learn": ""
+  },
+  "361": {
+    "word": "Ethernet",
+    "clue": "Familia de tecnologías de redes cableadas comúnmente utilizadas en LANs",
+    "learn": ""
+  },
+  "362": {
+    "word": "Wi-Fi",
+    "clue": "Tecnología de red inalámbrica que permite que computadoras y otros dispositivos se comuniquen mediante una señal inalámbrica",
+    "learn": ""
+  },
+  "363": {
+    "word": "Bluetooth",
+    "clue": "Estándar de tecnología inalámbrica para intercambiar datos a corta distancia",
+    "learn": ""
+  },
+  "364": {
+    "word": "NFC",
+    "clue": "Conjunto de protocolos de comunicación que permiten que dos dispositivos electrónicos, uno de los cuales suele ser un dispositivo portátil como un teléfono inteligente, se comuniquen al acercarlos dentro de 4 cm",
+    "learn": ""
+  },
+  "365": {
+    "word": "Punto de Acceso",
+    "clue": "Ubicación física donde las personas pueden acceder a Internet, típicamente mediante Wi-Fi, usando una red de área local inalámbrica (WLAN) con un router conectado a un proveedor de servicios de Internet",
+    "learn": ""
+  },
+  "366": {
+    "word": "VPN",
+    "clue": "Tecnología que extiende una red privada a través de una red pública, como Internet",
+    "learn": ""
+  },
+  "367": {
+    "word": "Servidor",
+    "clue": "Computadora o programa de computadora que gestiona el acceso a un recurso o servicio centralizado en una red",
+    "learn": ""
+  },
+  "368": {
+    "word": "Cliente",
+    "clue": "Computadora o programa de computadora que solicita servicios de un servidor en una red",
+    "learn": ""
+  },
+  "369": {
+    "word": "Computación en la Nube",
+    "clue": "La disponibilidad bajo demanda de recursos del sistema informático, especialmente almacenamiento de datos y potencia de cómputo, sin la gestión activa directa por parte del usuario",
+    "learn": ""
+  },
+  "370": {
+    "word": "Virtualización",
+    "clue": "La creación de una versión virtual de un dispositivo o recurso, como un servidor, dispositivo de almacenamiento, red o incluso un sistema operativo",
+    "learn": ""
+  },
+  "371": {
+    "word": "P2P",
+    "clue": "Arquitectura de aplicación distribuida que divide tareas o cargas de trabajo entre pares",
+    "learn": ""
+  },
+  "372": {
+    "word": "VoIP",
+    "clue": "Tecnología que permite realizar llamadas de voz utilizando una conexión a Internet de banda ancha en lugar de una línea telefónica regular",
+    "learn": ""
+  },
+  "373": {
+    "word": "Internet",
+    "clue": "Una red global de computadoras y dispositivos interconectados que se comunican entre sí utilizando protocolos estandarizados",
+    "learn": ""
+  },
+  "374": {
+    "word": "World Wide Web",
+    "clue": "Un sistema de información en Internet que permite que los documentos estén conectados a otros documentos mediante enlaces de hipertexto, lo que permite al usuario buscar información moviéndose de un documento a otro",
+    "learn": ""
+  },
+  "375": {
+    "word": "Navegador Web",
+    "clue": "Una aplicación de software utilizada para acceder y ver sitios web",
+    "learn": ""
+  },
+  "376": {
+    "word": "Servidor Web",
+    "clue": "Una computadora que almacena y entrega páginas web a los navegadores web",
+    "learn": ""
+  },
+  "377": {
+    "word": "Página Web",
+    "clue": "Un documento en la World Wide Web que se puede acceder a través de un navegador web",
+    "learn": ""
+  },
+  "378": {
+    "word": "Sitio Web",
+    "clue": "Una colección de páginas web relacionadas que están alojadas en un servidor web",
+    "learn": ""
+  },
+  "379": {
+    "word": "Seguridad",
+    "clue": "La protección de los sistemas y redes informáticas contra el robo o daño de su hardware, software o datos electrónicos, así como contra la interrupción o desviación de los servicios que proporcionan",
+    "learn": ""
+  },
+  "380": {
+    "word": "Amenaza",
+    "clue": "Un peligro potencial que puede explotar una vulnerabilidad para violar la seguridad y causar posible daño",
+    "learn": ""
+  },
+  "381": {
+    "word": "Vulnerabilidad",
+    "clue": "Una debilidad o defecto en un sistema que puede ser explotada para violar la seguridad y causar posible daño",
+    "learn": ""
+  },
+  "382": {
+    "word": "Ataque",
+    "clue": "Un intento de violar la seguridad y causar posible daño",
+    "learn": ""
+  },
+  "383": {
+    "word": "Malware",
+    "clue": "Un tipo de software diseñado para obtener acceso no autorizado o causar daño a una computadora",
+    "learn": ""
+  },
+  "384": {
+    "word": "Virus",
+    "clue": "Un tipo de malware diseñado para replicarse modificando otros programas de computadora e insertando su propio código",
+    "learn": ""
+  },
+  "385": {
+    "word": "Gusano",
+    "clue": "Un tipo de malware que se replica y se propaga a otras computadoras sin interacción humana",
+    "learn": ""
+  },
+  "386": {
+    "word": "Caballo de Troya",
+    "clue": "Un tipo de malware que se disfraza como un programa legítimo para engañar a los usuarios y hacer que lo descarguen e instalen",
+    "learn": ""
+  },
+  "387": {
+    "word": "Rootkit",
+    "clue": "Un tipo de malware diseñado para obtener control a nivel de administrador sobre un sistema informático sin ser detectado",
+    "learn": ""
+  },
+  "388": {
+    "word": "Spyware",
+    "clue": "Un tipo de malware diseñado para espiar a un usuario de computadora y recopilar información sin su conocimiento",
+    "learn": ""
+  },
+  "389": {
+    "word": "Adware",
+    "clue": "Un tipo de malware diseñado para mostrar anuncios no deseados en una computadora",
+    "learn": ""
+  },
+  "390": {
+    "word": "Ransomware",
+    "clue": "Un tipo de malware diseñado para bloquear el acceso a un sistema informático hasta que se pague una suma de dinero",
+    "learn": ""
+  },
+  "391": {
+    "word": "Phishing",
+    "clue": "Un tipo de ataque que utiliza correo electrónico o mensajería instantánea para engañar a los usuarios y que revelen información sensible",
+    "learn": ""
+  },
+  "392": {
+    "word": "Spam",
+    "clue": "Correo electrónico o mensajes instantáneos no solicitados enviados en masa",
+    "learn": ""
+  },
+  "393": {
+    "word": "Spoofing",
+    "clue": "Un tipo de ataque que usa correo electrónico o mensajería instantánea para engañar a los usuarios haciéndoles creer que un mensaje proviene de una fuente confiable",
+    "learn": ""
+  },
+  "394": {
+    "word": "Ingeniería Social",
+    "clue": "Un tipo de ataque que utiliza el engaño para manipular a los usuarios y que revelen información sensible",
+    "learn": ""
+  },
+  "395": {
+    "word": "Fuerza Bruta",
+    "clue": "Un tipo de ataque que utiliza prueba y error para adivinar credenciales de inicio de sesión",
+    "learn": ""
+  },
+  "396": {
+    "word": "Diccionario",
+    "clue": "Un tipo de ataque que utiliza una lista de palabras comunes para adivinar credenciales de inicio de sesión",
+    "learn": ""
+  },
+  "397": {
+    "word": "Cortafuegos",
+    "clue": "Un dispositivo de seguridad de red que monitorea y controla el tráfico de red entrante y saliente según reglas de seguridad predeterminadas",
+    "learn": ""
+  },
+  "398": {
+    "word": "Antivirus",
+    "clue": "Un tipo de software de seguridad que protege una computadora contra virus",
+    "learn": ""
+  },
+  "399": {
+    "word": "Cifrado",
+    "clue": "El proceso de convertir datos en una forma que no pueda ser leída por otros",
+    "learn": ""
+  },
+  "400": {
+    "word": "Autenticación",
+    "clue": "El proceso de verificar la identidad de un usuario o dispositivo",
+    "learn": ""
+  },
+  "401": {
+    "word": "Autorización",
+    "clue": "El proceso de verificar que un usuario tiene permiso para acceder a un recurso",
+    "learn": ""
+  },
+  "402": {
+    "word": "Control de Acceso",
+    "clue": "El proceso de restringir el acceso a un recurso",
+    "learn": ""
+  },
+  "403": {
+    "word": "Copia de Seguridad",
+    "clue": "Una copia de los datos que se puede usar para restaurar los datos originales en caso de pérdida",
+    "learn": ""
+  },
+  "404": {
+    "word": "Redundancia",
+    "clue": "La duplicación de componentes o funciones críticas de un sistema con la intención de aumentar la fiabilidad del sistema",
+    "learn": ""
+  },
+  "405": {
+    "word": "Recuperación ante Desastres",
+    "clue": "El proceso de recuperar datos y restaurar sistemas después de un desastre",
+    "learn": ""
+  },
+  "406": {
+    "word": "Continuidad del Negocio",
+    "clue": "El proceso de asegurar que las funciones críticas del negocio continúen operando en caso de un desastre",
+    "learn": ""
+  },
+  "407": {
+    "word": "Respuesta a Incidentes",
+    "clue": "El proceso de responder a un incidente de seguridad",
+    "learn": ""
+  },
+  "408": {
+    "word": "Parche",
+    "clue": "Un software diseñado para actualizar un programa de computadora o sus datos de soporte, para corregirlo o mejorarlo",
+    "learn": ""
+  },
+  "409": {
+    "word": "Físico",
+    "clue": "Un tipo de control de seguridad que protege los activos físicos de una organización",
+    "learn": ""
+  },
+  "410": {
+    "word": "Ambiental",
+    "clue": "Un tipo de control de seguridad que protege el entorno físico de una organización",
+    "learn": ""
+  },
+  "411": {
+    "word": "Procedimental",
+    "clue": "Un tipo de control de seguridad que protege los procesos y procedimientos de una organización",
+    "learn": ""
+  },
+  "412": {
+    "word": "Personal",
+    "clue": "Un tipo de control de seguridad que protege a los empleados de una organización",
+    "learn": ""
+  },
+  "413": {
+    "word": "Red",
+    "clue": "Un tipo de control de seguridad que protege la red de una organización",
+    "learn": ""
+  },
+  "414": {
+    "word": "Aplicación",
+    "clue": "Un tipo de control de seguridad que protege las aplicaciones de una organización",
+    "learn": ""
   }
 }
