@@ -2032,5 +2032,4325 @@
     "word": "Aplicación",
     "clue": "Un tipo de control de seguridad que protege las aplicaciones de una organización",
     "learn": ""
+  },
+  "415": {
+    "word": "Cero",
+    "clue": "El número de lados de un círculo perfecto",
+    "learn": "Cero"
+  },
+  "416": {
+    "word": "Uno",
+    "clue": "El protagonista solitario de una historia",
+    "learn": "Uno"
+  },
+  "417": {
+    "word": "Dos",
+    "clue": "La elegante forma de un cisne en reposo",
+    "learn": "Dos"
+  },
+  "418": {
+    "word": "Tres",
+    "clue": "El número de lados de un triángulo",
+    "learn": "Tres"
+  },
+  "419": {
+    "word": "Cuatro",
+    "clue": "El número de patas de una mesa",
+    "learn": "Cuatro"
+  },
+  "420": {
+    "word": "Cinco",
+    "clue": "Los dedos de una mano",
+    "learn": "Cinco"
+  },
+  "421": {
+    "word": "Seis",
+    "clue": "Piensa en el número de lados de un dado estándar",
+    "learn": "Seis"
+  },
+  "422": {
+    "word": "Siete",
+    "clue": "El número de días de una semana",
+    "learn": "Siete"
+  },
+  "423": {
+    "word": "Ocho",
+    "clue": "El número de patas de una araña",
+    "learn": "Ocho"
+  },
+  "424": {
+    "word": "Nueve",
+    "clue": "Este número es el reverso de seis",
+    "learn": "Nueve"
+  },
+  "425": {
+    "word": "Diez",
+    "clue": "Fundamental para nuestro sistema numérico, es la cantidad de dedos en ambas manos",
+    "learn": "Diez"
+  },
+  "426": {
+    "word": "Once",
+    "clue": "Solo un dígito de diferencia con una docena",
+    "learn": "Once"
+  },
+  "427": {
+    "word": "Amarillo",
+    "clue": "Color de la luz del sol por la mañana",
+    "learn": "Amarillo"
+  },
+  "428": {
+    "word": "Azul",
+    "clue": "Color del cielo en un día despejado",
+    "learn": "Azul"
+  },
+  "429": {
+    "word": "Blanco",
+    "clue": "Color de la nieve y los osos polares",
+    "learn": "Blanco"
+  },
+  "430": {
+    "word": "Morado",
+    "clue": "Color que combina azul y rojo",
+    "learn": "Morado"
+  },
+  "431": {
+    "word": "Naranjado",
+    "clue": "Una mezcla de rojo y amarillo",
+    "learn": "Naranjado"
+  },
+  "432": {
+    "word": "Verde",
+    "clue": "Color muy común en la naturaleza",
+    "learn": "Verde"
+  },
+  "433": {
+    "word": "Dorado",
+    "clue": "Color que evoca riqueza y lujo",
+    "learn": "Dorado"
+  },
+  "434": {
+    "word": "Gris",
+    "clue": "Color intermedio entre blanco y negro",
+    "learn": "Gris"
+  },
+  "435": {
+    "word": "Marrón",
+    "clue": "Color terroso asociado con el suelo",
+    "learn": "Marrón"
+  },
+  "436": {
+    "word": "Negro",
+    "clue": "La ausencia de color o luz",
+    "learn": "Negro"
+  },
+  "437": {
+    "word": "Rojo",
+    "clue": "Un color cálido asociado con la pasión y energía",
+    "learn": "Rojo"
+  },
+  "438": {
+    "word": "Rosado",
+    "clue": "Un tono claro de rojo, a menudo asociado con ternura",
+    "learn": "Rosado"
+  },
+  "439": {
+    "word": "Él",
+    "clue": "Se usa como sujeto de un verbo para referirse a un hombre, niño o animal masculino ya mencionado",
+    "learn": "Él"
+  },
+  "440": {
+    "word": "Ella",
+    "clue": "Se usa como sujeto de un verbo para referirse a una mujer, niña o animal hembra ya mencionada",
+    "learn": "Ella"
+  },
+  "441": {
+    "word": "Eso",
+    "clue": "Se usa como sujeto de un verbo, o el objeto de un verbo o preposición, para referirse a algo, animal, situación o idea",
+    "learn": "Eso"
+  },
+  "442": {
+    "word": "Usted",
+    "clue": "Se usa para referirse a la persona o personas a las que se les habla o escribe",
+    "learn": "Usted"
+  },
+  "443": {
+    "word": "Nosotros",
+    "clue": "Se usa como sujeto de un verbo para referirse a un grupo que incluye al hablante y al menos una persona más",
+    "learn": "Nosotros"
+  },
+  "444": {
+    "word": "Ellos",
+    "clue": "Se usa como sujeto de un verbo para referirse a personas, animales o cosas ya mencionados o, más generalmente, a un grupo de personas no claramente descrito",
+    "learn": "Ellos"
+  },
+  "445": {
+    "word": "¿Dónde?",
+    "clue": "¿En qué lugar?",
+    "learn": "Dónde"
+  },
+  "446": {
+    "word": "¿Cómo?",
+    "clue": "¿De qué manera, o por qué métodos?",
+    "learn": "Cómo"
+  },
+  "447": {
+    "word": "¿Cuándo?",
+    "clue": "Se usa para pedir información sobre el momento en que algo ocurrió o ocurrirá",
+    "learn": "Cuándo"
+  },
+  "448": {
+    "word": "¿Por Qué?",
+    "clue": "¿Por qué razón?",
+    "learn": "Por qué"
+  },
+  "449": {
+    "word": "¿Qué?",
+    "clue": "Se usa para pedir información sobre personas o cosas",
+    "learn": "Qué"
+  },
+  "450": {
+    "word": "¿Quién?",
+    "clue": "Se usa especialmente en preguntas como sujeto u objeto de un verbo",
+    "learn": "Quién"
+  },
+  "451": {
+    "word": "Arroz",
+    "clue": "Este cereal que se cultiva ampliamente en climas cálidos",
+    "learn": "Arroz"
+  },
+  "452": {
+    "word": "Huevo",
+    "clue": "El cuerpo reproductivo de una ave con cáscara dura",
+    "learn": "Huevo"
+  },
+  "453": {
+    "word": "Sal",
+    "clue": "Un compuesto cristalino, usado para sazonar alimentos",
+    "learn": "Sal"
+  },
+  "454": {
+    "word": "Pollo",
+    "clue": "Una ave doméstica",
+    "learn": "Pollo"
+  },
+  "455": {
+    "word": "Maíz",
+    "clue": "Una planta cereal alta que da el grano",
+    "learn": "Maíz"
+  },
+  "456": {
+    "word": "Aceite",
+    "clue": "Un líquido viscoso",
+    "learn": "Aceite"
+  },
+  "457": {
+    "word": "Fresa",
+    "clue": "Una fruta dulce y suave de color rojo con una superficie llena de semillas",
+    "learn": "Fresa"
+  },
+  "458": {
+    "word": "Pera",
+    "clue": "Una fruta comestible de color verde amarillento o marrón",
+    "learn": "Pera"
+  },
+  "459": {
+    "word": "Uva",
+    "clue": "Una baya (generalmente verde, morada o negra) usada para hacer vino",
+    "learn": "Uva"
+  },
+  "460": {
+    "word": "Cebolla",
+    "clue": "Un bulbo comestible hinchado usado como vegetal",
+    "learn": "Cebolla"
+  },
+  "461": {
+    "word": "Tomate",
+    "clue": "Una fruta comestible roja y brillante, o ocasionalmente amarilla",
+    "learn": "Tomate"
+  },
+  "462": {
+    "word": "Piña",
+    "clue": "Una gran fruta tropical jugosa",
+    "learn": "Piña"
+  },
+  "463": {
+    "word": "Leche",
+    "clue": "Un fluido rico en grasa y proteína",
+    "learn": "Leche"
+  },
+  "464": {
+    "word": "Azúcar",
+    "clue": "Una sustancia cristalina dulce obtenida de diversas plantas",
+    "learn": "Azúcar"
+  },
+  "465": {
+    "word": "Carne",
+    "clue": "La carne de un animal, típicamente un mamífero o ave",
+    "learn": "Carne"
+  },
+  "466": {
+    "word": "Limón",
+    "clue": "Una fruta ovalada y verde que tiene jugo ácido",
+    "learn": "Limón"
+  },
+  "467": {
+    "word": "Sandía",
+    "clue": "Una fruta grande, redonda y verde que es rosada por dentro con muchas semillas negras",
+    "learn": "Sandía"
+  },
+  "468": {
+    "word": "Ajo",
+    "clue": "Un bulbo de olor fuerte, utilizado en la medicina herbal",
+    "learn": "Ajo"
+  },
+  "469": {
+    "word": "Doctor",
+    "clue": "Una persona que está cualificada para tratar a personas que están enfermas",
+    "learn": "Doctor"
+  },
+  "470": {
+    "word": "Piloto",
+    "clue": "Una persona que opera los controles de vuelo de una aeronave",
+    "learn": "Piloto"
+  },
+  "471": {
+    "word": "Soldado",
+    "clue": "Una persona que sirve en un ejército",
+    "learn": "Soldado"
+  },
+  "472": {
+    "word": "Contador",
+    "clue": "Una persona cuyo trabajo es analizar cuentas financieras",
+    "learn": "Contador"
+  },
+  "473": {
+    "word": "Bailarín",
+    "clue": "Una persona que baila o cuya profesión es bailar",
+    "learn": "Bailarín"
+  },
+  "474": {
+    "word": "Diseñador",
+    "clue": "Una persona que planifica la apariencia o el funcionamiento de algo",
+    "learn": "Diseñador"
+  },
+  "475": {
+    "word": "Enfermera",
+    "clue": "Alguien cuyo trabajo es cuidar a personas que están enfermas o heridas",
+    "learn": "Enfermera"
+  },
+  "476": {
+    "word": "Sastre",
+    "clue": "Alguien cuyo trabajo es reparar, hacer y ajustar ropa",
+    "learn": "Sastre"
+  },
+  "477": {
+    "word": "Policía",
+    "clue": "Cuerpo de oficiales que representa la autoridad civil del gobierno",
+    "learn": "Policía"
+  },
+  "478": {
+    "word": "Astronauta",
+    "clue": "Una persona que ha sido entrenada para viajar en el espacio",
+    "learn": "Astronauta"
+  },
+  "479": {
+    "word": "Deportista",
+    "clue": "Alguien que practica deportes, especialmente alguien que lo hace bien",
+    "learn": "Deportista"
+  },
+  "480": {
+    "word": "Ingeniero",
+    "clue": "Una persona cuyo trabajo es diseñar o construir máquinas o motores",
+    "learn": "Ingeniero"
+  },
+  "481": {
+    "word": "Maestro",
+    "clue": "Alguien cuyo trabajo es enseñar en una escuela o universidad",
+    "learn": "Maestro"
+  },
+  "482": {
+    "word": "Político",
+    "clue": "Un miembro de un gobierno o una organización legislativa",
+    "learn": "Político"
+  },
+  "483": {
+    "word": "Autor",
+    "clue": "El escritor de un libro, artículo, obra de teatro, etc.",
+    "learn": "Autor"
+  },
+  "484": {
+    "word": "Cocinero",
+    "clue": "Una persona que prepara y cocina alimentos",
+    "learn": "Cocinero"
+  },
+  "485": {
+    "word": "Marinero",
+    "clue": "Una persona que trabaja en un barco",
+    "learn": "Marinero"
+  },
+  "486": {
+    "word": "Juez",
+    "clue": "Una persona que está a cargo de un juicio en un tribunal",
+    "learn": "Juez"
+  },
+  "487": {
+    "word": "Leer",
+    "clue": "Mirar palabras o símbolos y entender lo que significan",
+    "learn": "Leer"
+  },
+  "488": {
+    "word": "Correr",
+    "clue": "La actividad de correr",
+    "learn": "Correr"
+  },
+  "489": {
+    "word": "Jugar",
+    "clue": "Pasar tiempo haciendo una actividad divertida",
+    "learn": "Jugar"
+  },
+  "490": {
+    "word": "Viajar",
+    "clue": "Hacer un viaje, generalmente a larga distancia",
+    "learn": "Viajar"
+  },
+  "491": {
+    "word": "Caminar",
+    "clue": "Moverse poniendo un pie delante del otro",
+    "learn": "Caminar"
+  },
+  "492": {
+    "word": "Deportes",
+    "clue": "Una actividad que involucra esfuerzo físico y habilidad",
+    "learn": "Deportes"
+  },
+  "493": {
+    "word": "Escribir",
+    "clue": "Hacer marcas que representan letras, palabras o números",
+    "learn": "Escribir"
+  },
+  "494": {
+    "word": "Bailar",
+    "clue": "Mover el cuerpo y los pies al ritmo de la música",
+    "learn": "Bailar"
+  },
+  "495": {
+    "word": "Pintar",
+    "clue": "Una imagen creada al poner pintura sobre una superficie",
+    "learn": "Pintar"
+  },
+  "496": {
+    "word": "Caminata",
+    "clue": "La actividad de ir a caminar largas distancias",
+    "learn": "Caminata"
+  },
+  "497": {
+    "word": "Surfear",
+    "clue": "Montar una ola mientras se está de pie o acostado sobre una tabla especial",
+    "learn": "Surfear"
+  },
+  "498": {
+    "word": "Nadar",
+    "clue": "La actividad o deporte de nadar",
+    "learn": "Nadar"
+  },
+  "499": {
+    "word": "Cantar",
+    "clue": "La actividad de hacer sonidos musicales con la voz",
+    "learn": "Cantar"
+  },
+  "500": {
+    "word": "Parapente",
+    "clue": "El deporte de saltar de una aeronave con un paracaídas especial",
+    "learn": "Parapente"
+  },
+  "501": {
+    "word": "Pesca",
+    "clue": "El deporte o trabajo de atrapar peces",
+    "learn": "Pesca"
+  },
+  "502": {
+    "word": "Ciclismo",
+    "clue": "El deporte de montar una bicicleta",
+    "learn": "Ciclismo"
+  },
+  "503": {
+    "word": "Canotaje",
+    "clue": "La actividad de viajar en una canoa",
+    "learn": "Canotaje"
+  },
+  "504": {
+    "word": "Origami",
+    "clue": "El arte de hacer objetos decorativos doblando hojas de papel en formas",
+    "learn": "Origami"
+  },
+  "505": {
+    "word": "Perro",
+    "clue": "Un animal común de cuatro patas, especialmente mantenido por las personas como mascota",
+    "learn": "Perro"
+  },
+  "506": {
+    "word": "Ratón",
+    "clue": "Un pequeño mamífero de pelaje corto, cara puntiaguda y cola larga",
+    "learn": "Ratón"
+  },
+  "507": {
+    "word": "Oveja",
+    "clue": "Un animal de granja con lana gruesa que come hierba y se cría por su lana, piel y carne",
+    "learn": "Oveja"
+  },
+  "508": {
+    "word": "Avispa",
+    "clue": "Un insecto volador, a menudo negro y amarillo, que puede picar",
+    "learn": "Avispa"
+  },
+  "509": {
+    "word": "Cuervo",
+    "clue": "El ave más grande de la familia del cuervo, con plumas negras brillantes",
+    "learn": "Cuervo"
+  },
+  "510": {
+    "word": "Hiena",
+    "clue": "Un animal salvaje de África y Asia que se parece a un perro",
+    "learn": "Hiena"
+  },
+  "511": {
+    "word": "Gato",
+    "clue": "Un pequeño animal con pelo, cuatro patas, cola y garras, generalmente mantenido como mascota o para cazar ratones",
+    "learn": "Gato"
+  },
+  "512": {
+    "word": "Conejo",
+    "clue": "Un pequeño animal con orejas largas y dientes frontales grandes",
+    "learn": "Conejo"
+  },
+  "513": {
+    "word": "Vaca",
+    "clue": "Un gran animal de granja hembra criado para producir carne y leche",
+    "learn": "Vaca"
+  },
+  "514": {
+    "word": "Hurón",
+    "clue": "Un pequeño animal blanco amarillento con un cuerpo largo, criado para cazar conejos y otros animales pequeños",
+    "learn": "Hurón"
+  },
+  "515": {
+    "word": "Delfín",
+    "clue": "Un mamífero marino grande, liso y gris, con una boca larga y puntiaguda",
+    "learn": "Delfín"
+  },
+  "516": {
+    "word": "Rana",
+    "clue": "Un pequeño animal que tiene piel lisa, vive en el agua y en la tierra",
+    "learn": "Rana"
+  },
+  "517": {
+    "word": "Pájaro",
+    "clue": "Una criatura con plumas y alas, generalmente capaz de volar",
+    "learn": "Pájaro"
+  },
+  "518": {
+    "word": "Caballo",
+    "clue": "Un animal grande de cuatro patas que la gente monta o usa para transportar cosas o tirar de vehículos",
+    "learn": "Caballo"
+  },
+  "519": {
+    "word": "Cabra",
+    "clue": "Un animal relacionado con las ovejas que generalmente tiene cuernos y barba",
+    "learn": "Cabra"
+  },
+  "520": {
+    "word": "Burro",
+    "clue": "Un animal como un caballo pequeño con orejas largas",
+    "learn": "Burro"
+  },
+  "521": {
+    "word": "Foca",
+    "clue": "Un gran mamífero que come pescado y vive parcialmente en el mar y parcialmente en tierra o hielo",
+    "learn": "Foca"
+  },
+  "522": {
+    "word": "Grillo",
+    "clue": "Un insecto marrón o negro que hace ruidos cortos y fuertes frotando sus alas",
+    "learn": "Grillo"
+  },
+  "523": {
+    "word": "Calle",
+    "clue": "Una calle en una ciudad o pueblo que tiene edificios que suelen estar juntos a lo largo de uno o ambos lados",
+    "learn": "Calle"
+  },
+  "524": {
+    "word": "Conductor",
+    "clue": "Alguien que conduce un vehículo",
+    "learn": "Conductor"
+  },
+  "525": {
+    "word": "Estación",
+    "clue": "Un edificio y el área circundante donde los autobuses o trenes paran para que la gente suba o baje",
+    "learn": "Estación"
+  },
+  "526": {
+    "word": "Avión",
+    "clue": "Un vehículo diseñado para viajar por aire que tiene alas y uno o más motores",
+    "learn": "Avión"
+  },
+  "527": {
+    "word": "Moto",
+    "clue": "Un vehículo con dos ruedas y un motor",
+    "learn": "Moto"
+  },
+  "528": {
+    "word": "Autobús",
+    "clue": "Un vehículo grande en el que la gente es transportada de un lugar a otro",
+    "learn": "Autobús"
+  },
+  "529": {
+    "word": "Avenida",
+    "clue": "Una calle ancha con árboles o edificios altos a ambos lados, o un camino o carretera de campo ancho con árboles a ambos lados",
+    "learn": "Avenida"
+  },
+  "530": {
+    "word": "Destino",
+    "clue": "El lugar a donde va alguien o donde se envía o lleva algo",
+    "learn": "Destino"
+  },
+  "531": {
+    "word": "Terminal",
+    "clue": "El área o edificio en una estación, aeropuerto o puerto que utilizan los pasajeros que salen o llegan en tren, avión o barco",
+    "learn": "Terminal"
+  },
+  "532": {
+    "word": "Carro",
+    "clue": "Un vehículo de carretera con motor, cuatro ruedas y asientos para un pequeño número de personas",
+    "learn": "Carro"
+  },
+  "533": {
+    "word": "Tren",
+    "clue": "Una locomotora ferroviaria conectada a vagones para transportar personas o a contenedores con ruedas para transportar mercancías",
+    "learn": "Tren"
+  },
+  "534": {
+    "word": "Barco",
+    "clue": "Una nave grande para viajar por el agua, especialmente a través del mar",
+    "learn": "Barco"
+  },
+  "535": {
+    "word": "Parada",
+    "clue": "Un lugar donde los vehículos, especialmente los autobuses, paran para permitir que los pasajeros suban y bajen",
+    "learn": "Parada"
+  },
+  "536": {
+    "word": "Boleto",
+    "clue": "Un pequeño trozo de papel o tarjeta que se da a alguien, generalmente para mostrar que ha pagado por un viaje",
+    "learn": "Boleto"
+  },
+  "537": {
+    "word": "Metro",
+    "clue": "Un sistema ferroviario en el que los trenes eléctricos viajan a través de túneles bajo tierra",
+    "learn": "Metro"
+  },
+  "538": {
+    "word": "Bicicleta",
+    "clue": "Un vehículo de dos ruedas en el que te sientas y te mueves girando los dos pedales",
+    "learn": "Bicicleta"
+  },
+  "539": {
+    "word": "Taxi",
+    "clue": "Un automóvil con un conductor al que pagas para que te lleve a algún lugar",
+    "learn": "Taxi"
+  },
+  "540": {
+    "word": "A Pie",
+    "clue": "Caminar en lugar de viajar en automóvil u otro transporte",
+    "learn": "A Pie"
+  },
+  "541": {
+    "word": "Llamar",
+    "clue": "Usar un teléfono para hablar con alguien",
+    "learn": "Llamar"
+  },
+  "542": {
+    "word": "Vestir",
+    "clue": "Ponerse ropa a uno mismo o a otra persona",
+    "learn": "Vestir"
+  },
+  "543": {
+    "word": "Creer",
+    "clue": "Pensar que algo es cierto, correcto o real",
+    "learn": "Creer"
+  },
+  "544": {
+    "word": "Llover",
+    "clue": "Cuando llueve, el agua cae del cielo en pequeñas gotas",
+    "learn": "Llover"
+  },
+  "545": {
+    "word": "Casarse",
+    "clue": "Convertirse en el esposo o esposa legalmente aceptado de alguien",
+    "learn": "Casarse"
+  },
+  "546": {
+    "word": "Decir",
+    "clue": "Decir algo a alguien, a menudo dándole información o instrucciones",
+    "learn": "Decir"
+  },
+  "547": {
+    "word": "Besar",
+    "clue": "Tocar con los labios, especialmente como saludo",
+    "learn": "Besar"
+  },
+  "548": {
+    "word": "Vivir",
+    "clue": "Estar vivo o tener vida",
+    "learn": "Vivir"
+  },
+  "549": {
+    "word": "Cerrar",
+    "clue": "Cambiar de estar abierto a no estar abierto, o hacer que algo haga esto",
+    "learn": "Cerrar"
+  },
+  "550": {
+    "word": "Repetir",
+    "clue": "Decir o contar algo a la gente más de una vez",
+    "learn": "Repetir"
+  },
+  "551": {
+    "word": "Mirar",
+    "clue": "Dirigir los ojos para ver",
+    "learn": "Mirar"
+  },
+  "552": {
+    "word": "Pensar",
+    "clue": "Creer algo o tener una opinión o idea",
+    "learn": "Pensar"
+  },
+  "553": {
+    "word": "Llorar",
+    "clue": "Producir lágrimas como resultado de una fuerte emoción, como la tristeza o el dolor",
+    "learn": "Llorar"
+  },
+  "554": {
+    "word": "Ayudar",
+    "clue": "Hacer posible o más fácil que alguien haga algo",
+    "learn": "Ayudar"
+  },
+  "555": {
+    "word": "Seguir",
+    "clue": "Moverse detrás de alguien o algo e ir a donde él, ella o eso va",
+    "learn": "Seguir"
+  },
+  "556": {
+    "word": "Abrir",
+    "clue": "Mover algo a una posición que no está cerrada",
+    "learn": "Abrir"
+  },
+  "557": {
+    "word": "Saber",
+    "clue": "Tener información en la mente",
+    "learn": "Saber"
+  },
+  "558": {
+    "word": "Dejar",
+    "clue": "Alejarse de alguien o algo, por un tiempo corto o permanentemente",
+    "learn": "Dejar"
+  },
+  "559": {
+    "word": "Zero",
+    "clue": "El número de lados de un círculo perfecto",
+    "learn": "Cero"
+  },
+  "560": {
+    "word": "Un",
+    "clue": "El único protagonista de una historia",
+    "learn": "Uno"
+  },
+  "561": {
+    "word": "Deux",
+    "clue": "La forma grácil de un cisne en reposo",
+    "learn": "Dos"
+  },
+  "562": {
+    "word": "Trois",
+    "clue": "El número de lados de un triángulo",
+    "learn": "Tres"
+  },
+  "563": {
+    "word": "Quatre",
+    "clue": "El número de patas de una mesa",
+    "learn": "Cuatro"
+  },
+  "564": {
+    "word": "Cinq",
+    "clue": "Los dedos de una mano",
+    "learn": "Cinco"
+  },
+  "565": {
+    "word": "Six",
+    "clue": "Piensa en el número de lados de un dado estándar",
+    "learn": "Seis"
+  },
+  "566": {
+    "word": "Sept",
+    "clue": "El número de días en una semana",
+    "learn": "Siete"
+  },
+  "567": {
+    "word": "Huit",
+    "clue": "El número de patas de una araña",
+    "learn": "Ocho"
+  },
+  "568": {
+    "word": "Neuf",
+    "clue": "Este número es el inverso de seis",
+    "learn": "Nueve"
+  },
+  "569": {
+    "word": "Dix",
+    "clue": "Fundamental para nuestro sistema de numeración, es el conteo de dedos en ambas manos",
+    "learn": "Diez"
+  },
+  "570": {
+    "word": "Onze",
+    "clue": "Solo un dígito lejos de una docena",
+    "learn": "Once"
+  },
+  "571": {
+    "word": "Jaune",
+    "clue": "Color de la luz del sol de la mañana",
+    "learn": "Amarillo"
+  },
+  "572": {
+    "word": "Orange",
+    "clue": "Una mezcla de rojo y amarillo",
+    "learn": "Naranja"
+  },
+  "573": {
+    "word": "Bleu",
+    "clue": "Color del cielo en un día despejado",
+    "learn": "Azul"
+  },
+  "574": {
+    "word": "Vert",
+    "clue": "Color muy común en la naturaleza",
+    "learn": "Verde"
+  },
+  "575": {
+    "word": "Blanc",
+    "clue": "Color de la nieve y los osos polares",
+    "learn": "Blanco"
+  },
+  "576": {
+    "word": "Violet",
+    "clue": "Color que combina el azul y el rojo",
+    "learn": "Violeta"
+  },
+  "577": {
+    "word": "Rouge",
+    "clue": "Un color cálido asociado con la pasión y la energía",
+    "learn": "Rojo"
+  },
+  "578": {
+    "word": "Noir",
+    "clue": "La ausencia de color o luz",
+    "learn": "Negro"
+  },
+  "579": {
+    "word": "Marron",
+    "clue": "Un color terroso asociado al suelo",
+    "learn": "Marrón"
+  },
+  "580": {
+    "word": "Rose",
+    "clue": "Un tono claro de rojo, a menudo asociado con la ternura",
+    "learn": "Rosa"
+  },
+  "581": {
+    "word": "Gris",
+    "clue": "Un color intermedio entre el blanco y el negro",
+    "learn": "Gris"
+  },
+  "582": {
+    "word": "Doré",
+    "clue": "Color que evoca la riqueza y el lujo",
+    "learn": "Dorado"
+  },
+  "583": {
+    "word": "Il",
+    "clue": "Usado como sujeto de un verbo para referirse a un hombre, niño o animal macho ya mencionado",
+    "learn": "Él"
+  },
+  "584": {
+    "word": "Elle",
+    "clue": "Usado como sujeto de un verbo para referirse a una mujer, niña o animal hembra ya mencionado",
+    "learn": "Ella"
+  },
+  "585": {
+    "word": "Je",
+    "clue": "Usado como sujeto de un verbo para referirse a la persona que habla o escribe",
+    "learn": "Yo"
+  },
+  "586": {
+    "word": "Vous",
+    "clue": "Usado para referirse a las personas a las que se habla o escribe",
+    "learn": "Tú/Usted"
+  },
+  "587": {
+    "word": "Nous",
+    "clue": "Usado como sujeto de un verbo para referirse a un grupo que incluye al hablante y al menos a otra persona",
+    "learn": "Nosotros/as"
+  },
+  "588": {
+    "word": "Ils",
+    "clue": "Usado como sujeto de un verbo para referirse a personas, animales o cosas ya mencionadas o, más generalmente, a un grupo de personas no claramente descritas",
+    "learn": "Ellos/as"
+  },
+  "589": {
+    "word": "Où",
+    "clue": "A, en o en qué lugar",
+    "learn": "Dónde"
+  },
+  "590": {
+    "word": "Comment",
+    "clue": "De qué manera o por qué métodos",
+    "learn": "Cómo"
+  },
+  "591": {
+    "word": "Quand",
+    "clue": "Usado para pedir información sobre el momento en que algo sucedió o sucederá",
+    "learn": "Cuándo"
+  },
+  "592": {
+    "word": "Pourquoi",
+    "clue": "Por qué razón",
+    "learn": "Por qué"
+  },
+  "593": {
+    "word": "Quoi",
+    "clue": "Usado para pedir información sobre personas o cosas",
+    "learn": "Qué"
+  },
+  "594": {
+    "word": "Qui",
+    "clue": "Usado especialmente en preguntas como sujeto u objeto de un verbo",
+    "learn": "Quién"
+  },
+  "595": {
+    "word": "Riz",
+    "clue": "Esta hierba cereal se cultiva ampliamente en climas cálidos",
+    "learn": "Arroz"
+  },
+  "596": {
+    "word": "Du lait",
+    "clue": "Un alimento líquido blanco producido por las vacas y utilizado como bebida o en la cocina",
+    "learn": "Leche"
+  },
+  "597": {
+    "word": "Fraise",
+    "clue": "Una fruta roja de sabor dulce que crece en una planta con hojas verdes y flores blancas",
+    "learn": "Fresa"
+  },
+  "598": {
+    "word": "Citron",
+    "clue": "Una fruta ovalada verde con jugo ácido",
+    "learn": "Limón"
+  },
+  "599": {
+    "word": "Le sel",
+    "clue": "Una sustancia cristalina blanca utilizada para agregar sabor a los alimentos y conservarlos",
+    "learn": "Sal"
+  },
+  "600": {
+    "word": "Sucre",
+    "clue": "Una sustancia cristalina dulce obtenida de diversas plantas",
+    "learn": "Azúcar"
+  },
+  "601": {
+    "word": "Tomate",
+    "clue": "Una fruta comestible pulposa roja o ocasionalmente amarilla y brillante",
+    "learn": "Tomate"
+  },
+  "602": {
+    "word": "Ail",
+    "clue": "Una planta bulbosa de fuerte olor y sabor, utilizada como condimento o medicina",
+    "learn": "Ajo"
+  },
+  "603": {
+    "word": "Poire",
+    "clue": "Una fruta comestible de color amarillo o verde parduzco",
+    "learn": "Pera"
+  },
+  "604": {
+    "word": "Melon",
+    "clue": "Una fruta grande y redonda con piel dura amarilla o verde, carne dulce y muchas semillas",
+    "learn": "Melón"
+  },
+  "605": {
+    "word": "Banane",
+    "clue": "Una fruta larga y curva con pulpa suave y amarilla y piel marrón",
+    "learn": "Plátano"
+  },
+  "606": {
+    "word": "Pomme",
+    "clue": "Una fruta redonda con pulpa firme y blanca y piel verde, roja o amarilla",
+    "learn": "Manzana"
+  },
+  "607": {
+    "word": "Pêche",
+    "clue": "Una fruta redonda y amarillenta con pulpa suave, jugosa y rojo amarillenta, y una gran semilla en su centro",
+    "learn": "Durazno"
+  },
+  "608": {
+    "word": "Framboise",
+    "clue": "Una fruta pequeña, redonda y roja de sabor dulce",
+    "learn": "Frambuesa"
+  },
+  "609": {
+    "word": "Cerise",
+    "clue": "Una fruta pequeña, redonda, roja o negra, de pulpa blanda con una sola semilla dura en el medio",
+    "learn": "Cereza"
+  },
+  "610": {
+    "word": "Carotte",
+    "clue": "Un vegetal largo, cónico y naranja de sabor dulce",
+    "learn": "Zanahoria"
+  },
+  "611": {
+    "word": "Champignon",
+    "clue": "Un hongo que crece en racimos en el suelo o en los árboles y se usa como alimento",
+    "learn": "Hongo"
+  },
+  "612": {
+    "word": "Haricot",
+    "clue": "Una semilla, o la vaina que contiene semillas, de varias plantas trepadoras, consumida como verdura",
+    "learn": "Frijol"
+  },
+  "613": {
+    "word": "Médecin",
+    "clue": "Una persona capacitada para tratar a personas enfermas o heridas",
+    "learn": "Médico"
+  },
+  "614": {
+    "word": "Infirmier",
+    "clue": "Una persona capacitada para ayudar a personas enfermas o heridas, especialmente en un hospital",
+    "learn": "Enfermero/a"
+  },
+  "615": {
+    "word": "Avocat",
+    "clue": "Una persona cuyo trabajo es asesorar y ayudar a las personas a resolver problemas legales",
+    "learn": "Abogado/a"
+  },
+  "616": {
+    "word": "Acteur",
+    "clue": "Una persona que actúa en películas, obras de teatro o televisión",
+    "learn": "Actor/Actriz"
+  },
+  "617": {
+    "word": "Maire",
+    "clue": "Una persona elegida o seleccionada para dirigir al grupo que gobierna una ciudad",
+    "learn": "Alcalde/Alcaldesa"
+  },
+  "618": {
+    "word": "Artisan",
+    "clue": "Una persona hábil en hacer o fabricar algo",
+    "learn": "Artesano/a"
+  },
+  "619": {
+    "word": "Batteur",
+    "clue": "Una persona que toca la batería o un conjunto de tambores",
+    "learn": "Baterista"
+  },
+  "620": {
+    "word": "Bassiste",
+    "clue": "Una persona que toca el bajo",
+    "learn": "Bajista"
+  },
+  "621": {
+    "word": "Banquier",
+    "clue": "Una persona que trabaja en un banco",
+    "learn": "Banquero/a"
+  },
+  "622": {
+    "word": "Police",
+    "clue": "Una fuerza oficial cuyo trabajo es mantener el orden público, lidiar con el crimen y hacer que la gente obedezca la ley",
+    "learn": "Policía"
+  },
+  "623": {
+    "word": "Dentiste",
+    "clue": "Una persona cuyo trabajo es cuidar los dientes de las personas",
+    "learn": "Dentista"
+  },
+  "624": {
+    "word": "Pompier",
+    "clue": "Un hombre cuyo trabajo es detener incendios no deseados",
+    "learn": "Bombero"
+  },
+  "625": {
+    "word": "Caissier",
+    "clue": "Una persona que trabaja en una tienda o banco y recibe dinero de los clientes",
+    "learn": "Cajero/a"
+  },
+  "626": {
+    "word": "Facteur",
+    "clue": "Una persona cuyo trabajo es entregar cartas y paquetes",
+    "learn": "Cartero/a"
+  },
+  "627": {
+    "word": "Boucher",
+    "clue": "Una persona cuyo trabajo es cortar y vender carne",
+    "learn": "Carnicero/a"
+  },
+  "628": {
+    "word": "Député",
+    "clue": "Una persona que es elegida para representar a un partido político en un gobierno",
+    "learn": "Diputado/a"
+  },
+  "629": {
+    "word": "Gérant",
+    "clue": "Una persona que está a cargo de un negocio u organización",
+    "learn": "Gerente"
+  },
+  "630": {
+    "word": "Soldat",
+    "clue": "Una persona que está en un ejército y usa su uniforme, especialmente alguien que pelea cuando hay una guerra",
+    "learn": "Soldado/a"
+  },
+  "631": {
+    "word": "Boxe",
+    "clue": "Un deporte en el que dos competidores pelean golpeándose con las manos",
+    "learn": "Boxeo"
+  },
+  "632": {
+    "word": "Karaté",
+    "clue": "Un arte marcial japonés en el que se usan las manos y los pies para pelear",
+    "learn": "Karate"
+  },
+  "633": {
+    "word": "Ski",
+    "clue": "Un deporte en el que se viaja en esquíes por una colina cubierta de nieve",
+    "learn": "Esquí"
+  },
+  "634": {
+    "word": "Golf",
+    "clue": "Un deporte en el que se golpea una pequeña bola con un palo largo en un hoyo en el suelo",
+    "learn": "Golf"
+  },
+  "635": {
+    "word": "Judo",
+    "clue": "Un deporte en el que dos personas pelean usando sus brazos y piernas y manos y pies, e intentan tirarse unos a otros al suelo",
+    "learn": "Judo"
+  },
+  "636": {
+    "word": "Surf",
+    "clue": "El deporte de montar una ola en una tabla especial",
+    "learn": "Surf"
+  },
+  "637": {
+    "word": "Tennis",
+    "clue": "Un deporte en el que dos personas o equipos juegan entre sí golpeando una pelota con un palo largo sobre una red",
+    "learn": "Tenis"
+  },
+  "638": {
+    "word": "Yoga",
+    "clue": "Un deporte en el que se hacen ejercicios para fortalecer y flexibilizar el cuerpo",
+    "learn": "Yoga"
+  },
+  "639": {
+    "word": "Échecs",
+    "clue": "Un juego en el que dos personas o equipos juegan entre sí moviendo piezas en un tablero",
+    "learn": "Ajedrez"
+  },
+  "640": {
+    "word": "Alpinisme",
+    "clue": "El deporte o actividad de escalar montañas",
+    "learn": "Alpinismo"
+  },
+  "641": {
+    "word": "Athlétisme",
+    "clue": "Un deporte en el que las personas corren, saltan y lanzan cosas",
+    "learn": "Atletismo"
+  },
+  "642": {
+    "word": "Basketball",
+    "clue": "Un juego jugado por dos equipos de cinco jugadores que anotan puntos lanzando una pelota grande a través de una red abierta colgada de un anillo de metal",
+    "learn": "Baloncesto"
+  },
+  "643": {
+    "word": "Baseball",
+    "clue": "Un juego jugado con un bate y una pelota entre dos equipos de nueve jugadores",
+    "learn": "Béisbol"
+  },
+  "644": {
+    "word": "Cyclisme",
+    "clue": "Un deporte en el que la gente monta en bicicleta a larga distancia",
+    "learn": "Ciclismo"
+  },
+  "645": {
+    "word": "Équitation",
+    "clue": "El deporte de montar a caballo",
+    "learn": "Equitación"
+  },
+  "646": {
+    "word": "Football",
+    "clue": "Un juego jugado por dos equipos de once jugadores que patean una pelota para marcar goles",
+    "learn": "Fútbol"
+  },
+  "647": {
+    "word": "Handball",
+    "clue": "Un juego similar al fútbol, jugado lanzando una pelota en lugar de patearla",
+    "learn": "Balonmano"
+  },
+  "648": {
+    "word": "Natation",
+    "clue": "Un deporte en el que la gente nada en una piscina o en el mar",
+    "learn": "Natación"
+  },
+  "649": {
+    "word": "Porte",
+    "clue": "Un objeto grande, pesado y móvil que se abre y cierra girando una manija",
+    "learn": "Puerta"
+  },
+  "650": {
+    "word": "Fenêtre",
+    "clue": "Un agujero en una pared o una puerta a través del cual se mira o que se abre para dejar entrar o salir aire",
+    "learn": "Ventana"
+  },
+  "651": {
+    "word": "Sol",
+    "clue": "La superficie de una habitación o edificio sobre la que se camina",
+    "learn": "Suelo"
+  },
+  "652": {
+    "word": "Plafond",
+    "clue": "La parte superior de una habitación o edificio",
+    "learn": "Techo"
+  },
+  "653": {
+    "word": "Mur",
+    "clue": "Una superficie vertical que separa dos habitaciones o partes de un edificio",
+    "learn": "Pared"
+  },
+  "654": {
+    "word": "Bouchon",
+    "clue": "Un enchufe eléctrico",
+    "learn": "Enchufe"
+  },
+  "655": {
+    "word": "Escalier",
+    "clue": "Un conjunto de escalones por los que se sube o baja para pasar de un piso de un edificio a otro",
+    "learn": "Escalera"
+  },
+  "656": {
+    "word": "Lit",
+    "clue": "Un mueble en el que se duerme",
+    "learn": "Cama"
+  },
+  "657": {
+    "word": "Penderie",
+    "clue": "Un mueble con estantes y un riel para colgar ropa",
+    "learn": "Armario"
+  },
+  "658": {
+    "word": "Chambre",
+    "clue": "Una habitación en una casa o piso donde se duerme",
+    "learn": "Habitación"
+  },
+  "659": {
+    "word": "Oreiller",
+    "clue": "Un objeto suave y plano que se coloca debajo de la cabeza cuando se duerme",
+    "learn": "Almohada"
+  },
+  "660": {
+    "word": "Cuisine",
+    "clue": "Una habitación en una casa donde se cocina y se come",
+    "learn": "Cocina"
+  },
+  "661": {
+    "word": "Salon",
+    "clue": "Una habitación en una casa donde la gente se sienta y relaja",
+    "learn": "Sala de estar"
+  },
+  "662": {
+    "word": "Lampe",
+    "clue": "Un mueble que emite luz",
+    "learn": "Lámpara"
+  },
+  "663": {
+    "word": "Commode",
+    "clue": "Un mueble con cajones para guardar ropa",
+    "learn": "Cómoda"
+  },
+  "664": {
+    "word": "Balcon",
+    "clue": "Un área plana que sobresale de un edificio y está rodeada de paredes",
+    "learn": "Balcón"
+  },
+  "665": {
+    "word": "Terrasse",
+    "clue": "Un área plana que está rodeada de paredes y está construida en la parte superior de un edificio",
+    "learn": "Terraza"
+  },
+  "666": {
+    "word": "Garage",
+    "clue": "Una habitación en una casa donde se estaciona el automóvil",
+    "learn": "Garaje"
+  },
+  "667": {
+    "word": "Chien",
+    "clue": "Un animal de cuatro patas que tiene una cola corta y que ladra o aúlla para mostrar que está enojado o feliz",
+    "learn": "Perro"
+  },
+  "668": {
+    "word": "Chat",
+    "clue": "Un animal de cuatro patas que tiene una cola corta y que maúlla para mostrar que está enojado o feliz",
+    "learn": "Gato"
+  },
+  "669": {
+    "word": "Oiseau",
+    "clue": "Un animal de sangre caliente que tiene plumas, alas y dos patas y que vuela",
+    "learn": "Ave"
+  },
+  "670": {
+    "word": "Souris",
+    "clue": "Un animal pequeño que tiene una nariz puntiaguda, una cola larga y orejas grandes",
+    "learn": "Ratón"
+  },
+  "671": {
+    "word": "Lapin",
+    "clue": "Un animal pequeño que tiene orejas largas y patas traseras largas y que salta sobre sus patas traseras",
+    "learn": "Conejo"
+  },
+  "672": {
+    "word": "Cheval",
+    "clue": "Un animal grande con cuatro patas, una cola larga y un cuello largo que se usa para montar",
+    "learn": "Caballo"
+  },
+  "673": {
+    "word": "Mouton",
+    "clue": "Un animal de granja con lana gruesa que come hierba y se cría por su lana, piel y carne",
+    "learn": "Oveja"
+  },
+  "674": {
+    "word": "Vache",
+    "clue": "Un animal de granja que da leche y se cría por su leche y carne",
+    "learn": "Vaca"
+  },
+  "675": {
+    "word": "Chèvre",
+    "clue": "Un animal relacionado con las ovejas que generalmente tiene cuernos y barba",
+    "learn": "Cabra"
+  },
+  "676": {
+    "word": "Tortue",
+    "clue": "Un reptil que vive en tierra y tiene un caparazón duro en la espalda",
+    "learn": "Tortuga"
+  },
+  "677": {
+    "word": "Hamster",
+    "clue": "Un animal pequeño que tiene un cuerpo como un ratón y una cola larga y que vive en una jaula",
+    "learn": "Hamster"
+  },
+  "678": {
+    "word": "Canari",
+    "clue": "Un pájaro pequeño que se mantiene como mascota y que canta",
+    "learn": "Canario"
+  },
+  "679": {
+    "word": "Canard",
+    "clue": "Un pájaro que vive cerca del agua y tiene patas palmeadas, cuello corto y pico grande",
+    "learn": "Pato"
+  },
+  "680": {
+    "word": "Poule",
+    "clue": "Una gallina adulta hembra, a menudo criada por sus huevos",
+    "learn": "Gallina"
+  },
+  "681": {
+    "word": "Coq",
+    "clue": "Un gallo adulto macho",
+    "learn": "Gallo"
+  },
+  "682": {
+    "word": "Cochon",
+    "clue": "Un animal de granja grande, rosado, marrón o negro con patas cortas y cola curvada",
+    "learn": "Cerdo"
+  },
+  "683": {
+    "word": "Renard",
+    "clue": "Un animal pequeño con nariz puntiaguda, cola larga y orejas grandes",
+    "learn": "Zorro"
+  },
+  "684": {
+    "word": "Hibou",
+    "clue": "Un ave con cara plana y ojos grandes que caza pequeños mamíferos por la noche",
+    "learn": "Búho"
+  },
+  "685": {
+    "word": "Avion",
+    "clue": "Un vehículo grande que vuela por el aire y tiene alas y motores y que transporta pasajeros o mercancías",
+    "learn": "Avión"
+  },
+  "686": {
+    "word": "Jet",
+    "clue": "Una aeronave con motor a reacción capaz de volar muy rápido",
+    "learn": "Jet"
+  },
+  "687": {
+    "word": "Bus",
+    "clue": "Un vehículo que transporta pasajeros y que circula por carreteras y tiene asientos y conductor",
+    "learn": "Autobús"
+  },
+  "688": {
+    "word": "Train",
+    "clue": "Un vehículo que circula sobre raíles y que transporta pasajeros y mercancías",
+    "learn": "Tren"
+  },
+  "689": {
+    "word": "Bac",
+    "clue": "Un barco o nave para transportar pasajeros y, a menudo, vehículos a través de una zona de agua, especialmente como servicio regular",
+    "learn": "Ferry"
+  },
+  "690": {
+    "word": "Cargo",
+    "clue": "Un barco de carga o carguero es un barco mercante que transporta carga, mercancías y materiales de un puerto a otro",
+    "learn": "Buque de carga"
+  },
+  "691": {
+    "word": "Taxi",
+    "clue": "Un vehículo de alquiler que tiene cuatro ruedas y un conductor y que lleva a los pasajeros a donde quieren ir",
+    "learn": "Taxi"
+  },
+  "692": {
+    "word": "Bateau",
+    "clue": "Un vehículo grande que flota en el agua y que transporta pasajeros o mercancías",
+    "learn": "Barco"
+  },
+  "693": {
+    "word": "Vélo",
+    "clue": "Un vehículo con dos ruedas que tiene un cuadro con un asiento y un manillar y que se mueve con pedales",
+    "learn": "Bicicleta"
+  },
+  "694": {
+    "word": "Camion",
+    "clue": "Un vehículo grande que tiene una caja grande en la parte trasera y que se utiliza para transportar mercancías",
+    "learn": "Camión"
+  },
+  "695": {
+    "word": "Tramway",
+    "clue": "Un sistema de transporte que utiliza tranvías",
+    "learn": "Tranvía"
+  },
+  "696": {
+    "word": "Hélicoptère",
+    "clue": "Una máquina que puede volar y que tiene un gran conjunto de grandes palas y uno o más motores",
+    "learn": "Helicóptero"
+  },
+  "697": {
+    "word": "Dirigeable",
+    "clue": "Una aeronave grande sin alas, que consta de una gran bolsa llena de gas que es más ligero que el aire y que es impulsada por motores",
+    "learn": "Dirigible"
+  },
+  "698": {
+    "word": "Voiture",
+    "clue": "Un vehículo que tiene cuatro ruedas, un motor y asientos para el conductor y los pasajeros",
+    "learn": "Coche"
+  },
+  "699": {
+    "word": "Fourgon",
+    "clue": "Un vehículo grande que tiene una caja grande en la parte trasera y que se utiliza para transportar mercancías",
+    "learn": "Furgoneta"
+  },
+  "700": {
+    "word": "Métro",
+    "clue": "Un sistema de transporte que utiliza tranvías",
+    "learn": "Metro"
+  },
+  "701": {
+    "word": "Tracteur",
+    "clue": "Una máquina que puede tirar de cargas pesadas",
+    "learn": "Tractor"
+  },
+  "702": {
+    "word": "Croisière",
+    "clue": "Un largo viaje en barco o barco, especialmente uno que es agradable y que visita diferentes lugares",
+    "learn": "Crucero"
+  },
+  "703": {
+    "word": "Cero",
+    "clue": "El número de lados de un círculo perfecto",
+    "learn": "Cero"
+  },
+  "704": {
+    "word": "Uno",
+    "clue": "El único protagonista de una historia",
+    "learn": "Uno"
+  },
+  "705": {
+    "word": "Due",
+    "clue": "La forma grácil de un cisne en reposo",
+    "learn": "Dos"
+  },
+  "706": {
+    "word": "Tre",
+    "clue": "El número de lados de un triángulo",
+    "learn": "Tres"
+  },
+  "707": {
+    "word": "Quattro",
+    "clue": "El número de patas de una mesa",
+    "learn": "Cuatro"
+  },
+  "708": {
+    "word": "Cinque",
+    "clue": "Los dedos de una mano",
+    "learn": "Cinco"
+  },
+  "709": {
+    "word": "Sei",
+    "clue": "Piensa en el número de lados de un dado estándar",
+    "learn": "Seis"
+  },
+  "710": {
+    "word": "Sette",
+    "clue": "El número de días de la semana",
+    "learn": "Siete"
+  },
+  "711": {
+    "word": "Otto",
+    "clue": "El número de patas de una araña",
+    "learn": "Ocho"
+  },
+  "712": {
+    "word": "Nove",
+    "clue": "Este número es el reverso de seis",
+    "learn": "Nueve"
+  },
+  "713": {
+    "word": "Dieci",
+    "clue": "Fundamental para nuestro sistema de numeración, es el recuento de dedos en ambas manos",
+    "learn": "Diez"
+  },
+  "714": {
+    "word": "Undici",
+    "clue": "A solo un dígito de una docena",
+    "learn": "Once"
+  },
+  "715": {
+    "word": "Bianco",
+    "clue": "La ausencia de color, a menudo asociada con la pureza y la limpieza",
+    "learn": "Blanco"
+  },
+  "716": {
+    "word": "Nero",
+    "clue": "El color que absorbe toda la luz y es el tono más oscuro",
+    "learn": "Negro"
+  },
+  "717": {
+    "word": "Grigio",
+    "clue": "Un color neutro que es una mezcla de blanco y negro",
+    "learn": "Gris"
+  },
+  "718": {
+    "word": "Marrone",
+    "clue": "Un color cálido a menudo asociado con la tierra y la naturaleza",
+    "learn": "Marrón"
+  },
+  "719": {
+    "word": "Blu",
+    "clue": "El color del cielo y el mar",
+    "learn": "Azul"
+  },
+  "720": {
+    "word": "Rosso",
+    "clue": "Un color primario a menudo asociado con la pasión y el amor",
+    "learn": "Rojo"
+  },
+  "721": {
+    "word": "Arancione",
+    "clue": "Una fruta cítrica que comparte su nombre con este color",
+    "learn": "Naranja"
+  },
+  "722": {
+    "word": "Giallo",
+    "clue": "Un color soleado y alegre, a menudo asociado con la felicidad",
+    "learn": "Amarillo"
+  },
+  "723": {
+    "word": "Verde",
+    "clue": "Un color a menudo asociado con la naturaleza, el crecimiento y la frescura",
+    "learn": "Verde"
+  },
+  "724": {
+    "word": "Rosa",
+    "clue": "Un color claro a menudo asociado con la feminidad y el romance",
+    "learn": "Rosa"
+  },
+  "725": {
+    "word": "Argento",
+    "clue": "Un color metálico brillante y reflectante",
+    "learn": "Plata"
+  },
+  "726": {
+    "word": "Oro",
+    "clue": "Un color metálico precioso y valioso",
+    "learn": "Oro"
+  },
+  "727": {
+    "word": "Io",
+    "clue": "En inglés moderno, es el pronombre singular en primera persona",
+    "learn": "Yo"
+  },
+  "728": {
+    "word": "Tu",
+    "clue": "Se usa para referirse a la persona o personas a las que se habla o escribe",
+    "learn": "Tú"
+  },
+  "729": {
+    "word": "Lui",
+    "clue": "Se usa como sujeto de un verbo para referirse a un hombre, niño o animal macho que ya ha sido mencionado",
+    "learn": "Él"
+  },
+  "730": {
+    "word": "Lei",
+    "clue": "Se usa como sujeto de un verbo para referirse a una mujer, niña o animal hembra que ya ha sido mencionada",
+    "learn": "Ella"
+  },
+  "731": {
+    "word": "Loro",
+    "clue": "Se usa como sujeto de un verbo para referirse a personas, animales o cosas ya mencionadas o, más generalmente, a un grupo de personas no claramente descritas",
+    "learn": "Ellos/Ellas"
+  },
+  "732": {
+    "word": "Noi",
+    "clue": "Se usa como sujeto de un verbo para referirse a un grupo que incluye al hablante y al menos a otra persona",
+    "learn": "Nosotros/Nosotras"
+  },
+  "733": {
+    "word": "Dove?",
+    "clue": "Se usa para preguntar sobre el lugar o la posición de alguien o algo",
+    "learn": "¿Dónde?"
+  },
+  "734": {
+    "word": "Come?",
+    "clue": "Se usa para preguntar sobre la forma en que sucede o se hace algo",
+    "learn": "¿Cómo?"
+  },
+  "735": {
+    "word": "Quando?",
+    "clue": "Se usa para preguntar sobre el momento en que sucede algo",
+    "learn": "¿Cuándo?"
+  },
+  "736": {
+    "word": "Perché?",
+    "clue": "Se usa para preguntar sobre la razón de algo",
+    "learn": "¿Por qué?"
+  },
+  "737": {
+    "word": "Quale?",
+    "clue": "Se usa para preguntar sobre una o más personas o cosas de un conjunto definido",
+    "learn": "¿Cuál?"
+  },
+  "738": {
+    "word": "Chi?",
+    "clue": "Se usa para preguntar sobre una persona o personas",
+    "learn": "¿Quién?"
+  },
+  "739": {
+    "word": "Vita",
+    "clue": "El período entre el nacimiento y la muerte de un ser vivo",
+    "learn": "Vida"
+  },
+  "740": {
+    "word": "Tempo",
+    "clue": "El progreso continuo indefinido de la existencia y los eventos en el pasado, presente y futuro considerado como un todo",
+    "learn": "Tiempo"
+  },
+  "741": {
+    "word": "Anno",
+    "clue": "Un período de 365 días",
+    "learn": "Año"
+  },
+  "742": {
+    "word": "Giorno",
+    "clue": "Un período de 24 horas",
+    "learn": "Día"
+  },
+  "743": {
+    "word": "Persona",
+    "clue": "Un ser humano considerado como individuo",
+    "learn": "Persona"
+  },
+  "744": {
+    "word": "Cosa",
+    "clue": "Un objeto material sin vida ni conciencia",
+    "learn": "Cosa"
+  },
+  "745": {
+    "word": "Mondo",
+    "clue": "La tierra, junto con todos sus países, pueblos y características naturales",
+    "learn": "Mundo"
+  },
+  "746": {
+    "word": "Amico",
+    "clue": "Una persona con quien se tiene un vínculo de afecto mutuo",
+    "learn": "Amigo"
+  },
+  "747": {
+    "word": "Modo",
+    "clue": "Un método, estilo o manera de hacer algo",
+    "learn": "Modo"
+  },
+  "748": {
+    "word": "Luogo",
+    "clue": "Una posición o punto particular en el espacio",
+    "learn": "Lugar"
+  },
+  "749": {
+    "word": "Parte",
+    "clue": "Una pieza o segmento de algo, como un objeto, actividad o período de tiempo",
+    "learn": "Parte"
+  },
+  "750": {
+    "word": "Fatto",
+    "clue": "Algo que se sabe o se ha demostrado que es cierto",
+    "learn": "Hecho"
+  },
+  "751": {
+    "word": "Casa",
+    "clue": "Un edificio para la habitación humana",
+    "learn": "Casa"
+  },
+  "752": {
+    "word": "Amore",
+    "clue": "Un sentimiento intenso de profundo afecto",
+    "learn": "Amor"
+  },
+  "753": {
+    "word": "Problema",
+    "clue": "Un asunto o situación considerado indeseable o dañino y que necesita ser tratado y superado",
+    "learn": "Problema"
+  },
+  "754": {
+    "word": "Parola",
+    "clue": "Un elemento significativo distinto y único del habla o la escritura",
+    "learn": "Palabra"
+  },
+  "755": {
+    "word": "Ragione",
+    "clue": "Una causa, explicación o justificación de una acción o evento",
+    "learn": "Razón"
+  },
+  "756": {
+    "word": "Neve",
+    "clue": "Vapor de agua atmosférico congelado en cristales de hielo y que cae en copos blancos ligeros o yace en el suelo como una capa blanca",
+    "learn": "Nieve"
+  },
+  "757": {
+    "word": "Mela",
+    "clue": "Una fruta redonda con pulpa firme, blanca y piel verde, roja o amarilla",
+    "learn": "Manzana"
+  },
+  "758": {
+    "word": "Banana",
+    "clue": "Una fruta curva larga que crece en racimos y tiene pulpa suave y piel amarilla cuando madura",
+    "learn": "Plátano"
+  },
+  "759": {
+    "word": "Limone",
+    "clue": "Una fruta redonda amarilla con piel gruesa y jugo ácido, utilizada en cocina y para hacer limonada",
+    "learn": "Limón"
+  },
+  "760": {
+    "word": "Fragola",
+    "clue": "Una fruta roja dulce y suave con una superficie llena de semillas",
+    "learn": "Fresa"
+  },
+  "761": {
+    "word": "Uva",
+    "clue": "Una fruta pequeña, redonda y de color púrpura oscuro con sabor dulce, utilizada para hacer vino y consumida como fruta",
+    "learn": "Uva"
+  },
+  "762": {
+    "word": "Pera",
+    "clue": "Una fruta dulce, jugosa, amarilla o verde con base redonda y parte superior ligeramente puntiaguda",
+    "learn": "Pera"
+  },
+  "763": {
+    "word": "Ananas",
+    "clue": "Una planta tropical con un fruto múltiple comestible compuesto de bayas coalescentes, también el fruto en sí",
+    "learn": "Piña"
+  },
+  "764": {
+    "word": "Kiwi",
+    "clue": "Una fruta ovalada pequeña con piel marrón, carne verde y semillas negras",
+    "learn": "Kiwi"
+  },
+  "765": {
+    "word": "Melone",
+    "clue": "Una fruta grande y redonda con una cáscara dura verde o amarilla, pulpa dulce y jugosa, y muchas semillas",
+    "learn": "Melón"
+  },
+  "766": {
+    "word": "Pesca",
+    "clue": "Una fruta jugosa con piel amarilla o rosada y una piedra peluda",
+    "learn": "Durazno"
+  },
+  "767": {
+    "word": "Carota",
+    "clue": "Una raíz de color naranja cónica que se come como verdura",
+    "learn": "Zanahoria"
+  },
+  "768": {
+    "word": "Avocado",
+    "clue": "Una fruta en forma de pera con una piel rugosa y correosa, pulpa comestible suave y aceitosa, y una gran semilla",
+    "learn": "Aguacate"
+  },
+  "769": {
+    "word": "Cavolo",
+    "clue": "Una planta bienal de hojas verdes o moradas, que se come cocida o cruda en ensaladas",
+    "learn": "Repollo"
+  },
+  "770": {
+    "word": "Patata",
+    "clue": "Una verdura redonda que crece bajo tierra y tiene carne blanca con piel marrón claro, roja o rosa, o la planta en la que crecen",
+    "learn": "Patata"
+  },
+  "771": {
+    "word": "Spinaci",
+    "clue": "Una verdura de hojas verdes oscuras anchas que se come cocida o cruda",
+    "learn": "Espinacas"
+  },
+  "772": {
+    "word": "Sedano",
+    "clue": "Una verdura con tallos largos, delgados, blanquecinos o verde pálido que se pueden comer crudos o cocidos",
+    "learn": "Apio"
+  },
+  "773": {
+    "word": "Aglio",
+    "clue": "Una planta de la familia de la cebolla que tiene un sabor y olor fuerte y se usa en la cocina para agregar sabor",
+    "learn": "Ajo"
+  },
+  "774": {
+    "word": "Rapa",
+    "clue": "Una verdura de raíz que es blanca en la parte inferior y púrpura en la parte superior, a menudo utilizada en guisos y sopas",
+    "learn": "Nabo"
+  },
+  "775": {
+    "word": "Leone",
+    "clue": "Un gran animal salvaje de la familia de los felinos, con pelaje marrón claro",
+    "learn": "León"
+  },
+  "776": {
+    "word": "Tigre",
+    "clue": "Un gran felino salvaje que tiene pelaje amarillo con líneas negras",
+    "learn": "Tigre"
+  },
+  "777": {
+    "word": "Giraffa",
+    "clue": "Un gran mamífero rumiante africano con cuello y patas delanteras largas, con un pelaje con patrones marrones, amarillos y negros",
+    "learn": "Jirafa"
+  },
+  "778": {
+    "word": "Aquila",
+    "clue": "Un ave rapaz grande con cabeza ancha, pico curvo y garras poderosas",
+    "learn": "Águila"
+  },
+  "779": {
+    "word": "Zebra",
+    "clue": "Un animal parecido a un caballo con rayas blancas y negras",
+    "learn": "Cebra"
+  },
+  "780": {
+    "word": "Orso",
+    "clue": "Un animal salvaje grande y fuerte con pelaje grueso",
+    "learn": "Oso"
+  },
+  "781": {
+    "word": "Lupo",
+    "clue": "Un animal salvaje de la familia de los cánidos",
+    "learn": "Lobo"
+  },
+  "782": {
+    "word": "Volpe",
+    "clue": "Un mamífero salvaje perteneciente a la familia de los cánidos que tiene cara y orejas puntiagudas",
+    "learn": "Zorro"
+  },
+  "783": {
+    "word": "Cane",
+    "clue": "Un animal con pelo, cuatro patas y cola, que se mantiene como mascota",
+    "learn": "Perro"
+  },
+  "784": {
+    "word": "Gatto",
+    "clue": "Un animal con pelo que se mantiene como mascota",
+    "learn": "Gato"
+  },
+  "785": {
+    "word": "Cavallo",
+    "clue": "Un animal grande con cuatro patas que la gente monta o usa para tirar de cosas pesadas",
+    "learn": "Caballo"
+  },
+  "786": {
+    "word": "Maiale",
+    "clue": "Un gran animal de granja rosado que tiene cuatro patas y una cola corta",
+    "learn": "Cerdo"
+  },
+  "787": {
+    "word": "Mucca",
+    "clue": "Un gran animal de granja hembra criado por su leche",
+    "learn": "Vaca"
+  },
+  "788": {
+    "word": "Foca",
+    "clue": "Un animal con piel lisa que come pescado y vive cerca del mar",
+    "learn": "Foca"
+  },
+  "789": {
+    "word": "Capra",
+    "clue": "Un animal con cuernos que se cría por la leche que produce",
+    "learn": "Cabra"
+  },
+  "790": {
+    "word": "Falco",
+    "clue": "Un ave con alas puntiagudas y cola larga, que puede ser entrenada para cazar otras aves y animales pequeños",
+    "learn": "Halcón"
+  },
+  "791": {
+    "word": "Rana",
+    "clue": "Un animal pequeño que tiene piel lisa, vive en el agua y en la tierra, tiene patas traseras largas y poderosas con las que salta de un lugar a otro",
+    "learn": "Rana"
+  },
+  "792": {
+    "word": "Ragno",
+    "clue": "Un arácnido con ocho patas, dos partes principales del cuerpo y que a menudo teje telarañas para atrapar presas",
+    "learn": "Araña"
+  },
+  "793": {
+    "word": "Medico",
+    "clue": "Una persona calificada para tratar a personas enfermas o heridas",
+    "learn": "Médico"
+  },
+  "794": {
+    "word": "Dentista",
+    "clue": "Una persona calificada para tratar enfermedades y afecciones que afectan los dientes y las encías",
+    "learn": "Dentista"
+  },
+  "795": {
+    "word": "Artista",
+    "clue": "Una persona que crea obras de arte, especialmente pinturas o esculturas",
+    "learn": "Artista"
+  },
+  "796": {
+    "word": "Attore",
+    "clue": "Una persona que actúa en una obra de teatro, película o programa de televisión",
+    "learn": "Actor"
+  },
+  "797": {
+    "word": "Pilota",
+    "clue": "Una persona que opera una aeronave",
+    "learn": "Piloto"
+  },
+  "798": {
+    "word": "Marinaio",
+    "clue": "Una persona que trabaja en un barco o bote",
+    "learn": "Marinero"
+  },
+  "799": {
+    "word": "Atleta",
+    "clue": "Una persona competente en deportes y otras formas de ejercicio físico",
+    "learn": "Atleta"
+  },
+  "800": {
+    "word": "Fornaio",
+    "clue": "Una persona que hornea y vende pan, pasteles y artículos similares",
+    "learn": "Panadero"
+  },
+  "801": {
+    "word": "Pulitore",
+    "clue": "Una persona cuyo trabajo es limpiar edificios, calles, etc.",
+    "learn": "Limpiador"
+  },
+  "802": {
+    "word": "Macellaio",
+    "clue": "Una persona que corta y vende carne en una tienda",
+    "learn": "Carnicero"
+  },
+  "803": {
+    "word": "Chimico",
+    "clue": "Una persona que trabaja en el estudio científico de la composición, propiedades y comportamiento de las sustancias",
+    "learn": "Químico"
+  },
+  "804": {
+    "word": "Bancario",
+    "clue": "Una persona que trabaja en un banco o para un banco",
+    "learn": "Banquero"
+  },
+  "805": {
+    "word": "Geologo",
+    "clue": "Una persona que estudia la estructura física, la sustancia y la historia de la Tierra",
+    "learn": "Geólogo"
+  },
+  "806": {
+    "word": "Segretario",
+    "clue": "Una persona empleada en una oficina, que se ocupa de la correspondencia, hace citas y realiza tareas administrativas",
+    "learn": "Secretario"
+  },
+  "807": {
+    "word": "Veterinario",
+    "clue": "Una persona calificada para tratar animales enfermos o heridos",
+    "learn": "Veterinario"
+  },
+  "808": {
+    "word": "Astronomo",
+    "clue": "Una persona que estudia las estrellas y los planetas",
+    "learn": "Astrónomo"
+  },
+  "809": {
+    "word": "Scrittore",
+    "clue": "Una persona que ha escrito una obra o obras particulares, especialmente en un campo particular",
+    "learn": "Escritor"
+  },
+  "810": {
+    "word": "Giardiniere",
+    "clue": "Una persona que cuida y cultiva un jardín como pasatiempo o para ganarse la vida",
+    "learn": "Jardinero"
+  },
+  "811": {
+    "word": "Corto",
+    "clue": "Pequeño en longitud, distancia o altura",
+    "learn": "Corto"
+  },
+  "812": {
+    "word": "Lungo",
+    "clue": "Siendo una distancia entre dos puntos que es mayor que el promedio o lo habitual",
+    "learn": "Largo"
+  },
+  "813": {
+    "word": "Creativo",
+    "clue": "Relativo o que involucra el uso de la imaginación o ideas originales para crear algo",
+    "learn": "Creativo"
+  },
+  "814": {
+    "word": "Facile",
+    "clue": "Logrado sin gran esfuerzo",
+    "learn": "Fácil"
+  },
+  "815": {
+    "word": "Difficile",
+    "clue": "Necesitando mucho esfuerzo o habilidad para lograr, tratar o entender",
+    "learn": "Difícil"
+  },
+  "816": {
+    "word": "Bello",
+    "clue": "Agradable a los sentidos o la mente estéticamente",
+    "learn": "Hermoso"
+  },
+  "817": {
+    "word": "Interessante",
+    "clue": "Despertando curiosidad o interés",
+    "learn": "Interesante"
+  },
+  "818": {
+    "word": "Noioso",
+    "clue": "No interesante; tedioso",
+    "learn": "Aburrido"
+  },
+  "819": {
+    "word": "Divertente",
+    "clue": "Causando risa y diversión; divertido",
+    "learn": "Divertido"
+  },
+  "820": {
+    "word": "Felice",
+    "clue": "Sintiendo o mostrando placer o satisfacción",
+    "learn": "Feliz"
+  },
+  "821": {
+    "word": "Intelligente",
+    "clue": "Capaz de aprender y entender cosas fácilmente",
+    "learn": "Inteligente"
+  },
+  "822": {
+    "word": "Grande",
+    "clue": "De considerable tamaño o extensión",
+    "learn": "Grande"
+  },
+  "823": {
+    "word": "Piccolo",
+    "clue": "De un tamaño menor de lo normal o habitual",
+    "learn": "Pequeño"
+  },
+  "824": {
+    "word": "Nuovo",
+    "clue": "No existente antes; hecho, introducido o descubierto recientemente o ahora por primera vez",
+    "learn": "Nuevo"
+  },
+  "825": {
+    "word": "Vecchio",
+    "clue": "Habiendo vivido durante mucho tiempo; ya no joven",
+    "learn": "Viejo"
+  },
+  "826": {
+    "word": "Giovane",
+    "clue": "Habiendo vivido o existido por poco tiempo",
+    "learn": "Joven"
+  },
+  "827": {
+    "word": "Timido",
+    "clue": "Nervioso o tímido en compañía de otras personas",
+    "learn": "Tímido"
+  },
+  "828": {
+    "word": "Alto",
+    "clue": "De gran altura o más que la media, especialmente (con referencia a un objeto) en relación con el ancho",
+    "learn": "Alto"
+  },
+  "829": {
+    "word": "Essere",
+    "clue": "Existir o vivir",
+    "learn": "Ser"
+  },
+  "830": {
+    "word": "Avere",
+    "clue": "Poseer, tener o sostener",
+    "learn": "Tener"
+  },
+  "831": {
+    "word": "Andare",
+    "clue": "Viajar o moverse a otro lugar",
+    "learn": "Ir"
+  },
+  "832": {
+    "word": "Venire",
+    "clue": "Moverse o viajar en dirección a la persona que habla",
+    "learn": "Venir"
+  },
+  "833": {
+    "word": "Fare",
+    "clue": "Realizar, participar o lograr algo",
+    "learn": "Hacer"
+  },
+  "834": {
+    "word": "Dire",
+    "clue": "Pronunciar palabras para transmitir información, una opinión, un sentimiento o intención, o una instrucción",
+    "learn": "Decir"
+  },
+  "835": {
+    "word": "Vedere",
+    "clue": "Percibir con los ojos; mirar",
+    "learn": "Ver"
+  },
+  "836": {
+    "word": "Ascoltare",
+    "clue": "Prestar atención a un sonido",
+    "learn": "Escuchar"
+  },
+  "837": {
+    "word": "Mangiare",
+    "clue": "Meter (comida) en la boca y masticarla y tragarla",
+    "learn": "Comer"
+  },
+  "838": {
+    "word": "Bere",
+    "clue": "Tomar (un líquido) en la boca y tragarlo",
+    "learn": "Beber"
+  },
+  "839": {
+    "word": "Dormire",
+    "clue": "Pasar la noche en un lugar determinado, en una cama, etc.",
+    "learn": "Dormir"
+  },
+  "840": {
+    "word": "Studiare",
+    "clue": "Aplicar uno mismo a la adquisición de conocimiento, como leyendo, investigando o practicando",
+    "learn": "Estudiar"
+  },
+  "841": {
+    "word": "Ridere",
+    "clue": "Sonreír mientras se emiten sonidos con la voz que muestran que se piensa que algo es gracioso o que se está feliz",
+    "learn": "Reír"
+  },
+  "842": {
+    "word": "Capire",
+    "clue": "Percibir el significado intencionado de (palabras, un lenguaje o un hablante)",
+    "learn": "Entender"
+  },
+  "843": {
+    "word": "Leggere",
+    "clue": "Mirar y comprender el significado de (materia escrita o impresa) interpretando mentalmente los caracteres o símbolos de los que está compuesto",
+    "learn": "Leer"
+  },
+  "844": {
+    "word": "Sognare",
+    "clue": "Indulgir en ensoñaciones o fantasías sobre algo muy deseado",
+    "learn": "Soñar"
+  },
+  "845": {
+    "word": "Cercare",
+    "clue": "Buscar en algún lugar con cuidado para encontrar algo",
+    "learn": "Buscar"
+  },
+  "846": {
+    "word": "Iniziare",
+    "clue": "Dar el primer paso o pasos en la realización de una acción",
+    "learn": "Empezar"
+  },
+  "847": {
+    "word": "Zero",
+    "clue": "El número de lados de un círculo perfecto",
+    "learn": "Cero"
+  },
+  "848": {
+    "word": "Um",
+    "clue": "El protagonista solitario de una historia",
+    "learn": "Uno"
+  },
+  "849": {
+    "word": "Dois",
+    "clue": "La forma grácil de un cisne en reposo",
+    "learn": "Dos"
+  },
+  "850": {
+    "word": "Três",
+    "clue": "El número de lados de un triángulo",
+    "learn": "Tres"
+  },
+  "851": {
+    "word": "Quatro",
+    "clue": "El número de patas de una mesa",
+    "learn": "Cuatro"
+  },
+  "852": {
+    "word": "Cinco",
+    "clue": "Los dedos de una mano",
+    "learn": "Cinco"
+  },
+  "853": {
+    "word": "Seis",
+    "clue": "Piensa en el número de lados de un dado estándar",
+    "learn": "Seis"
+  },
+  "854": {
+    "word": "Sete",
+    "clue": "El número de días de la semana",
+    "learn": "Siete"
+  },
+  "855": {
+    "word": "Oito",
+    "clue": "El número de patas de una araña",
+    "learn": "Ocho"
+  },
+  "856": {
+    "word": "Nove",
+    "clue": "Este número es el reverso de seis",
+    "learn": "Nueve"
+  },
+  "857": {
+    "word": "Dez",
+    "clue": "Fundamental para nuestro sistema de numeración, es el recuento de dedos en ambas manos",
+    "learn": "Diez"
+  },
+  "858": {
+    "word": "Onze",
+    "clue": "Apenas un dígito lejos de una docena",
+    "learn": "Once"
+  },
+  "859": {
+    "word": "Branco",
+    "clue": "La ausencia de color, a menudo asociada con la pureza y la limpieza",
+    "learn": "Blanco"
+  },
+  "860": {
+    "word": "Preto",
+    "clue": "El color que absorbe toda la luz y es el tono más oscuro",
+    "learn": "Negro"
+  },
+  "861": {
+    "word": "Cinza",
+    "clue": "Un color neutro que es una mezcla de blanco y negro",
+    "learn": "Gris"
+  },
+  "862": {
+    "word": "Marrom",
+    "clue": "Un color cálido a menudo asociado con la tierra y la naturaleza",
+    "learn": "Marrón"
+  },
+  "863": {
+    "word": "Azul",
+    "clue": "El color del cielo y el mar",
+    "learn": "Azul"
+  },
+  "864": {
+    "word": "Vermelho",
+    "clue": "Un color primario a menudo asociado con la pasión y el amor",
+    "learn": "Rojo"
+  },
+  "865": {
+    "word": "Laranja",
+    "clue": "Una fruta cítrica que comparte su nombre con este color",
+    "learn": "Naranja"
+  },
+  "866": {
+    "word": "Amarelo",
+    "clue": "Un color soleado y alegre, a menudo asociado con la felicidad",
+    "learn": "Amarillo"
+  },
+  "867": {
+    "word": "Verde",
+    "clue": "Un color a menudo asociado con la naturaleza, el crecimiento y la frescura",
+    "learn": "Verde"
+  },
+  "868": {
+    "word": "Rosa",
+    "clue": "Un color claro a menudo asociado con la feminidad y el romance",
+    "learn": "Rosa"
+  },
+  "869": {
+    "word": "Prateado",
+    "clue": "Un color metálico brillante y reflectante",
+    "learn": "Plata"
+  },
+  "870": {
+    "word": "Dourado",
+    "clue": "Un color metálico precioso y valioso",
+    "learn": "Oro"
+  },
+  "871": {
+    "word": "Eu",
+    "clue": "En inglés moderno, es el pronombre singular de primera persona",
+    "learn": "Yo"
+  },
+  "872": {
+    "word": "Você",
+    "clue": "Se usa para referirse a la persona o personas a las que se habla o escribe",
+    "learn": "Tú"
+  },
+  "873": {
+    "word": "Ele",
+    "clue": "Se usa como sujeto de un verbo para referirse a un hombre, niño o animal macho que ya ha sido mencionado",
+    "learn": "Él"
+  },
+  "874": {
+    "word": "Ela",
+    "clue": "Se usa como sujeto de un verbo para referirse a una mujer, niña o animal hembra que ya ha sido mencionado",
+    "learn": "Ella"
+  },
+  "875": {
+    "word": "Eles",
+    "clue": "Se usa como sujeto de un verbo para referirse a personas, animales o cosas ya mencionadas o, más generalmente, a un grupo de personas no claramente descritas",
+    "learn": "Ellos"
+  },
+  "876": {
+    "word": "Nós",
+    "clue": "Se usa como sujeto de un verbo para referirse a un grupo que incluye al hablante y al menos a otra persona",
+    "learn": "Nosotros"
+  },
+  "877": {
+    "word": "Onde?",
+    "clue": "Se usa para preguntar sobre el lugar o la posición de alguien o algo",
+    "learn": "Dónde"
+  },
+  "878": {
+    "word": "Como?",
+    "clue": "Se usa para preguntar sobre la forma en que sucede o se hace algo",
+    "learn": "Cómo"
+  },
+  "879": {
+    "word": "Quando?",
+    "clue": "Se usa para preguntar sobre el momento en que sucede algo",
+    "learn": "Cuándo"
+  },
+  "880": {
+    "word": "Por quê?",
+    "clue": "Se usa para preguntar sobre la razón de algo",
+    "learn": "Por qué"
+  },
+  "881": {
+    "word": "Qual?",
+    "clue": "Se usa para preguntar sobre una o más personas o cosas de un conjunto definido",
+    "learn": "Cuál"
+  },
+  "882": {
+    "word": "Quem?",
+    "clue": "Se usa para preguntar sobre una persona o personas",
+    "learn": "Quién"
+  },
+  "883": {
+    "word": "Vida",
+    "clue": "El período entre el nacimiento y la muerte de un ser vivo",
+    "learn": "Vida"
+  },
+  "884": {
+    "word": "Tempo",
+    "clue": "El progreso continuo indefinido de la existencia y los eventos en el pasado, presente y futuro considerado como un todo",
+    "learn": "Tiempo"
+  },
+  "885": {
+    "word": "Ano",
+    "clue": "Un período de 365 días",
+    "learn": "Año"
+  },
+  "886": {
+    "word": "Dia",
+    "clue": "Un período de 24 horas",
+    "learn": "Día"
+  },
+  "887": {
+    "word": "Pessoa",
+    "clue": "Un ser humano considerado como individuo",
+    "learn": "Persona"
+  },
+  "888": {
+    "word": "Coisa",
+    "clue": "Un objeto material sin vida ni conciencia",
+    "learn": "Cosa"
+  },
+  "889": {
+    "word": "Mundo",
+    "clue": "La tierra, junto con todos sus países, pueblos y características naturales",
+    "learn": "Mundo"
+  },
+  "890": {
+    "word": "Amigo",
+    "clue": "Una persona con quien se tiene un vínculo de afecto mutuo",
+    "learn": "Amigo"
+  },
+  "891": {
+    "word": "Caminho",
+    "clue": "Un método, estilo o manera de hacer algo",
+    "learn": "Camino"
+  },
+  "892": {
+    "word": "Lugar",
+    "clue": "Una posición o punto particular en el espacio",
+    "learn": "Lugar"
+  },
+  "893": {
+    "word": "Parte",
+    "clue": "Una pieza o segmento de algo, como un objeto, actividad o período de tiempo",
+    "learn": "Parte"
+  },
+  "894": {
+    "word": "Fato",
+    "clue": "Algo que se sabe o se ha demostrado que es cierto",
+    "learn": "Hecho"
+  },
+  "895": {
+    "word": "Casa",
+    "clue": "Un edificio para la habitación humana",
+    "learn": "Casa"
+  },
+  "896": {
+    "word": "Amor",
+    "clue": "Un sentimiento intenso de profundo afecto",
+    "learn": "Amor"
+  },
+  "897": {
+    "word": "Problema",
+    "clue": "Un asunto o situación considerado indeseable o dañino y que necesita ser tratado y superado",
+    "learn": "Problema"
+  },
+  "898": {
+    "word": "Palavra",
+    "clue": "Un elemento significativo distinto y único del habla o la escritura",
+    "learn": "Palabra"
+  },
+  "899": {
+    "word": "Razão",
+    "clue": "Una causa, explicación o justificación de una acción o evento",
+    "learn": "Razón"
+  },
+  "900": {
+    "word": "Neve",
+    "clue": "Vapor de agua atmosférico congelado en cristales de hielo y que cae en copos blancos ligeros o yace en el suelo como una capa blanca",
+    "learn": "Nieve"
+  },
+  "901": {
+    "word": "Maçã",
+    "clue": "Una fruta redonda con pulpa firme, blanca y piel verde, roja o amarilla",
+    "learn": "Manzana"
+  },
+  "902": {
+    "word": "Banana",
+    "clue": "Una fruta curva larga que crece en racimos y tiene pulpa suave y piel amarilla cuando madura",
+    "learn": "Plátano"
+  },
+  "903": {
+    "word": "Limão",
+    "clue": "Una fruta redonda amarilla con piel gruesa y jugo ácido, utilizada en cocina y para hacer limonada",
+    "learn": "Limón"
+  },
+  "904": {
+    "word": "Morango",
+    "clue": "Una fruta roja dulce y suave con una superficie llena de semillas",
+    "learn": "Fresa"
+  },
+  "905": {
+    "word": "Uva",
+    "clue": "Una fruta pequeña, redonda y de color púrpura oscuro con sabor dulce, utilizada para hacer vino y consumida como fruta",
+    "learn": "Uva"
+  },
+  "906": {
+    "word": "Pera",
+    "clue": "Una fruta dulce, jugosa, amarilla o verde con base redonda y parte superior ligeramente puntiaguda",
+    "learn": "Pera"
+  },
+  "907": {
+    "word": "Abacaxi",
+    "clue": "Una planta tropical con un fruto múltiple comestible compuesto de bayas coalescentes, también el fruto en sí",
+    "learn": "Piña"
+  },
+  "908": {
+    "word": "Kiwi",
+    "clue": "Una fruta ovalada pequeña con piel marrón, carne verde y semillas negras",
+    "learn": "Kiwi"
+  },
+  "909": {
+    "word": "Melão",
+    "clue": "Una fruta grande y redonda con una cáscara dura verde o amarilla, pulpa dulce y jugosa, y muchas semillas",
+    "learn": "Melón"
+  },
+  "910": {
+    "word": "Pêssego",
+    "clue": "Una fruta jugosa con piel amarilla o rosada y una piedra peluda",
+    "learn": "Durazno"
+  },
+  "911": {
+    "word": "Cenoura",
+    "clue": "Una raíz de color naranja cónica que se come como verdura",
+    "learn": "Zanahoria"
+  },
+  "912": {
+    "word": "Abacate",
+    "clue": "Una fruta en forma de pera con una piel rugosa y correosa, pulpa comestible suave y aceitosa, y una gran semilla",
+    "learn": "Aguacate"
+  },
+  "913": {
+    "word": "Repolho",
+    "clue": "Una planta bienal de hojas verdes o moradas, que se come cocida o cruda en ensaladas",
+    "learn": "Repollo"
+  },
+  "914": {
+    "word": "Batata",
+    "clue": "Una verdura redonda que crece bajo tierra y tiene carne blanca con piel marrón claro, roja o rosa, o la planta en la que crecen",
+    "learn": "Patata"
+  },
+  "915": {
+    "word": "Espinafre",
+    "clue": "Una verdura de hojas verdes oscuras anchas que se come cocida o cruda",
+    "learn": "Espinacas"
+  },
+  "916": {
+    "word": "Aipo",
+    "clue": "Una verdura con tallos largos, delgados, blanquecinos o verde pálido que se pueden comer crudos o cocidos",
+    "learn": "Apio"
+  },
+  "917": {
+    "word": "Alho",
+    "clue": "Una planta de la familia de la cebolla que tiene un sabor y olor fuerte y se usa en la cocina para agregar sabor",
+    "learn": "Ajo"
+  },
+  "918": {
+    "word": "Nabo",
+    "clue": "Una verdura de raíz que es blanca en la parte inferior y púrpura en la parte superior, a menudo utilizada en guisos y sopas",
+    "learn": "Nabo"
+  },
+  "919": {
+    "word": "Leão",
+    "clue": "Un gran animal salvaje de la familia de los felinos, con pelaje marrón claro",
+    "learn": "León"
+  },
+  "920": {
+    "word": "Tigre",
+    "clue": "Un gran felino salvaje que tiene pelaje amarillo con líneas negras",
+    "learn": "Tigre"
+  },
+  "921": {
+    "word": "Girafa",
+    "clue": "Un gran mamífero rumiante africano con cuello y patas delanteras largas, con un pelaje con patrones marrones, amarillos y negros",
+    "learn": "Jirafa"
+  },
+  "922": {
+    "word": "Águia",
+    "clue": "Un ave rapaz grande con cabeza ancha, pico curvo y garras poderosas",
+    "learn": "Águila"
+  },
+  "923": {
+    "word": "Zebra",
+    "clue": "Un animal parecido a un caballo con rayas blancas y negras",
+    "learn": "Cebra"
+  },
+  "924": {
+    "word": "Urso",
+    "clue": "Un animal salvaje grande y fuerte con pelaje grueso",
+    "learn": "Oso"
+  },
+  "925": {
+    "word": "Lobo",
+    "clue": "Un animal salvaje de la familia de los cánidos",
+    "learn": "Lobo"
+  },
+  "926": {
+    "word": "Raposa",
+    "clue": "Un mamífero salvaje perteneciente a la familia de los cánidos que tiene cara y orejas puntiagudas",
+    "learn": "Zorro"
+  },
+  "927": {
+    "word": "Cão",
+    "clue": "Un animal con pelo, cuatro patas y cola, que se mantiene como mascota",
+    "learn": "Perro"
+  },
+  "928": {
+    "word": "Gato",
+    "clue": "Un animal con pelo que se mantiene como mascota",
+    "learn": "Gato"
+  },
+  "929": {
+    "word": "Cavalo",
+    "clue": "Un animal grande con cuatro patas que la gente monta o usa para tirar de cosas pesadas",
+    "learn": "Caballo"
+  },
+  "930": {
+    "word": "Porco",
+    "clue": "Un gran animal de granja rosado que tiene cuatro patas y una cola corta",
+    "learn": "Cerdo"
+  },
+  "931": {
+    "word": "Vaca",
+    "clue": "Un gran animal de granja hembra criado por su leche",
+    "learn": "Vaca"
+  },
+  "932": {
+    "word": "Foca",
+    "clue": "Un animal con piel lisa que come pescado y vive cerca del mar",
+    "learn": "Foca"
+  },
+  "933": {
+    "word": "Cabra",
+    "clue": "Un animal con cuernos que se cría por la leche que produce",
+    "learn": "Cabra"
+  },
+  "934": {
+    "word": "Falcão",
+    "clue": "Un ave con alas puntiagudas y cola larga, que puede ser entrenada para cazar otras aves y animales pequeños",
+    "learn": "Halcón"
+  },
+  "935": {
+    "word": "Sapo",
+    "clue": "Un animal pequeño que tiene piel lisa, vive en el agua y en la tierra, tiene patas traseras largas y poderosas con las que salta de un lugar a otro",
+    "learn": "Rana"
+  },
+  "936": {
+    "word": "Aranha",
+    "clue": "Un arácnido con ocho patas, dos partes principales del cuerpo y que a menudo teje telarañas para atrapar presas",
+    "learn": "Araña"
+  },
+  "937": {
+    "word": "Médico",
+    "clue": "Una persona calificada para tratar a personas enfermas o heridas",
+    "learn": "Médico"
+  },
+  "938": {
+    "word": "Dentista",
+    "clue": "Una persona calificada para tratar enfermedades y afecciones que afectan los dientes y las encías",
+    "learn": "Dentista"
+  },
+  "939": {
+    "word": "Artista",
+    "clue": "Una persona que crea obras de arte, especialmente pinturas o esculturas",
+    "learn": "Artista"
+  },
+  "940": {
+    "word": "Ator",
+    "clue": "Una persona que actúa en una obra de teatro, película o programa de televisión",
+    "learn": "Actor"
+  },
+  "941": {
+    "word": "Piloto",
+    "clue": "Una persona que opera una aeronave",
+    "learn": "Piloto"
+  },
+  "942": {
+    "word": "Marinheiro",
+    "clue": "Una persona que trabaja en un barco o bote",
+    "learn": "Marinero"
+  },
+  "943": {
+    "word": "Atleta",
+    "clue": "Una persona competente en deportes y otras formas de ejercicio físico",
+    "learn": "Atleta"
+  },
+  "944": {
+    "word": "Padeiro",
+    "clue": "Una persona que hornea y vende pan, pasteles y artículos similares",
+    "learn": "Panadero"
+  },
+  "945": {
+    "word": "Faxineiro",
+    "clue": "Una persona cuyo trabajo es limpiar edificios, calles, etc.",
+    "learn": "Limpiador"
+  },
+  "946": {
+    "word": "Açougueiro",
+    "clue": "Una persona que corta y vende carne en una tienda",
+    "learn": "Carnicero"
+  },
+  "947": {
+    "word": "Químico",
+    "clue": "Una persona que trabaja en el estudio científico de la composición, propiedades y comportamiento de las sustancias",
+    "learn": "Químico"
+  },
+  "948": {
+    "word": "Bancário",
+    "clue": "Una persona que trabaja en un banco o para un banco",
+    "learn": "Banquero"
+  },
+  "949": {
+    "word": "Geólogo",
+    "clue": "Una persona que estudia la estructura física, la sustancia y la historia de la Tierra",
+    "learn": "Geólogo"
+  },
+  "950": {
+    "word": "Secretário",
+    "clue": "Una persona empleada en una oficina, que se ocupa de la correspondencia, hace citas y realiza tareas administrativas",
+    "learn": "Secretario"
+  },
+  "951": {
+    "word": "Veterinário",
+    "clue": "Una persona calificada para tratar animales enfermos o heridos",
+    "learn": "Veterinario"
+  },
+  "952": {
+    "word": "Astrônomo",
+    "clue": "Una persona que estudia las estrellas y los planetas",
+    "learn": "Astrónomo"
+  },
+  "953": {
+    "word": "Escritor",
+    "clue": "Una persona que ha escrito una obra o obras particulares, especialmente en un campo particular",
+    "learn": "Escritor"
+  },
+  "954": {
+    "word": "Jardineiro",
+    "clue": "Una persona que cuida y cultiva un jardín como pasatiempo o para ganarse la vida",
+    "learn": "Jardinero"
+  },
+  "955": {
+    "word": "Curto",
+    "clue": "Pequeño en longitud, distancia o altura",
+    "learn": "Corto"
+  },
+  "956": {
+    "word": "Longo",
+    "clue": "Siendo una distancia entre dos puntos que es mayor que el promedio o lo habitual",
+    "learn": "Largo"
+  },
+  "957": {
+    "word": "Criativo",
+    "clue": "Relativo o que involucra el uso de la imaginación o ideas originales para crear algo",
+    "learn": "Creativo"
+  },
+  "958": {
+    "word": "Fácil",
+    "clue": "Logrado sin gran esfuerzo",
+    "learn": "Fácil"
+  },
+  "959": {
+    "word": "Difícil",
+    "clue": "Necesitando mucho esfuerzo o habilidad para lograr, tratar o entender",
+    "learn": "Difícil"
+  },
+  "960": {
+    "word": "Bonito",
+    "clue": "Agradable a los sentidos o la mente estéticamente",
+    "learn": "Hermoso"
+  },
+  "961": {
+    "word": "Interessante",
+    "clue": "Despertando curiosidad o interés",
+    "learn": "Interesante"
+  },
+  "962": {
+    "word": "Chato",
+    "clue": "No interesante; tedioso",
+    "learn": "Aburrido"
+  },
+  "963": {
+    "word": "Divertido",
+    "clue": "Causando risa y diversión; divertido",
+    "learn": "Divertido"
+  },
+  "964": {
+    "word": "Feliz",
+    "clue": "Sintiendo o mostrando placer o satisfacción",
+    "learn": "Feliz"
+  },
+  "965": {
+    "word": "Inteligente",
+    "clue": "Capaz de aprender y entender cosas fácilmente",
+    "learn": "Inteligente"
+  },
+  "966": {
+    "word": "Grande",
+    "clue": "De considerable tamaño o extensión",
+    "learn": "Grande"
+  },
+  "967": {
+    "word": "Pequeno",
+    "clue": "De un tamaño menor de lo normal o habitual",
+    "learn": "Pequeño"
+  },
+  "968": {
+    "word": "Novo",
+    "clue": "No existente antes; hecho, introducido o descubierto recientemente o ahora por primera vez",
+    "learn": "Nuevo"
+  },
+  "969": {
+    "word": "Velho",
+    "clue": "Habiendo vivido durante mucho tiempo; ya no joven",
+    "learn": "Viejo"
+  },
+  "970": {
+    "word": "Jovem",
+    "clue": "Habiendo vivido o existido por poco tiempo",
+    "learn": "Joven"
+  },
+  "971": {
+    "word": "Tímido",
+    "clue": "Nervioso o tímido en compañía de otras personas",
+    "learn": "Tímido"
+  },
+  "972": {
+    "word": "Alto",
+    "clue": "De gran altura o más que la media, especialmente (con referencia a un objeto) en relación con el ancho",
+    "learn": "Alto"
+  },
+  "973": {
+    "word": "Ser",
+    "clue": "Existir o vivir",
+    "learn": "Ser"
+  },
+  "974": {
+    "word": "Ter",
+    "clue": "Poseer, tener o sostener",
+    "learn": "Tener"
+  },
+  "975": {
+    "word": "Ir",
+    "clue": "Viajar o moverse a otro lugar",
+    "learn": "Ir"
+  },
+  "976": {
+    "word": "Vir",
+    "clue": "Moverse o viajar en dirección a la persona que habla",
+    "learn": "Venir"
+  },
+  "977": {
+    "word": "Fazer",
+    "clue": "Realizar, participar o lograr algo",
+    "learn": "Hacer"
+  },
+  "978": {
+    "word": "Dizer",
+    "clue": "Pronunciar palabras para transmitir información, una opinión, un sentimiento o intención, o una instrucción",
+    "learn": "Decir"
+  },
+  "979": {
+    "word": "Ver",
+    "clue": "Percibir con los ojos; mirar",
+    "learn": "Ver"
+  },
+  "980": {
+    "word": "Ouvir",
+    "clue": "Prestar atención a un sonido",
+    "learn": "Escuchar"
+  },
+  "981": {
+    "word": "Comer",
+    "clue": "Meter (comida) en la boca, masticarla y tragarla",
+    "learn": "Comer"
+  },
+  "982": {
+    "word": "Beber",
+    "clue": "Tomar (un líquido) en la boca y tragarlo",
+    "learn": "Beber"
+  },
+  "983": {
+    "word": "Dormir",
+    "clue": "Pasar la noche en un lugar determinado, en una cama, etc.",
+    "learn": "Dormir"
+  },
+  "984": {
+    "word": "Estudar",
+    "clue": "Aplicar uno mismo a la adquisición de conocimiento, como leyendo, investigando o practicando",
+    "learn": "Estudiar"
+  },
+  "985": {
+    "word": "Rir",
+    "clue": "Sonreír mientras se emiten sonidos con la voz que muestran que se piensa que algo es gracioso o que se está feliz",
+    "learn": "Reír"
+  },
+  "986": {
+    "word": "Entender",
+    "clue": "Percibir el significado intencionado de (palabras, un lenguaje o un hablante)",
+    "learn": "Entender"
+  },
+  "987": {
+    "word": "Ler",
+    "clue": "Mirar y comprender el significado de (materia escrita o impresa) interpretando mentalmente los caracteres o símbolos de los que está compuesto",
+    "learn": "Leer"
+  },
+  "988": {
+    "word": "Sonhar",
+    "clue": "Indulgir en ensoñaciones o fantasías sobre algo muy deseado",
+    "learn": "Soñar"
+  },
+  "989": {
+    "word": "Procurar",
+    "clue": "Buscar en algún lugar con cuidado para encontrar algo",
+    "learn": "Buscar"
+  },
+  "990": {
+    "word": "Começar",
+    "clue": "Dar el primer paso o pasos en la realización de una acción",
+    "learn": "Empezar"
+  },
+  "991": {
+    "word": "Zero",
+    "clue": "Número de lados de un círculo perfecto",
+    "learn": "Cero"
+  },
+  "992": {
+    "word": "One",
+    "clue": "Protagonista solitario de una historia",
+    "learn": "Uno"
+  },
+  "993": {
+    "word": "Two",
+    "clue": "Elegante forma de un cisne en reposo",
+    "learn": "Dos"
+  },
+  "994": {
+    "word": "Three",
+    "clue": "Número de lados de un triángulo",
+    "learn": "Tres"
+  },
+  "995": {
+    "word": "Four",
+    "clue": "Número de patas de una mesa",
+    "learn": "Cuatro"
+  },
+  "996": {
+    "word": "Five",
+    "clue": "Los dedos de una mano",
+    "learn": "Cinco"
+  },
+  "997": {
+    "word": "Six",
+    "clue": "Piensa en el número de caras de un dado normal",
+    "learn": "Seis"
+  },
+  "998": {
+    "word": "Seven",
+    "clue": "El número de días de una semana",
+    "learn": "Siete"
+  },
+  "999": {
+    "word": "Eight",
+    "clue": "Número de patas de una araña",
+    "learn": "Ocho"
+  },
+  "1000": {
+    "word": "Nine",
+    "clue": "Este número es el inverso de seis",
+    "learn": "Nueve"
+  },
+  "1001": {
+    "word": "Ten",
+    "clue": "Fundamental para nuestro sistema de numeración, es la cuenta de los dedos de las dos  manos",
+    "learn": "Diez"
+  },
+  "1002": {
+    "word": "Eleven",
+    "clue": "A un dígito de la docena",
+    "learn": "Once"
+  },
+  "1003": {
+    "word": "White",
+    "clue": "La ausencia de color, a menudo asociada con la pureza y la limpieza",
+    "learn": "Blanco"
+  },
+  "1004": {
+    "word": "Black",
+    "clue": "El color que absorbe toda la luz y es el tono más oscuro",
+    "learn": "Negro"
+  },
+  "1005": {
+    "word": "Grey",
+    "clue": "Un color neutro que es una mezcla de blanco y negro",
+    "learn": "Gris"
+  },
+  "1006": {
+    "word": "Brown",
+    "clue": "Un color cálido asociado a menudo con la tierra y la naturaleza",
+    "learn": "Marrón"
+  },
+  "1007": {
+    "word": "Blue",
+    "clue": "El color del cielo y del mar",
+    "learn": "Azul"
+  },
+  "1008": {
+    "word": "Red",
+    "clue": "Un color primario a menudo asociado con la pasión y el amor",
+    "learn": "Rojo"
+  },
+  "1009": {
+    "word": "Orange",
+    "clue": "Una fruta cítrica que comparte su nombre con este color",
+    "learn": "Naranja"
+  },
+  "1010": {
+    "word": "Yellow",
+    "clue": "Un color soleado y alegre que se asocia a menudo con la felicidad",
+    "learn": "Amarillo"
+  },
+  "1011": {
+    "word": "Green",
+    "clue": "Un color que se asocia a menudo con la naturaleza, el crecimiento y la frescura.",
+    "learn": "Verde"
+  },
+  "1012": {
+    "word": "Pink",
+    "clue": "Un color claro que suele asociarse con la feminidad y el romanticismo",
+    "learn": "Rosa"
+  },
+  "1013": {
+    "word": "Silver",
+    "clue": "Un color metálico brillante y reflectante",
+    "learn": "Plata"
+  },
+  "1014": {
+    "word": "Gold",
+    "clue": "Un color metálico precioso y valioso",
+    "learn": "Oro"
+  },
+  "1015": {
+    "word": "I",
+    "clue": "En inglés moderno, es el pronombre singular en primera persona",
+    "learn": "Yo"
+  },
+  "1016": {
+    "word": "You",
+    "clue": "Se utiliza para referirse a la persona o personas con las que se habla o escribe",
+    "learn": "Tú"
+  },
+  "1017": {
+    "word": "He",
+    "clue": "Se utiliza como sujeto de un verbo para referirse a un hombre, un niño o un animal macho que ya ha sido mencionado",
+    "learn": "Él"
+  },
+  "1018": {
+    "word": "She",
+    "clue": "Se utiliza como sujeto de un verbo para referirse a una mujer, niña o animal hembra que ya se ha mencionado.",
+    "learn": "Ella"
+  },
+  "1019": {
+    "word": "They",
+    "clue": "Se utiliza como sujeto de un verbo para referirse a personas, animales o cosas ya mencionados o, de forma más general, a un grupo de personas no descrito claramente.",
+    "learn": "Ellos/as"
+  },
+  "1020": {
+    "word": "We",
+    "clue": "Se usa como sujeto de un verbo para referirse a un grupo que incluye al hablante y al menos otra persona.",
+    "learn": "Nosotros"
+  },
+  "1021": {
+    "word": "Where",
+    "clue": "Se utiliza para preguntar por el lugar o la posición de alguien o algo",
+    "learn": "Dónde"
+  },
+  "1022": {
+    "word": "How",
+    "clue": "Se utiliza para preguntar sobre la forma en que ocurre o se hace algo",
+    "learn": "Cómo"
+  },
+  "1023": {
+    "word": "When",
+    "clue": "Se utiliza para preguntar por el momento en que ocurre algo",
+    "learn": "Cuándo"
+  },
+  "1024": {
+    "word": "Why",
+    "clue": "Se utiliza para preguntar por el motivo de algo",
+    "learn": "Por qué"
+  },
+  "1025": {
+    "word": "Which",
+    "clue": "Se utiliza para preguntar sobre una o más personas o cosas de un conjunto definido",
+    "learn": "Cuál"
+  },
+  "1026": {
+    "word": "Who",
+    "clue": "Se utiliza para preguntar acerca de una persona o personas",
+    "learn": "Quién"
+  },
+  "1027": {
+    "word": "Life",
+    "clue": "Período comprendido entre el nacimiento y la muerte de un ser vivo",
+    "learn": "Vida"
+  },
+  "1028": {
+    "word": "Time",
+    "clue": "El progreso continuo indefinido de la existencia y los acontecimientos en el pasado, presente y futuro considerados como un todo",
+    "learn": "Tiempo"
+  },
+  "1029": {
+    "word": "Year",
+    "clue": "Un periodo de 365 días",
+    "learn": "Año"
+  },
+  "1030": {
+    "word": "Day",
+    "clue": "Un periodo de 24 horas",
+    "learn": "Día"
+  },
+  "1031": {
+    "word": "Person",
+    "clue": "Ser humano considerado como individuo",
+    "learn": "Persona"
+  },
+  "1032": {
+    "word": "Thing",
+    "clue": "Un objeto material sin vida ni conciencia",
+    "learn": "Cosa"
+  },
+  "1033": {
+    "word": "World",
+    "clue": "La Tierra, con todos sus países, pueblos y características naturales",
+    "learn": "Mundo"
+  },
+  "1034": {
+    "word": "Friend",
+    "clue": "Una persona con la que se tiene un vínculo de afecto mutuo",
+    "learn": "Amigo"
+  },
+  "1035": {
+    "word": "Way",
+    "clue": "Método, estilo o manera de hacer algo",
+    "learn": "Camino"
+  },
+  "1036": {
+    "word": "Place",
+    "clue": "Una posición o punto concreto en el espacio",
+    "learn": "Lugar"
+  },
+  "1037": {
+    "word": "Part",
+    "clue": "Una parte o segmento de algo, como un objeto, una actividad o un período de tiempo",
+    "learn": "Parte"
+  },
+  "1038": {
+    "word": "Fact",
+    "clue": "Algo que se sabe o se ha demostrado que es cierto",
+    "learn": "Hecho"
+  },
+  "1039": {
+    "word": "House",
+    "clue": "Edificio habitable",
+    "learn": "Casa"
+  },
+  "1040": {
+    "word": "Love",
+    "clue": "Un intenso sentimiento de profundo afecto",
+    "learn": "Amor"
+  },
+  "1041": {
+    "word": "Problem",
+    "clue": "Cuestión o situación que se considera inoportuna o perjudicial y que hay que tratar y superar",
+    "learn": "Problema"
+  },
+  "1042": {
+    "word": "Word",
+    "clue": "Un único elemento significativo del discurso o la escritura",
+    "learn": "Palabra"
+  },
+  "1043": {
+    "word": "Reason",
+    "clue": "Causa, explicación o justificación de una acción o acontecimiento",
+    "learn": "Razón"
+  },
+  "1044": {
+    "word": "Snow",
+    "clue": "Vapor de agua atmosférico congelado en cristales de hielo y que cae en ligeros copos blancos o yace en el suelo como una capa blanca.",
+    "learn": "Nieve"
+  },
+  "1045": {
+    "word": "Apple",
+    "clue": "Fruta redonda de pulpa blanca y firme y piel verde, roja o amarilla.",
+    "learn": "Manzana"
+  },
+  "1046": {
+    "word": "Banana",
+    "clue": "Fruto largo y curvado que crece en racimos y tiene una pulpa blanda y una piel amarilla cuando está maduro.",
+    "learn": "Banana"
+  },
+  "1047": {
+    "word": "Lemon",
+    "clue": "Fruta redonda, amarilla, de piel gruesa y zumo ácido, que se utiliza en la cocina y para hacer limonada.",
+    "learn": "Limón"
+  },
+  "1048": {
+    "word": "Strawberry",
+    "clue": "Fruta roja, dulce y suave, con una superficie llena de semillas.",
+    "learn": "Fresa"
+  },
+  "1049": {
+    "word": "Grape",
+    "clue": "Fruta pequeña, redonda, de color púrpura oscuro y sabor dulce, que se utiliza para hacer vino y se come como fruta",
+    "learn": "Uva"
+  },
+  "1050": {
+    "word": "Pear",
+    "clue": "Fruta dulce, jugosa, de color amarillo o verde, con base redonda y parte superior ligeramente puntiaguda.",
+    "learn": "Pera"
+  },
+  "1051": {
+    "word": "Pineapple",
+    "clue": "Planta tropical con un fruto múltiple comestible formado por bayas coalescentes, también el propio fruto.",
+    "learn": "Piña"
+  },
+  "1052": {
+    "word": "Kiwi",
+    "clue": "Fruto pequeño y ovalado de piel pardusca, pulpa verde y semillas negras",
+    "learn": "Kiwi"
+  },
+  "1053": {
+    "word": "Melon",
+    "clue": "Fruta grande y redonda, de corteza dura verde o amarilla, carne dulce y jugosa y muchas semillas.",
+    "learn": "Melón"
+  },
+  "1054": {
+    "word": "Peach",
+    "clue": "Fruta jugosa de piel amarilla o rosada y hueso velloso",
+    "learn": "Durazno"
+  },
+  "1055": {
+    "word": "Carrot",
+    "clue": "Raíz cónica de color anaranjado que se consume como verdura",
+    "learn": "Zanahoria"
+  },
+  "1056": {
+    "word": "Avocado",
+    "clue": "Fruta en forma de pera con piel rugosa y coriácea, carne comestible lisa y aceitosa y un hueso grande.",
+    "learn": "Aguacate"
+  },
+  "1057": {
+    "word": "Cabbage",
+    "clue": "Planta bienal de hoja verde o púrpura que se consume cocida o cruda en ensaladas.",
+    "learn": "Repollo"
+  },
+  "1058": {
+    "word": "Potato",
+    "clue": "Hortaliza redonda que crece bajo tierra y tiene carne blanca con piel marrón claro, roja o rosada, o la planta en la que crecen",
+    "learn": "Papa"
+  },
+  "1059": {
+    "word": "Spinach",
+    "clue": "Hortaliza de hojas anchas y de color verde oscuro que se consume cocida o cruda",
+    "learn": "Espinaca"
+  },
+  "1060": {
+    "word": "Celery",
+    "clue": "Hortaliza de tallo largo y delgado, de color blanquecino o verde pálido, que puede consumirse cruda o cocida",
+    "learn": "Apio"
+  },
+  "1061": {
+    "word": "Garlic",
+    "clue": "Planta de la familia de las cebollas, de sabor y olor fuertes, que se utiliza en la cocina para dar sabor",
+    "learn": "Ajo"
+  },
+  "1062": {
+    "word": "Turnip",
+    "clue": "Hortaliza de raíz blanca por debajo y morada por encima que se utiliza a menudo en guisos y sopas",
+    "learn": "Nabo"
+  },
+  "1063": {
+    "word": "Lion",
+    "clue": "Gran animal salvaje de la familia de los felinos, de pelaje marrón claro",
+    "learn": "León"
+  },
+  "1064": {
+    "word": "Tiger",
+    "clue": "Un gran gato salvaje de pelaje amarillo con líneas negras",
+    "learn": "Tigre"
+  },
+  "1065": {
+    "word": "Giraffe",
+    "clue": "Mamífero rumiante africano de gran tamaño, cuello y patas delanteras largos y pelaje con dibujos marrones, amarillos y negros",
+    "learn": "Jirafa"
+  },
+  "1066": {
+    "word": "Eagle",
+    "clue": "Ave rapaz de gran tamaño, cabeza ancha, pico ganchudo y poderosas garras",
+    "learn": "Águila"
+  },
+  "1067": {
+    "word": "Zebra",
+    "clue": "Un animal como un caballo con líneas blancas y negras",
+    "learn": "Cebra"
+  },
+  "1068": {
+    "word": "Bear",
+    "clue": "Un animal salvaje, grande y fuerte, de pelaje espeso",
+    "learn": "Oso"
+  },
+  "1069": {
+    "word": "Wolf",
+    "clue": "Un animal salvaje de la familia de los perros",
+    "learn": "Lobo"
+  },
+  "1070": {
+    "word": "Fox",
+    "clue": "Mamífero salvaje de la familia de los perros con cara y orejas puntiagudas",
+    "learn": "Zorro"
+  },
+  "1071": {
+    "word": "Dog",
+    "clue": "Animal con pelaje, cuatro patas y cola que se tiene como mascota",
+    "learn": "Perro"
+  },
+  "1072": {
+    "word": "Cat",
+    "clue": "Un animal con pelo que se tiene como mascota",
+    "learn": "Gato"
+  },
+  "1073": {
+    "word": "Horse",
+    "clue": "Un animal grande con cuatro patas que la gente monta o utiliza para arrastrar cosas pesadas.",
+    "learn": "Caballo"
+  },
+  "1074": {
+    "word": "Pig",
+    "clue": "Un gran animal de granja rosa que tiene cuatro patas y una cola corta",
+    "learn": "Cerdo"
+  },
+  "1075": {
+    "word": "Cow",
+    "clue": "Hembra grande de granja que se cría para producir leche",
+    "learn": "Vaca"
+  },
+  "1076": {
+    "word": "Seal",
+    "clue": "Animal de pelaje liso que se alimenta de peces y vive cerca del mar",
+    "learn": "Foca"
+  },
+  "1077": {
+    "word": "Goat",
+    "clue": "Animal con cuernos que se cría por la leche que produce",
+    "learn": "Cabra"
+  },
+  "1078": {
+    "word": "Falcon",
+    "clue": "Pájaro de alas puntiagudas y cola larga que puede entrenarse para cazar otros pájaros y pequeños animales",
+    "learn": "Halcón"
+  },
+  "1079": {
+    "word": "Frog",
+    "clue": "Pequeño animal de piel lisa que vive en el agua y en la tierra, tiene largas y poderosas patas traseras con las que salta de un lugar a otro",
+    "learn": "Rana"
+  },
+  "1080": {
+    "word": "Spider",
+    "clue": "Arácnido con ocho patas, dos partes principales del cuerpo y que suele tejer telarañas para atrapar a sus presas",
+    "learn": "Araña"
+  },
+  "1081": {
+    "word": "Doctor",
+    "clue": "Una persona cualificada para tratar a personas enfermas o heridas",
+    "learn": "Doctor"
+  },
+  "1082": {
+    "word": "Dentist",
+    "clue": "Persona cualificada para tratar enfermedades y afecciones que afectan a los dientes y las encías",
+    "learn": "Dentista"
+  },
+  "1083": {
+    "word": "Artist",
+    "clue": "Persona que crea obras de arte, especialmente pinturas o esculturas",
+    "learn": "Artista"
+  },
+  "1084": {
+    "word": "Actor",
+    "clue": "Persona que actúa en una obra de teatro, película o programa de televisión",
+    "learn": "Actor"
+  },
+  "1085": {
+    "word": "Pilot",
+    "clue": "Una persona que maneja una aeronave",
+    "learn": "Piloto"
+  },
+  "1086": {
+    "word": "Sailor",
+    "clue": "Persona que trabaja en un buque o barco",
+    "learn": "Marinero"
+  },
+  "1087": {
+    "word": "Athlete",
+    "clue": "Una persona que domina el deporte y otras formas de ejercicio físico",
+    "learn": "Atleta"
+  },
+  "1088": {
+    "word": "Baker",
+    "clue": "Una persona que hornea y vende pan, pasteles y artículos similares",
+    "learn": "Panadero"
+  },
+  "1089": {
+    "word": "Cleaner",
+    "clue": "Persona cuyo trabajo consiste en limpiar edificios, calles, etc.",
+    "learn": "Limpiador"
+  },
+  "1090": {
+    "word": "Butcher",
+    "clue": "Una persona que corta y vende carne en una tienda",
+    "learn": "Carnicero"
+  },
+  "1091": {
+    "word": "Chemist",
+    "clue": "Persona que se dedica al estudio científico de la composición, las propiedades y el comportamiento de las sustancias",
+    "learn": "Químico"
+  },
+  "1092": {
+    "word": "Banker",
+    "clue": "Una persona que trabaja en un banco o para un banco",
+    "learn": "Banquero"
+  },
+  "1093": {
+    "word": "Geologist",
+    "clue": "Persona que estudia la estructura física, la sustancia y la historia de la Tierra",
+    "learn": "Geólogo"
+  },
+  "1094": {
+    "word": "Secretary",
+    "clue": "Persona empleada en una oficina, que se ocupa de la correspondencia, concierta citas y realiza tareas administrativas",
+    "learn": "Secretaria"
+  },
+  "1095": {
+    "word": "Veterinarian",
+    "clue": "Una persona cualificada para tratar animales enfermos o heridos",
+    "learn": "Veterinario"
+  },
+  "1096": {
+    "word": "Astronomer",
+    "clue": "Persona que estudia las estrellas y los planetas",
+    "learn": "Astrónomo"
+  },
+  "1097": {
+    "word": "Writer",
+    "clue": "Persona que ha escrito una o varias obras, especialmente en un campo determinado",
+    "learn": "Escritor"
+  },
+  "1098": {
+    "word": "Gardener",
+    "clue": "Persona que cuida y cultiva un jardín como pasatiempo o para ganarse la vida",
+    "learn": "Jardinero"
+  },
+  "1099": {
+    "word": "Short",
+    "clue": "Pequeño en longitud, distancia o altura",
+    "learn": "Corto"
+  },
+  "1100": {
+    "word": "Long",
+    "clue": "Distancia entre dos puntos superior a la media o habitual",
+    "learn": "Largo"
+  },
+  "1101": {
+    "word": "Creative",
+    "clue": "Relativo o que implica el uso de la imaginación o de ideas originales para crear algo",
+    "learn": "Creativo"
+  },
+  "1102": {
+    "word": "Easy",
+    "clue": "conseguido sin gran esfuerzo",
+    "learn": "Fácil"
+  },
+  "1103": {
+    "word": "Difficult",
+    "clue": "Necesidad de mucho esfuerzo o habilidad para lograr, tratar o comprender",
+    "learn": "Difícil"
+  },
+  "1104": {
+    "word": "Beautiful",
+    "clue": "Complacer estéticamente los sentidos o la mente",
+    "learn": "Hermoso"
+  },
+  "1105": {
+    "word": "Interesting",
+    "clue": "Despertar curiosidad o interés",
+    "learn": "Interesante"
+  },
+  "1106": {
+    "word": "Boring",
+    "clue": "Poco interesante; tedioso",
+    "learn": "Aburrido"
+  },
+  "1107": {
+    "word": "Fun",
+    "clue": "Causar risa y diversión; gracioso",
+    "learn": "Divertido"
+  },
+  "1108": {
+    "word": "Happy",
+    "clue": "Sentir o mostrar agrado o satisfacción",
+    "learn": "Feliz"
+  },
+  "1109": {
+    "word": "Intelligent",
+    "clue": "Capaz de aprender y comprender las cosas con facilidad",
+    "learn": "Inteligente"
+  },
+  "1110": {
+    "word": "Big",
+    "clue": "De gran tamaño o extensión",
+    "learn": "Grande"
+  },
+  "1111": {
+    "word": "Small",
+    "clue": "De una talla inferior a la normal o habitual",
+    "learn": "pequeño"
+  },
+  "1112": {
+    "word": "New",
+    "clue": "Que no existía antes; hecho, introducido o descubierto recientemente o ahora por primera vez.",
+    "learn": "Nuevo"
+  },
+  "1113": {
+    "word": "Old",
+    "clue": "Haber vivido mucho tiempo; haber dejado de ser joven",
+    "learn": "Viejo"
+  },
+  "1114": {
+    "word": "Young",
+    "clue": "Haber vivido o existido poco tiempo",
+    "learn": "Joven"
+  },
+  "1115": {
+    "word": "Shy",
+    "clue": "Nervioso o tímido en compañía de otras personas",
+    "learn": "Tímido"
+  },
+  "1116": {
+    "word": "Tall",
+    "clue": "De altura grande o superior a la media, especialmente (con referencia a un objeto) en relación a la anchura",
+    "learn": "Alto"
+  },
+  "1117": {
+    "word": "To be",
+    "clue": "Existir o vivir",
+    "learn": "Estar"
+  },
+  "1118": {
+    "word": "To have",
+    "clue": "Poseer, ser dueño o tener",
+    "learn": "Tener"
+  },
+  "1119": {
+    "word": "To go",
+    "clue": "Viajar o trasladarse a otro lugar",
+    "learn": "Ir"
+  },
+  "1120": {
+    "word": "To come",
+    "clue": "Moverse o desplazarse en la dirección de la persona a la que se habla",
+    "learn": "Venir"
+  },
+  "1121": {
+    "word": "To do",
+    "clue": "Realizar, participar o lograr algo",
+    "learn": "Hacer"
+  },
+  "1122": {
+    "word": "To say",
+    "clue": "Pronunciar palabras para transmitir una información, una opinión, un sentimiento o una intención, o una instrucción",
+    "learn": "Decir"
+  },
+  "1123": {
+    "word": "To see",
+    "clue": "Percibir con los ojos; mirar",
+    "learn": "Ver"
+  },
+  "1124": {
+    "word": "To listen",
+    "clue": "Prestar atención a un sonido",
+    "learn": "Escuchar"
+  },
+  "1125": {
+    "word": "To eat",
+    "clue": "Poner (comida) en la boca y masticarla y tragarla",
+    "learn": "Comer"
+  },
+  "1126": {
+    "word": "To drink",
+    "clue": "Llevar (un líquido) a la boca y tragarlo",
+    "learn": "Beber"
+  },
+  "1127": {
+    "word": "To sleep",
+    "clue": "Pasar la noche en un lugar determinado, en una cama, etc.",
+    "learn": "Dormir"
+  },
+  "1128": {
+    "word": "To study",
+    "clue": "Aplicarse a la adquisición de conocimientos, como mediante la lectura, la investigación o la práctica",
+    "learn": "Estudiar"
+  },
+  "1129": {
+    "word": "To laugh",
+    "clue": "Sonreír emitiendo sonidos con la voz que muestran que algo te hace gracia o que estás contento",
+    "learn": "Reír"
+  },
+  "1130": {
+    "word": "To understand",
+    "clue": "Percibir el significado de (palabras, un idioma o un hablante)",
+    "learn": "Comprender"
+  },
+  "1131": {
+    "word": "To read",
+    "clue": "Mirar y comprender el significado de (material escrito o impreso) interpretando mentalmente los caracteres o símbolos que lo componen",
+    "learn": "Leer"
+  },
+  "1132": {
+    "word": "To dream",
+    "clue": "Permitirse soñar despierto o fantasear con algo muy deseado",
+    "learn": "Soñar"
+  },
+  "1133": {
+    "word": "To search",
+    "clue": "Mirar con atención en algún sitio para encontrar algo",
+    "learn": "Buscar"
+  },
+  "1134": {
+    "word": "To start",
+    "clue": "Dar el primer paso o los primeros pasos en la realización de una acción",
+    "learn": "Comenzar"
+  },
+  "1135": {
+    "word": "Null",
+    "clue": "El número de lados de un círculo perfecto",
+    "learn": "Cero"
+  },
+  "1136": {
+    "word": "Eins",
+    "clue": "Protagonista solitario de una historia",
+    "learn": "Uno"
+  },
+  "1137": {
+    "word": "Zwei",
+    "clue": "Elegante forma de un cisne en reposo",
+    "learn": "Dos"
+  },
+  "1138": {
+    "word": "Drei",
+    "clue": "Número de lados de un triángulo",
+    "learn": "Tres"
+  },
+  "1139": {
+    "word": "Vier",
+    "clue": "Número de patas de la mesa",
+    "learn": "Cuatro"
+  },
+  "1140": {
+    "word": "Fünf",
+    "clue": "Los dedos de una mano",
+    "learn": "Cinco"
+  },
+  "1141": {
+    "word": "Sechs",
+    "clue": "Piensa en el número de caras de un dado normal",
+    "learn": "Seis"
+  },
+  "1142": {
+    "word": "Sieben",
+    "clue": "El número de días de una semana",
+    "learn": "Siete"
+  },
+  "1143": {
+    "word": "Acht",
+    "clue": "Número de patas de una araña",
+    "learn": "Ocho"
+  },
+  "1144": {
+    "word": "Neun",
+    "clue": "Este número es el inverso de seis",
+    "learn": "Nueve"
+  },
+  "1145": {
+    "word": "Zehn",
+    "clue": "Fundamental para nuestro sistema de numeración, es la cuenta de los dedos de las dos  manos",
+    "learn": "Diez"
+  },
+  "1146": {
+    "word": "Elf",
+    "clue": "A un dígito de la docena",
+    "learn": "Once"
+  },
+  "1147": {
+    "word": "Weiss",
+    "clue": "La ausencia de color, a menudo asociada con la pureza y la limpieza",
+    "learn": "Blanco"
+  },
+  "1148": {
+    "word": "Schwarz",
+    "clue": "El color que absorbe toda la luz y es el tono más oscuro",
+    "learn": "Negro"
+  },
+  "1149": {
+    "word": "Grau",
+    "clue": "Un color neutro que es una mezcla de blanco y negro",
+    "learn": "Gris"
+  },
+  "1150": {
+    "word": "Braun",
+    "clue": "Un color cálido asociado a menudo con la tierra y la naturaleza",
+    "learn": "Marrón"
+  },
+  "1151": {
+    "word": "Blau",
+    "clue": "El color del cielo y del mar",
+    "learn": "Azul"
+  },
+  "1152": {
+    "word": "Rot",
+    "clue": "Un color primario a menudo asociado con la pasión y el amor",
+    "learn": "Rojo"
+  },
+  "1153": {
+    "word": "Orange",
+    "clue": "Una fruta cítrica que comparte su nombre con este color",
+    "learn": "Naranja"
+  },
+  "1154": {
+    "word": "Gelb",
+    "clue": "Un color soleado y alegre que se asocia a menudo con la felicidad",
+    "learn": "Amarillo"
+  },
+  "1155": {
+    "word": "Grün",
+    "clue": "Un color que se asocia a menudo con la naturaleza, el crecimiento y la frescura.",
+    "learn": "Verde"
+  },
+  "1156": {
+    "word": "Rosa",
+    "clue": "Un color claro que suele asociarse con la feminidad y el romanticismo",
+    "learn": "Rosa"
+  },
+  "1157": {
+    "word": "Silber",
+    "clue": "Un color metálico brillante y reflectante",
+    "learn": "Plata"
+  },
+  "1158": {
+    "word": "Gold",
+    "clue": "Un color metálico precioso y valioso",
+    "learn": "Oro"
+  },
+  "1159": {
+    "word": "Ich",
+    "clue": "En inglés moderno, es el pronombre singular en primera persona",
+    "learn": "Yo"
+  },
+  "1160": {
+    "word": "Du",
+    "clue": "Se utiliza para referirse a la persona o personas con las que se habla o escribe",
+    "learn": "Tú"
+  },
+  "1161": {
+    "word": "Er",
+    "clue": "Se utiliza como sujeto de un verbo para referirse a un hombre, un niño o un animal macho que ya ha sido mencionado",
+    "learn": "Él"
+  },
+  "1162": {
+    "word": "Sie",
+    "clue": "Se utiliza como sujeto de un verbo para referirse a una mujer, niña o animal hembra que ya se ha mencionado.",
+    "learn": "Ella"
+  },
+  "1163": {
+    "word": "sie",
+    "clue": "Se utiliza como sujeto de un verbo para referirse a personas, animales o cosas ya mencionados o, de forma más general, a un grupo de personas no descrito claramente.",
+    "learn": "Ellos/as"
+  },
+  "1164": {
+    "word": "Wir",
+    "clue": "Se usa como sujeto de un verbo para referirse a un grupo que incluye al hablante y al menos otra persona.",
+    "learn": "Nosotros"
+  },
+  "1165": {
+    "word": "Wo?",
+    "clue": "Se utiliza para preguntar por el lugar o la posición de alguien o algo",
+    "learn": "Dónde"
+  },
+  "1166": {
+    "word": "Wie?",
+    "clue": "Se utiliza para preguntar sobre la forma en que ocurre o se hace algo",
+    "learn": "Cómo"
+  },
+  "1167": {
+    "word": "Wann?",
+    "clue": "Se utiliza para preguntar por el momento en que ocurre algo",
+    "learn": "Cuándo"
+  },
+  "1168": {
+    "word": "Warum?",
+    "clue": "Se utiliza para preguntar por el motivo de algo",
+    "learn": "Por qué"
+  },
+  "1169": {
+    "word": "Welche?",
+    "clue": "Se utiliza para preguntar sobre una o más personas o cosas de un conjunto definido",
+    "learn": "Cuál"
+  },
+  "1170": {
+    "word": "Wer?",
+    "clue": "Se utiliza para preguntar acerca de una persona o personas",
+    "learn": "Quién"
+  },
+  "1171": {
+    "word": "Leben",
+    "clue": "Período comprendido entre el nacimiento y la muerte de un ser vivo",
+    "learn": "Vida"
+  },
+  "1172": {
+    "word": "Zeit",
+    "clue": "El progreso continuo indefinido de la existencia y los acontecimientos en el pasado, presente y futuro considerados como un todo",
+    "learn": "Tiempo"
+  },
+  "1173": {
+    "word": "Jahr",
+    "clue": "Un periodo de 365 días",
+    "learn": "Año"
+  },
+  "1174": {
+    "word": "Tag",
+    "clue": "Un periodo de 24 horas",
+    "learn": "Día"
+  },
+  "1175": {
+    "word": "Person",
+    "clue": "Ser humano considerado como individuo",
+    "learn": "Persona"
+  },
+  "1176": {
+    "word": "Ding",
+    "clue": "Objeto material sin vida ni conciencia",
+    "learn": "Cosa"
+  },
+  "1177": {
+    "word": "Welt",
+    "clue": "La Tierra, con todos sus países, pueblos y características naturales",
+    "learn": "Mundo"
+  },
+  "1178": {
+    "word": "Freund",
+    "clue": "Una persona con la que se tiene un vínculo de afecto mutuo",
+    "learn": "Amigo"
+  },
+  "1179": {
+    "word": "Weg",
+    "clue": "Método, estilo o manera de hacer algo",
+    "learn": "Camino"
+  },
+  "1180": {
+    "word": "Ort",
+    "clue": "Una posición o punto concreto en el espacio",
+    "learn": "Lugar"
+  },
+  "1181": {
+    "word": "Teil",
+    "clue": "Una parte o segmento de algo, como un objeto, una actividad o un período de tiempo",
+    "learn": "Parte"
+  },
+  "1182": {
+    "word": "Tatsache",
+    "clue": "Algo que se sabe o se ha demostrado que es cierto",
+    "learn": "Hecho"
+  },
+  "1183": {
+    "word": "Haus",
+    "clue": "Edificio habitable",
+    "learn": "Casa"
+  },
+  "1184": {
+    "word": "Liebe",
+    "clue": "Un intenso sentimiento de profundo afecto",
+    "learn": "Amor"
+  },
+  "1185": {
+    "word": "Problem",
+    "clue": "Cuestión o situación que se considera inoportuna o perjudicial y que hay que tratar y superar",
+    "learn": "Problema"
+  },
+  "1186": {
+    "word": "Wort",
+    "clue": "Un único elemento significativo del discurso o la escritura",
+    "learn": "Palabra"
+  },
+  "1187": {
+    "word": "Grund",
+    "clue": "Causa, explicación o justificación de una acción o acontecimiento",
+    "learn": "Razón"
+  },
+  "1188": {
+    "word": "Schnee",
+    "clue": "Vapor de agua atmosférico congelado en cristales de hielo y que cae en ligeros copos blancos o yace en el suelo como una capa blanca",
+    "learn": "Nieve"
+  },
+  "1189": {
+    "word": "Apfel",
+    "clue": "Fruta redonda de pulpa blanca y firme y piel verde, roja o amarilla",
+    "learn": "Manzana"
+  },
+  "1190": {
+    "word": "Banane",
+    "clue": "Fruto largo y curvado que crece en racimos y tiene una pulpa blanda y una piel amarilla cuando está maduro",
+    "learn": "Banana"
+  },
+  "1191": {
+    "word": "Zitrone",
+    "clue": "Fruta redonda, amarilla, de piel gruesa y zumo ácido, que se utiliza en la cocina y para hacer limonada",
+    "learn": "Limón"
+  },
+  "1192": {
+    "word": "Erdbeere",
+    "clue": "Fruta roja, dulce y suave, con una superficie llena de semillas",
+    "learn": "Fresa"
+  },
+  "1193": {
+    "word": "Traube",
+    "clue": "Fruta pequeña, redonda, de color púrpura oscuro y sabor dulce, que se utiliza para hacer vino y se come como fruta",
+    "learn": "Uva"
+  },
+  "1194": {
+    "word": "Birne",
+    "clue": "Fruta dulce, jugosa, de color amarillo o verde, con base redonda y parte superior ligeramente puntiaguda",
+    "learn": "Pera"
+  },
+  "1195": {
+    "word": "Ananas",
+    "clue": "Planta tropical con un fruto múltiple comestible formado por bayas coalescentes, también el propio fruto",
+    "learn": "Piña"
+  },
+  "1196": {
+    "word": "Kiwi",
+    "clue": "Fruto pequeño y ovalado de piel pardusca, pulpa verde y semillas negras",
+    "learn": "Kiwi"
+  },
+  "1197": {
+    "word": "Melone",
+    "clue": "Fruta grande y redonda, de corteza dura verde o amarilla, carne dulce y jugosa y muchas semillas",
+    "learn": "Melón"
+  },
+  "1198": {
+    "word": "Pfirsich",
+    "clue": "Fruta jugosa de piel amarilla o rosada y hueso velloso",
+    "learn": "Durazno"
+  },
+  "1199": {
+    "word": "Karotte",
+    "clue": "Raíz cónica de color anaranjado que se consume como verdura",
+    "learn": "Zanahoria"
+  },
+  "1200": {
+    "word": "Avocado",
+    "clue": "Fruta en forma de pera con piel rugosa y coriácea, carne comestible lisa y aceitosa y un hueso grande",
+    "learn": "Aguacate"
+  },
+  "1201": {
+    "word": "Kraut",
+    "clue": "Planta bienal de hoja verde o púrpura que se consume cocida o cruda en ensaladas",
+    "learn": "Repollo"
+  },
+  "1202": {
+    "word": "Kartoffel",
+    "clue": "Hortaliza redonda que crece bajo tierra y tiene carne blanca con piel marrón claro, roja o rosada, o la planta en la que crecen",
+    "learn": "Papa"
+  },
+  "1203": {
+    "word": "Spinat",
+    "clue": "Hortaliza de hojas anchas y de color verde oscuro que se consume cocida o cruda",
+    "learn": "Espinaca"
+  },
+  "1204": {
+    "word": "Sellerie",
+    "clue": "Hortaliza de tallo largo y delgado, de color blanquecino o verde pálido, que puede consumirse cruda o cocida",
+    "learn": "Apio"
+  },
+  "1205": {
+    "word": "Knoblauch",
+    "clue": "Planta de la familia de las cebollas, de sabor y olor fuertes, que se utiliza en la cocina para dar sabor",
+    "learn": "Ajo"
+  },
+  "1206": {
+    "word": "Steckrübe",
+    "clue": "Hortaliza de raíz blanca por debajo y morada por encima que se utiliza a menudo en guisos y sopas",
+    "learn": "Nabo"
+  },
+  "1207": {
+    "word": "Löwe",
+    "clue": "Un gran animal salvaje de la familia de los felinos, de pelaje marrón claro",
+    "learn": "León"
+  },
+  "1208": {
+    "word": "Tiger",
+    "clue": "Un gran felino salvaje de pelaje amarillo con rayas negras",
+    "learn": "Tigre"
+  },
+  "1209": {
+    "word": "Giraffe",
+    "clue": "Un gran mamífero rumiante africano de cuello y patas delanteras largas, con un pelaje con patrones marrones, amarillos y negros",
+    "learn": "Jirafa"
+  },
+  "1210": {
+    "word": "Adler",
+    "clue": "Un ave rapaz grande con cabeza ancha, pico curvo y garras poderosas",
+    "learn": "Águila"
+  },
+  "1211": {
+    "word": "Zebra",
+    "clue": "Un animal parecido a un caballo con rayas negras y blancas",
+    "learn": "Cebra"
+  },
+  "1212": {
+    "word": "Bär",
+    "clue": "Un animal salvaje grande y fuerte con pelaje grueso",
+    "learn": "Oso"
+  },
+  "1213": {
+    "word": "Wolf",
+    "clue": "Un animal salvaje de la familia de los cánidos",
+    "learn": "Lobo"
+  },
+  "1214": {
+    "word": "Fuchs",
+    "clue": "Un mamífero salvaje de la familia de los cánidos que tiene la cara y las orejas puntiagudas",
+    "learn": "Zorro"
+  },
+  "1215": {
+    "word": "Hund",
+    "clue": "Un animal con pelo, cuatro patas y cola, que se cría como mascota",
+    "learn": "Perro"
+  },
+  "1216": {
+    "word": "Katze",
+    "clue": "Un animal con pelo que se cría como mascota",
+    "learn": "Gato"
+  },
+  "1217": {
+    "word": "Pferd",
+    "clue": "Un animal grande con cuatro patas que la gente monta o utiliza para tirar de cosas pesadas",
+    "learn": "Caballo"
+  },
+  "1218": {
+    "word": "Schwein",
+    "clue": "Un animal de granja grande y rosado que tiene cuatro patas y una cola corta",
+    "learn": "Cerdo"
+  },
+  "1219": {
+    "word": "Kuh",
+    "clue": "Un animal de granja hembra grande que se cría para producir leche",
+    "learn": "Vaca"
+  },
+  "1220": {
+    "word": "Siegel",
+    "clue": "Un animal de pelo liso que come pescado y vive cerca del mar",
+    "learn": "Foca"
+  },
+  "1221": {
+    "word": "Ziege",
+    "clue": "Un animal con cuernos que se cría por la leche que produce",
+    "learn": "Cabra"
+  },
+  "1222": {
+    "word": "Falke",
+    "clue": "Un ave de rapiña con alas puntiagudas y cola larga, que puede ser entrenada para cazar otras aves y pequeños animales",
+    "learn": "Halcón"
+  },
+  "1223": {
+    "word": "Frosch",
+    "clue": "Un animal pequeño de piel lisa que vive en el agua y en tierra, con patas traseras largas y poderosas con las que salta de un lugar a otro",
+    "learn": "Rana"
+  },
+  "1224": {
+    "word": "Spinne",
+    "clue": "Un arácnido de ocho patas, dos partes principales del cuerpo y que a menudo teje telarañas para atrapar presas",
+    "learn": "Araña"
+  },
+  "1225": {
+    "word": "Arzt",
+    "clue": "Una persona que está calificada para tratar a personas enfermas o heridas",
+    "learn": "Doctor"
+  },
+  "1226": {
+    "word": "Zahnarzt",
+    "clue": "Una persona que está calificada para tratar enfermedades y afecciones que afectan a los dientes y las encías",
+    "learn": "Dentista"
+  },
+  "1227": {
+    "word": "Künstler",
+    "clue": "Una persona que crea obras de arte, especialmente pinturas o esculturas",
+    "learn": "Artista"
+  },
+  "1228": {
+    "word": "Schauspieler",
+    "clue": "Una persona que actúa en una obra de teatro, película o programa de televisión",
+    "learn": "Actor"
+  },
+  "1229": {
+    "word": "Piloten",
+    "clue": "Una persona que opera una aeronave",
+    "learn": "Piloto"
+  },
+  "1230": {
+    "word": "Seemann",
+    "clue": "Una persona que trabaja en un barco o bote",
+    "learn": "Marinero"
+  },
+  "1231": {
+    "word": "Athlet",
+    "clue": "Una persona que es experta en deportes y otras formas de ejercicio físico",
+    "learn": "Atleta"
+  },
+  "1232": {
+    "word": "Bäcker",
+    "clue": "Una persona que hornea y vende pan, pasteles y artículos similares",
+    "learn": "Panadero"
+  },
+  "1233": {
+    "word": "Reiniger",
+    "clue": "Una persona cuyo trabajo es limpiar edificios, calles, etc.",
+    "learn": "Limpiador"
+  },
+  "1234": {
+    "word": "Metzger",
+    "clue": "Una persona que corta y vende carne en una tienda",
+    "learn": "Carnicero"
+  },
+  "1235": {
+    "word": "Chemiker",
+    "clue": "Una persona que trabaja en el estudio científico de la composición, propiedades y comportamiento de las sustancias",
+    "learn": "Químico"
+  },
+  "1236": {
+    "word": "Banker",
+    "clue": "Una persona que trabaja en un banco o para un banco",
+    "learn": "Banquero"
+  },
+  "1237": {
+    "word": "Geologe",
+    "clue": "Una persona que estudia la estructura física, la sustancia y la historia de la Tierra",
+    "learn": "Geólogo"
+  },
+  "1238": {
+    "word": "Sekretärin",
+    "clue": "Una persona empleada en una oficina que se ocupa de la correspondencia, hace citas y realiza tareas administrativas",
+    "learn": "Secretaria"
+  },
+  "1239": {
+    "word": "Tierarzt",
+    "clue": "Una persona que está calificada para tratar animales enfermos o heridos",
+    "learn": "Veterinario"
+  },
+  "1240": {
+    "word": "Astronom",
+    "clue": "Una persona que estudia las estrellas y los planetas",
+    "learn": "Astrónomo"
+  },
+  "1241": {
+    "word": "Schriftsteller",
+    "clue": "Una persona que ha escrito una obra o obras particulares, especialmente en un campo particular",
+    "learn": "Escritor"
+  },
+  "1242": {
+    "word": "Gärtner",
+    "clue": "Una persona que cuida y cultiva un jardín como pasatiempo o para ganarse la vida",
+    "learn": "Jardinero"
+  },
+  "1243": {
+    "word": "Kurz",
+    "clue": "De poca longitud, distancia o altura",
+    "learn": "Corto"
+  },
+  "1244": {
+    "word": "Lang",
+    "clue": "Ser una distancia entre dos puntos que es mayor que la media o habitual",
+    "learn": "Largo"
+  },
+  "1245": {
+    "word": "Kreativ",
+    "clue": "Relativo o que implica el uso de la imaginación o ideas originales para crear algo",
+    "learn": "Creativo"
+  },
+  "1246": {
+    "word": "Einfach",
+    "clue": "Logrado sin gran esfuerzo",
+    "learn": "Fácil"
+  },
+  "1247": {
+    "word": "Schwierig",
+    "clue": "Necesitando mucho esfuerzo o habilidad para lograr, tratar o entender",
+    "learn": "Difícil"
+  },
+  "1248": {
+    "word": "Schön",
+    "clue": "Agradable a los sentidos o a la mente estéticamente",
+    "learn": "Hermoso"
+  },
+  "1249": {
+    "word": "Interessant",
+    "clue": "Despertando curiosidad o interés",
+    "learn": "Interesante"
+  },
+  "1250": {
+    "word": "Langweilig",
+    "clue": "No interesante; tedioso",
+    "learn": "Aburrido"
+  },
+  "1251": {
+    "word": "Spass",
+    "clue": "Causando risa y diversión; divertido",
+    "learn": "Divertido"
+  },
+  "1252": {
+    "word": "Glücklich",
+    "clue": "Sintiendo o mostrando placer o satisfacción",
+    "learn": "Feliz"
+  },
+  "1253": {
+    "word": "Intelligent",
+    "clue": "Capaz de aprender y entender las cosas fácilmente",
+    "learn": "Inteligente"
+  },
+  "1254": {
+    "word": "Grosse",
+    "clue": "De considerable tamaño o extensión",
+    "learn": "Grande"
+  },
+  "1255": {
+    "word": "Klein",
+    "clue": "De un tamaño inferior al normal o habitual",
+    "learn": "Pequeño"
+  },
+  "1256": {
+    "word": "Neu",
+    "clue": "No existente antes; hecho, introducido o descubierto recientemente o ahora por primera vez",
+    "learn": "Nuevo"
+  },
+  "1257": {
+    "word": "Alt",
+    "clue": "Habiendo vivido durante mucho tiempo; ya no joven",
+    "learn": "Viejo"
+  },
+  "1258": {
+    "word": "Junge",
+    "clue": "Habiendo vivido o existido sólo por un corto tiempo",
+    "learn": "Joven"
+  },
+  "1259": {
+    "word": "Schüchtern",
+    "clue": "Nervioso o tímido en compañía de otras personas",
+    "learn": "Tímido"
+  },
+  "1260": {
+    "word": "Gross",
+    "clue": "De gran altura o superior a la media, especialmente (con referencia a un objeto) en relación con el ancho",
+    "learn": "Alto"
+  },
+  "1261": {
+    "word": "Sein",
+    "clue": "Existir o vivir",
+    "learn": "Ser"
+  },
+  "1262": {
+    "word": "Haben",
+    "clue": "Poseer, tener o sostener",
+    "learn": "Tener"
+  },
+  "1263": {
+    "word": "Gehen",
+    "clue": "Viajar o moverse a otro lugar",
+    "learn": "Ir"
+  },
+  "1264": {
+    "word": "Kommen",
+    "clue": "Moverse o viajar en dirección a la persona con la que se habla",
+    "learn": "Venir"
+  },
+  "1265": {
+    "word": "Machen",
+    "clue": "Realizar, participar o lograr algo",
+    "learn": "Hacer"
+  },
+  "1266": {
+    "word": "Sagen",
+    "clue": "Pronunciar palabras para transmitir información, una opinión, un sentimiento o intención, o una instrucción",
+    "learn": "Decir"
+  },
+  "1267": {
+    "word": "Sehen",
+    "clue": "Percibir con los ojos; mirar",
+    "learn": "Ver"
+  },
+  "1268": {
+    "word": "Hören",
+    "clue": "Prestar atención a un sonido",
+    "learn": "Escuchar"
+  },
+  "1269": {
+    "word": "Essen",
+    "clue": "Meter (comida) en la boca y masticarla y tragarla",
+    "learn": "Comer"
+  },
+  "1270": {
+    "word": "Trinken",
+    "clue": "Tomar (un líquido) en la boca y tragarlo",
+    "learn": "Beber"
+  },
+  "1271": {
+    "word": "Schlafen",
+    "clue": "Pasar la noche en un lugar determinado, en una cama, etc.",
+    "learn": "Dormir"
+  },
+  "1272": {
+    "word": "Studieren",
+    "clue": "Aplicar uno mismo a la adquisición de conocimiento, como por lectura, investigación o práctica",
+    "learn": "Estudiar"
+  },
+  "1273": {
+    "word": "Lachen",
+    "clue": "Sonreír mientras se emiten sonidos con la voz que muestran que se piensa que algo es divertido o que se está feliz",
+    "learn": "Reír"
+  },
+  "1274": {
+    "word": "Verstehen",
+    "clue": "Percibir el significado intencionado de (palabras, un idioma o un hablante)",
+    "learn": "Entender"
+  },
+  "1275": {
+    "word": "Lesen",
+    "clue": "Mirar y comprender el significado de (materia escrita o impresa) interpretando mentalmente los caracteres o símbolos de los que está compuesta",
+    "learn": "Leer"
+  },
+  "1276": {
+    "word": "Träumen",
+    "clue": "Indulgir en ensoñaciones o fantasías sobre algo muy deseado",
+    "learn": "Soñar"
+  },
+  "1277": {
+    "word": "Suchen",
+    "clue": "Buscar en algún lugar con cuidado para encontrar algo",
+    "learn": "Buscar"
+  },
+  "1278": {
+    "word": "Beginnen",
+    "clue": "Dar el primer paso o los primeros pasos en la realización de una acción",
+    "learn": "Comenzar"
   }
 }
