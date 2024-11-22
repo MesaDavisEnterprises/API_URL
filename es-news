@@ -1,0 +1,54 @@
+{
+  "1": {
+    "title": "Inicio",
+    "description": "En el lobby, encontrarás un resumen de tu progreso, resultados, métricas, noticias y ayuda."
+  },
+  "2": {
+    "title": "Tienda",
+    "description": "En la tienda, puedes comprar paquetes de monedas y vidas para impulsar tu progreso y divertirte mientras aprendes."
+  },
+  "3": {
+    "title": "Áreas de Conocimiento",
+    "description": "La lista de áreas de conocimiento te permitirá acceder rápidamente a las principales ramas del saber."
+  },
+  "4": {
+    "title": "Logros",
+    "description": "La sección de logros te permitirá rastrear los logros obtenidos por cada lección completada."
+  },
+  "5": {
+    "title": "Ayuda",
+    "description": "La ayuda te permitirá entender en detalle cada función y sección dentro del juego."
+  },
+  "6": {
+    "title": "Configuración",
+    "description": "En configuración, puedes activar o desactivar el sonido, acceder a enlaces de soporte, canales de información y cerrar sesión de forma segura."
+  },
+  "7": {
+    "title": "Deslizar",
+    "description": "Estas flechas indicarán que puedes deslizar la información en la pantalla."
+  },
+  "8": {
+    "title": "Nivel de Usuario",
+    "description": "Esto representa tu nivel actual en el juego en relación con la experiencia ganada en los diferentes niveles."
+  },
+  "9": {
+    "title": "Vidas",
+    "description": "Estas son tus vidas, que te permiten reorganizar palabras en el tablero y verificar si la solución es correcta."
+  },
+  "10": {
+    "title": "Monedas",
+    "description": "Estas son tus monedas, que puedes adquirir en la tienda para comprar vidas, lecciones y avanzar en tu aprendizaje."
+  },
+  "11": {
+    "title": "¡Bienvenido a Mesadoko!",
+    "description": "Prepárate para embarcarte en un emocionante viaje de aprendizaje mientras exploras nuevos horizontes y desbloqueas conocimiento."
+  },
+  "12": {
+    "title": "Mesadoko 1.3",
+    "description": "¡Embárcate en un emocionante viaje de aprendizaje y diversión con Mesadoko 1.3! Explora una diversa gama de tableros interactivos y cuestionarios que cubren un amplio espectro de temas, incluyendo ciencia, tecnología, idiomas y mucho más."
+  },
+  "13": {
+    "title": "Desarrollo de Software",
+    "description": "Explora el mundo del desarrollo de software un término a la vez. Desde el backend hasta el frontend, desbloquea nuevos niveles mientras profundizas tu comprensión de conceptos esenciales de programación."
+  }
+}
