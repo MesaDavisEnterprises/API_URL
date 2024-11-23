@@ -1,0 +1,274 @@
+{
+  "1": {
+    "name": "Fundamentos Químicos",
+    "description": "Dominados los bloques básicos: átomos, elementos, compuestos y enlaces químicos"
+  },
+  "2": {
+    "name": "Química / Metales",
+    "description": "Aprendidos sobre elementos metálicos como sodio, magnesio y sus propiedades"
+  },
+  "3": {
+    "name": "Química / Metales de Transición",
+    "description": "Estudiados los metales de transición como cobre, plata y sus propiedades variables"
+  },
+  "4": {
+    "name": "Química / Metaloides",
+    "description": "Estudiados los metaloides como silicio, germanio y sus propiedades intermedias"
+  },
+  "5": {
+    "name": "Química / No Metales",
+    "description": "Explorados los elementos no metálicos como oxígeno, cloro y sus comportamientos químicos"
+  },
+  "6": {
+    "name": "Química / Sustancias Químicas",
+    "description": "Distinción de características clave de sustancias químicas orgánicas e inorgánicas"
+  },
+  "7": {
+    "name": "Química / Elementos Sintéticos",
+    "description": "Comprensión de la creación y propiedades de los elementos pesados artificiales"
+  },
+  "8": {
+    "name": "Español / Básico",
+    "description": "Aprendidas palabras básicas en español y pronunciación"
+  },
+  "9": {
+    "name": "Español / Alimentos",
+    "description": "Aprendidas palabras de alimentos en español y sus pronunciaciones"
+  },
+  "10": {
+    "name": "Español / Profesiones",
+    "description": "Aprendidas palabras y pronunciaciones de trabajos en español"
+  },
+  "11": {
+    "name": "Español / Aficiones",
+    "description": "Aprendidas palabras y pronunciaciones de aficiones y actividades"
+  },
+  "12": {
+    "name": "Español / Animales",
+    "description": "Aprendidas palabras y sonidos para animales domésticos, de granja y salvajes"
+  },
+  "13": {
+    "name": "Español / Transporte",
+    "description": "Aprendidas palabras y pronunciaciones relacionadas con el transporte"
+  },
+  "14": {
+    "name": "Español / Verbos",
+    "description": "Aprendidas palabras y pronunciaciones para verbos comunes"
+  },
+  "15": {
+    "name": "Francés / Básico",
+    "description": "Aprendidas palabras básicas en francés y pronunciación"
+  },
+  "16": {
+    "name": "Francés / Alimentos",
+    "description": "Aprendidas palabras y pronunciaciones en francés para alimentos comunes"
+  },
+  "17": {
+    "name": "Francés / Profesiones",
+    "description": "Aprendidas palabras y pronunciaciones en francés para diferentes trabajos"
+  },
+  "18": {
+    "name": "Francés / Palabras de Deportes",
+    "description": "Aprendidas palabras y pronunciaciones en francés para deportes"
+  },
+  "19": {
+    "name": "Francés / Palabras de Casa",
+    "description": "Aprendidas palabras en francés relacionadas con la vivienda y habitaciones"
+  },
+  "20": {
+    "name": "Francés / Animales",
+    "description": "Aprendidas palabras y sonidos en francés para animales"
+  },
+  "21": {
+    "name": "Francés / Transporte",
+    "description": "Aprendidas palabras y pronunciaciones en francés para transporte"
+  },
+  "22": {
+    "name": "Italiano / Básico",
+    "description": "Aprendidas palabras básicas en italiano y pronunciación"
+  },
+  "23": {
+    "name": "Italiano / Sustantivos",
+    "description": "Aprendidas palabras para sustantivos comunes en italiano"
+  },
+  "24": {
+    "name": "Italiano / Alimentos",
+    "description": "Aprendidas palabras en italiano y pronunciaciones relacionadas con alimentos"
+  },
+  "25": {
+    "name": "Italiano / Animales",
+    "description": "Aprendidas palabras italianas para nombres de animales y pronunciación correcta"
+  },
+  "26": {
+    "name": "Italiano / Profesiones",
+    "description": "Aprendidas palabras y pronunciaciones para trabajos en italiano"
+  },
+  "27": {
+    "name": "Italiano / Adjetivos",
+    "description": "Aprendidas palabras para adjetivos descriptivos en italiano"
+  },
+  "28": {
+    "name": "Italiano / Verbos",
+    "description": "Aprendidas palabras y pronunciaciones para verbos comunes en italiano"
+  },
+  "29": {
+    "name": "Computación Fundamental",
+    "description": "Aprendidos conceptos básicos de ciencias de la computación y terminología"
+  },
+  "30": {
+    "name": "Computación / Hardware",
+    "description": "Comprensión de los componentes internos de una computadora y periféricos"
+  },
+  "31": {
+    "name": "Computación / Software",
+    "description": "Estudio de diferentes tipos de programas y aplicaciones informáticas"
+  },
+  "32": {
+    "name": "Computación / Redes",
+    "description": "Aprendidas términos y conceptos generales sobre cómo operan las redes informáticas"
+  },
+  "33": {
+    "name": "Computación / Seguridad",
+    "description": "Estudio de amenazas y defensas de ciberseguridad, y conceptos clave"
+  },
+  "34": {
+    "name": "Economía Fundamental",
+    "description": "Aprendidos principios y conceptos básicos de economía"
+  },
+  "35": {
+    "name": "Economía / Macroeconomía",
+    "description": "Estudio de fenómenos a nivel de economía como inflación, desempleo y crecimiento"
+  },
+  "36": {
+    "name": "Economía / Microeconomía",
+    "description": "Aprendidos sobre los tomadores de decisiones económicas individuales como empresas y consumidores"
+  },
+  "37": {
+    "name": "Portugués / Básico",
+    "description": "Aprendidas palabras básicas en portugués y pronunciación"
+  },
+  "38": {
+    "name": "Portugués / Sustantivos",
+    "description": "Aprendidas palabras para sustantivos comunes en portugués"
+  },
+  "39": {
+    "name": "Portugués / Alimentos",
+    "description": "Aprendidas palabras en portugués y pronunciaciones relacionadas con alimentos"
+  },
+  "40": {
+    "name": "Portugués / Animales",
+    "description": "Aprendidas palabras portuguesas para nombres de animales y pronunciación correcta"
+  },
+  "41": {
+    "name": "Portugués / Profesiones",
+    "description": "Aprendidas palabras y pronunciaciones para trabajos en portugués"
+  },
+  "42": {
+    "name": "Portugués / Adjetivos",
+    "description": "Aprendidas palabras para adjetivos descriptivos en portugués"
+  },
+  "43": {
+    "name": "Portugués / Verbos",
+    "description": "Aprendidas palabras y pronunciaciones para verbos comunes en portugués"
+  },
+  "44": {
+    "name": "Inglés / Básico",
+    "description": "Aprendidas palabras básicas en inglés y pronunciación"
+  },
+  "45": {
+    "name": "Inglés / Sustantivos",
+    "description": "Aprendidas palabras para sustantivos comunes en inglés"
+  },
+  "46": {
+    "name": "Inglés / Alimentos",
+    "description": "Aprendidas palabras en inglés relacionadas con alimentos"
+  },
+  "47": {
+    "name": "Inglés / Animales",
+    "description": "Aprendidas palabras en inglés para nombres de animales y pronunciación correcta"
+  },
+  "48": {
+    "name": "Inglés / Profesiones",
+    "description": "Aprendidas palabras y pronunciaciones para trabajos en inglés"
+  },
+  "49": {
+    "name": "Inglés / Adjetivos",
+    "description": "Aprendidas palabras para adjetivos descriptivos en inglés"
+  },
+  "50": {
+    "name": "Inglés / Verbos",
+    "description": "Aprendidas palabras y pronunciaciones para verbos comunes en inglés"
+  },
+  "51": {
+    "name": "Alemán / Básico",
+    "description": "Aprendidas palabras básicas en alemán y pronunciación"
+  },
+  "52": {
+    "name": "Alemán / Sustantivos",
+    "description": "Aprendidas palabras para sustantivos comunes en alemán"
+  },
+  "53": {
+    "name": "Alemán / Alimentos",
+    "description": "Aprendidas palabras en alemán relacionadas con alimentos"
+  },
+  "54": {
+    "name": "Alemán / Animales",
+    "description": "Aprendidas palabras en alemán para nombres de animales y pronunciación correcta"
+  },
+  "55": {
+    "name": "Alemán / Profesiones",
+    "description": "Aprendidas palabras y pronunciaciones para trabajos en alemán"
+  },
+  "56": {
+    "name": "Alemán / Adjetivos",
+    "description": "Vocabulario aprendido de adjetivos descriptivos en alemán"
+  },
+  "57": {
+    "name": "Alemán / Verbos",
+    "description": "Vocabulario y pronunciaciones aprendidos para verbos comunes en alemán"
+  },
+  "58": {
+    "name": "Fundamentos de Desarrollo de Software",
+    "description": "Fundamentos aprendidos sobre el desarrollo de software"
+  },
+  "59": {
+    "name": "Desarrollo de Software / Lenguajes de Programación",
+    "description": "Lenguajes de programación aprendidos"
+  },
+  "60": {
+    "name": "Desarrollo de Software / Frameworks",
+    "description": "Aprendidos diversos frameworks de software"
+  },
+  "61": {
+    "name": "Desarrollo de Software / Bases de Datos",
+    "description": "Conceptos de bases de datos aprendidos"
+  },
+  "62": {
+    "name": "Desarrollo de Software / Backend",
+    "description": "Conceptos de desarrollo de backend aprendidos"
+  },
+  "63": {
+    "name": "Desarrollo de Software / Frontend",
+    "description": "Conceptos de desarrollo de frontend aprendidos"
+  },
+  "64": {
+    "name": "Fundamentos de Física",
+    "description": "Fundamentos de la física aprendidos"
+  },
+  "65": {
+    "name": "Física / Mecánica",
+    "description": "Estudio de la mecánica clásica"
+  },
+  "66": {
+    "name": "Física / Termodinámica",
+    "description": "Exploración de las leyes de la termodinámica"
+  },
+  "67": {
+    "name": "Física / Electromagnetismo",
+    "description": "Teoría electromagnética comprendida"
+  },
+  "68": {
+    "name": "Física / Ondas y Óptica",
+    "description": "Investigación sobre fenómenos de ondas y óptica"
+  }
+}
