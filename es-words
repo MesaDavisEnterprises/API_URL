@@ -2265,7 +2265,7 @@
   },
   "461": {
     "word": "Tomate",
-    "clue": "Una verdura comestible roja y brillante, o ocasionalmente amarilla",
+    "clue": "Una fruta comestible roja y brillante, o ocasionalmente amarilla",
     "learn": "Tomate"
   },
   "462": {
@@ -6352,5 +6352,1445 @@
     "word": "Beginnen",
     "clue": "Dar el primer paso o los primeros pasos en la realización de una acción",
     "learn": "Comenzar"
+  },
+  "1279": {
+    "word": "Variable",
+    "clue": "Fundamental para almacenar y manipular datos, usado en diferentes entornos y arquitecturas de programación"
+  },
+  "1280": {
+    "word": "Tipos de Datos",
+    "clue": "Define la naturaleza de los datos, como enteros o números flotantes, y determina cómo se almacenan y manipulan"
+  },
+  "1281": {
+    "word": "Enteros",
+    "clue": "Números enteros utilizados en cálculos y almacenamiento de datos, esenciales en tareas computacionales"
+  },
+  "1282": {
+    "word": "Flotantes",
+    "clue": "Números que representan valores reales con partes fraccionarias, usados para cálculos precisos con valores no enteros"
+  },
+  "1283": {
+    "word": "Cadenas",
+    "clue": "Secuencias de caracteres utilizadas para manejar y manipular texto en programación"
+  },
+  "1284": {
+    "word": "Booleanos",
+    "clue": "Representan valores verdaderos o falsos, cruciales para la toma de decisiones y operaciones lógicas en programación"
+  },
+  "1285": {
+    "word": "Adición",
+    "clue": "El proceso de combinar dos cantidades para obtener un total"
+  },
+  "1286": {
+    "word": "Sustracción",
+    "clue": "El proceso de restar una cantidad de otra"
+  },
+  "1287": {
+    "word": "Multiplicar",
+    "clue": "Una operación matemática que representa la combinación de grupos iguales"
+  },
+  "1288": {
+    "word": "División",
+    "clue": "El proceso de dividir una cantidad en partes iguales"
+  },
+  "1289": {
+    "word": "Módulo",
+    "clue": "Esta operación devuelve el resto después de dividir dos números"
+  },
+  "1290": {
+    "word": "Potenciación",
+    "clue": "Una operación que implica elevar un número a la potencia de otro"
+  },
+  "1291": {
+    "word": "Si",
+    "clue": "Una declaración condicional que ejecuta un bloque de código si su expresión evalúa como verdadera"
+  },
+  "1292": {
+    "word": "Sino",
+    "clue": "Esta declaración define un bloque de código que se ejecuta cuando la condición asociada con 'si' es falsa"
+  },
+  "1293": {
+    "word": "Sino Si",
+    "clue": "Una declaración condicional que permite verificar múltiples condiciones en secuencia"
+  },
+  "1294": {
+    "word": "Switch",
+    "clue": "Una estructura de control que permite probar un valor para igualdad con una lista de valores"
+  },
+  "1295": {
+    "word": "Para",
+    "clue": "Una estructura de control utilizada para repetir un bloque de código un número específico de veces"
+  },
+  "1296": {
+    "word": "Mientras",
+    "clue": "Una estructura de control que continúa ejecutando un bloque de código mientras una condición especificada sea verdadera"
+  },
+  "1297": {
+    "word": "Arreglo",
+    "clue": "Una colección de elementos almacenados en ubicaciones de memoria contiguas, accesibles por un índice"
+  },
+  "1298": {
+    "word": "Lista",
+    "clue": "Una colección ordenada de elementos que puede crecer o reducirse dinámicamente"
+  },
+  "1299": {
+    "word": "Pila",
+    "clue": "Una colección de elementos que sigue el principio Último en Entrar, Primero en Salir (LIFO)"
+  },
+  "1300": {
+    "word": "Cola",
+    "clue": "Una colección de elementos que sigue el principio Primero en Entrar, Primero en Salir (FIFO)"
+  },
+  "1301": {
+    "word": "Conjunto",
+    "clue": "Una colección desordenada de elementos únicos sin duplicados"
+  },
+  "1302": {
+    "word": "Mapa",
+    "clue": "Una colección de pares clave-valor, donde cada clave es única y se usa para recuperar su valor correspondiente"
+  },
+  "1303": {
+    "word": "Función",
+    "clue": "Un bloque de código que realiza una tarea específica y devuelve un valor"
+  },
+  "1304": {
+    "word": "Procedimiento",
+    "clue": "Un bloque de código que realiza una tarea específica pero no devuelve un valor"
+  },
+  "1305": {
+    "word": "Parámetro",
+    "clue": "Una variable utilizada en una función o procedimiento para aceptar valores de entrada"
+  },
+  "1306": {
+    "word": "Retorno",
+    "clue": "Una declaración utilizada para salir de una función y enviar un valor de vuelta al llamador"
+  },
+  "1307": {
+    "word": "Argumento",
+    "clue": "Un valor pasado a una función o procedimiento cuando es llamado"
+  },
+  "1308": {
+    "word": "Ámbito",
+    "clue": "El contexto en el cual una variable está definida y accesible dentro del código"
+  },
+  "1309": {
+    "word": "Excepción",
+    "clue": "Un evento que ocurre durante la ejecución del programa y que interrumpe el flujo normal de instrucciones"
+  },
+  "1310": {
+    "word": "Try",
+    "clue": "Un bloque de código que prueba errores durante la ejecución y maneja excepciones si ocurren"
+  },
+  "1311": {
+    "word": "Catch",
+    "clue": "Un bloque de código que maneja excepciones lanzadas por el bloque de intento"
+  },
+  "1312": {
+    "word": "Finalmente",
+    "clue": "Un bloque de código que se ejecuta después de los bloques intentar y capturar, sin importar si ocurrió una excepción"
+  },
+  "1313": {
+    "word": "Throw",
+    "clue": "Una declaración utilizada para señalar que ha ocurrido una excepción y pasarla al bloque de captura"
+  },
+  "1314": {
+    "word": "Error",
+    "clue": "Un problema que surge durante la ejecución del programa y que puede causar su finalización inesperada"
+  },
+  "1315": {
+    "word": "Clase",
+    "clue": "Un plano para crear objetos que define atributos y métodos"
+  },
+  "1316": {
+    "word": "Objeto",
+    "clue": "Una instancia de una clase que contiene datos y métodos para operar sobre esos datos"
+  },
+  "1317": {
+    "word": "Herencia",
+    "clue": "Un mecanismo donde una nueva clase deriva propiedades y comportamientos de una clase existente"
+  },
+  "1318": {
+    "word": "Polimorfismo",
+    "clue": "La capacidad de diferentes clases de ser tratadas como instancias de la misma clase a través de una interfaz común"
+  },
+  "1319": {
+    "word": "Encapsulación",
+    "clue": "La agrupación de datos y métodos que operan sobre esos datos dentro de una unidad, restringiendo el acceso a algunos componentes"
+  },
+  "1320": {
+    "word": "Abstracción",
+    "clue": "El concepto de ocultar detalles complejos de implementación y mostrar solo las características esenciales de un objeto"
+  },
+  "1321": {
+    "word": "PowerPC Assembly",
+    "clue": "Lenguaje ensamblador para la arquitectura PowerPC utilizado en muchas computadoras Apple y consolas de videojuegos."
+  },
+  "1322": {
+    "word": "ARM Assembly",
+    "clue": "Lenguaje ensamblador para la arquitectura ARM, ampliamente utilizado en dispositivos móviles y sistemas embebidos."
+  },
+  "1323": {
+    "word": "Intel Assembly",
+    "clue": "Lenguaje ensamblador usado para procesadores Intel, comúnmente empleado en aplicaciones para PC."
+  },
+  "1324": {
+    "word": "MIPS Assembly",
+    "clue": "Lenguaje ensamblador para la arquitectura MIPS, utilizado frecuentemente en entornos académicos y sistemas embebidos."
+  },
+  "1325": {
+    "word": "SPARC Assembly",
+    "clue": "Lenguaje ensamblador para la arquitectura SPARC, utilizado principalmente en entornos de servidores."
+  },
+  "1326": {
+    "word": "RISC-V Assembly",
+    "clue": "Lenguaje ensamblador de estándar abierto para la arquitectura RISC-V, conocido por su modularidad y extensibilidad."
+  },
+  "1327": {
+    "word": "Fortran",
+    "clue": "Un lenguaje de programación desarrollado para aplicaciones científicas y de ingeniería, conocido por su eficiencia."
+  },
+  "1328": {
+    "word": "ALGOL",
+    "clue": "Un lenguaje de programación de alto nivel que influyó enormemente en muchos lenguajes modernos, destacando la programación estructurada."
+  },
+  "1329": {
+    "word": "LISP",
+    "clue": "Uno de los lenguajes de programación más antiguos, conocido por la manipulación de expresiones simbólicas y su uso en inteligencia artificial."
+  },
+  "1330": {
+    "word": "BASIC",
+    "clue": "Un lenguaje de programación sencillo diseñado para principiantes, a menudo usado en educación y aplicaciones de pequeña escala."
+  },
+  "1331": {
+    "word": "COBOL",
+    "clue": "Un lenguaje de programación diseñado para el procesamiento de datos empresariales, conocido por su legibilidad y uso en sistemas heredados."
+  },
+  "1332": {
+    "word": "PL/I",
+    "clue": "Un lenguaje de programación diseñado para aplicaciones científicas, de ingeniería y de negocios, que integra características de ambos ámbitos."
+  },
+  "1333": {
+    "word": "Pascal",
+    "clue": "Un lenguaje de programación de alto nivel diseñado para la enseñanza de conceptos de programación estructurada."
+  },
+  "1334": {
+    "word": "Smalltalk",
+    "clue": "Un lenguaje de programación orientado a objetos conocido por su influencia en el desarrollo de aplicaciones con GUI y POO."
+  },
+  "1335": {
+    "word": "Simula",
+    "clue": "Considerado el primer lenguaje de programación orientado a objetos, utilizado principalmente para simulaciones."
+  },
+  "1336": {
+    "word": "C",
+    "clue": "Un lenguaje de programación general y eficiente, conocido por su control sobre los recursos del sistema."
+  },
+  "1337": {
+    "word": "APL",
+    "clue": "Un lenguaje de programación conocido por su uso de símbolos especiales y sintaxis concisa para cálculos matemáticos."
+  },
+  "1338": {
+    "word": "ALGOL 60",
+    "clue": "Un lenguaje de programación fundamental que introdujo muchos conceptos utilizados en lenguajes modernos."
+  },
+  "1339": {
+    "word": "Python",
+    "clue": "Un lenguaje de programación de alto nivel conocido por su legibilidad y versatilidad en diversas aplicaciones."
+  },
+  "1340": {
+    "word": "Java",
+    "clue": "Un lenguaje de programación ampliamente utilizado que sigue el principio de 'escribir una vez, ejecutar en cualquier lugar', conocido por su portabilidad."
+  },
+  "1341": {
+    "word": "JavaScript",
+    "clue": "Un lenguaje de programación utilizado principalmente para crear páginas web interactivas y scripting del lado del cliente."
+  },
+  "1342": {
+    "word": "Ruby",
+    "clue": "Un lenguaje de programación orientado a objetos conocido por su sintaxis elegante y productividad, usado en desarrollo web."
+  },
+  "1343": {
+    "word": "PHP",
+    "clue": "Un lenguaje de scripts del lado del servidor diseñado para desarrollo web, conocido por su facilidad de uso e integración con bases de datos."
+  },
+  "1344": {
+    "word": "C#",
+    "clue": "Un lenguaje de programación multiparadigma desarrollado por Microsoft, comúnmente utilizado para desarrollar aplicaciones de Windows y juegos."
+  },
+  "1345": {
+    "word": "Swift",
+    "clue": "Un lenguaje de programación desarrollado por Apple para aplicaciones iOS y macOS, conocido por su rendimiento y seguridad."
+  },
+  "1346": {
+    "word": "Kotlin",
+    "clue": "Un lenguaje de programación moderno que se ejecuta en la Máquina Virtual de Java (JVM), conocido por su sintaxis concisa y manejo seguro de nulos."
+  },
+  "1347": {
+    "word": "R",
+    "clue": "Un lenguaje de programación y entorno utilizado principalmente para la computación estadística y análisis de datos."
+  },
+  "1348": {
+    "word": "Perl",
+    "clue": "Un lenguaje de programación de alto nivel conocido por sus capacidades de procesamiento de texto y flexibilidad."
+  },
+  "1349": {
+    "word": "Go",
+    "clue": "Un lenguaje tipado desarrollado por Google, conocido por su simplicidad y eficiencia para construir aplicaciones escalables."
+  },
+  "1350": {
+    "word": "TypeScript",
+    "clue": "Un superconjunto de JavaScript que agrega tipado estático, facilitando la gestión de grandes bases de código."
+  },
+  "1351": {
+    "word": "Scala",
+    "clue": "Un lenguaje de programación funcional que se ejecuta en la Máquina Virtual de Java, combinando programación orientada a objetos y funcional."
+  },
+  "1352": {
+    "word": "MATLAB",
+    "clue": "Un lenguaje de programación de alto nivel y entorno utilizado principalmente para cálculos numéricos y visualización de datos."
+  },
+  "1353": {
+    "word": "Haskell",
+    "clue": "Un lenguaje de programación puramente funcional conocido por su tipado estático fuerte y evaluación perezosa."
+  },
+  "1354": {
+    "word": "Lua",
+    "clue": "Un lenguaje de script ligero usado comúnmente en desarrollo de videojuegos y sistemas embebidos por su simplicidad y flexibilidad."
+  },
+  "1355": {
+    "word": "Dart",
+    "clue": "Un lenguaje de programación desarrollado por Google, optimizado para crear aplicaciones móviles, de escritorio y web, a menudo usado con Flutter."
+  },
+  "1356": {
+    "word": "Elixir",
+    "clue": "Un lenguaje de programación funcional y dinámico diseñado para construir aplicaciones escalables y mantenibles, basado en la máquina virtual de Erlang."
+  },
+  "1357": {
+    "word": "F#",
+    "clue": "Un lenguaje de programación funcional que se ejecuta en la plataforma .NET, conocido por su inferencia de tipos e inmutabilidad."
+  },
+  "1358": {
+    "word": "Rust",
+    "clue": "Un lenguaje de programación de sistemas enfocado en la seguridad y el rendimiento, conocido por sus características de seguridad de memoria y concurrencia."
+  },
+  "1359": {
+    "word": "Objective-C",
+    "clue": "Un lenguaje de programación usado principalmente para el desarrollo en macOS y iOS, conocido por sus capacidades orientadas a objetos y sintaxis de mensajería."
+  },
+  "1360": {
+    "word": "VB .NET",
+    "clue": "Un lenguaje de programación multiparadigma desarrollado por Microsoft, conocido por su facilidad de uso e integración con el marco .NET."
+  },
+  "1361": {
+    "word": "Ada",
+    "clue": "Un lenguaje de programación de alto nivel utilizado en sistemas críticos, conocido por su tipado fuerte y soporte para aplicaciones en tiempo real."
+  },
+  "1362": {
+    "word": "Scheme",
+    "clue": "Un dialecto minimalista de Lisp conocido por su simplicidad y potentes características, utilizado frecuentemente en enseñanza e investigación."
+  },
+  "1363": {
+    "word": "Prolog",
+    "clue": "Un lenguaje de programación lógica asociado con la inteligencia artificial y la lingüística computacional, enfocado en la lógica formal."
+  },
+  "1364": {
+    "word": "Clojure",
+    "clue": "Un lenguaje de programación funcional moderno que se ejecuta en la Máquina Virtual de Java, conocido por su énfasis en la inmutabilidad y concurrencia."
+  },
+  "1365": {
+    "word": "Action Script",
+    "clue": "Un lenguaje de programación utilizado para desarrollar contenido y aplicaciones web interactivas, principalmente para Adobe Flash."
+  },
+  "1366": {
+    "word": "Groovy",
+    "clue": "Un lenguaje de programación dinámico que se integra fácilmente con Java, conocido por su sintaxis concisa y potentes características."
+  },
+  "1367": {
+    "word": "Julia",
+    "clue": "Un lenguaje de programación de alto nivel diseñado para cálculos numéricos y científicos, conocido por su velocidad y facilidad de uso."
+  },
+  "1368": {
+    "word": "Verilog",
+    "clue": "Un lenguaje de descripción de hardware utilizado para modelar sistemas electrónicos, particularmente en el diseño y verificación de circuitos digitales."
+  },
+  "1369": {
+    "word": "Racket",
+    "clue": "Un descendiente de Scheme diseñado para la creación de lenguajes de programación y programación funcional, utilizado frecuentemente en educación."
+  },
+  "1370": {
+    "word": "Crystal",
+    "clue": "Un lenguaje de programación que combina la sintaxis de Ruby con el rendimiento de C, conocido por su velocidad y seguridad de tipos."
+  },
+  "1371": {
+    "word": "Erlang",
+    "clue": "Un lenguaje de programación funcional diseñado para sistemas concurrentes y distribuidos, conocido por su tolerancia a fallos y fiabilidad."
+  },
+  "1372": {
+    "word": "D",
+    "clue": "Un lenguaje de programación multiparadigma que busca combinar el rendimiento de C con la productividad de lenguajes modernos."
+  },
+  "1373": {
+    "word": "OCaml",
+    "clue": "Un lenguaje de programación funcional conocido por su poderoso sistema de tipos y soporte para programación imperativa y orientada a objetos."
+  },
+  "1374": {
+    "word": "Haxe",
+    "clue": "Un lenguaje de programación de alto nivel que puede compilarse en múltiples lenguajes destino, usado frecuentemente en desarrollo de videojuegos y aplicaciones web."
+  },
+  "1375": {
+    "word": "Framework",
+    "clue": "Una estructura fundamental que proporciona soporte para construir aplicaciones de software, a menudo con componentes y herramientas predefinidos."
+  },
+  "1376": {
+    "word": "Componente",
+    "clue": "Una unidad autónoma dentro de un framework que encapsula funcionalidad y puede reutilizarse en diferentes partes de una aplicación."
+  },
+  "1377": {
+    "word": "Módulo",
+    "clue": "Una parte distintiva de un sistema de software que puede desarrollarse y probarse de forma independiente, mejorando la organización y el mantenimiento."
+  },
+  "1378": {
+    "word": "Arquitectura",
+    "clue": "El diseño y la estructura de alto nivel de un sistema de software, que describe cómo interactúan y se organizan los componentes."
+  },
+  "1379": {
+    "word": "Escalabilidad",
+    "clue": "La capacidad de un sistema para manejar mayores cargas sin comprometer el rendimiento, permitiendo el crecimiento en las demandas de los usuarios."
+  },
+  "1380": {
+    "word": "Dependencia",
+    "clue": "Una relación en la que un componente o módulo depende de otro para funcionar correctamente, afectando su interacción."
+  },
+  "1381": {
+    "word": "Middleware",
+    "clue": "Software que actúa como un puente entre diferentes aplicaciones o servicios, facilitando la comunicación y la gestión de datos."
+  },
+  "1382": {
+    "word": "API",
+    "clue": "Un conjunto de reglas y protocolos que permite que diferentes programas de software se comuniquen entre sí, integrando funcionalidades."
+  },
+  "1383": {
+    "word": "Vinculación",
+    "clue": "El proceso de enlazar componentes o fuentes de datos, permitiendo que interactúen y compartan información."
+  },
+  "1384": {
+    "word": "Inyección",
+    "clue": "Un patrón de diseño donde un componente o servicio externo se proporciona a una clase, promoviendo flexibilidad y capacidad de prueba."
+  },
+  "1385": {
+    "word": "Estado",
+    "clue": "La condición o el estado actual de una aplicación o componente en un momento dado, que puede cambiar según las interacciones del usuario o los datos."
+  },
+  "1386": {
+    "word": "Eventos",
+    "clue": "Acciones u ocurrencias que el sistema detecta, lo que puede desencadenar respuestas o actualizaciones en la aplicación."
+  },
+  "1387": {
+    "word": "MVC",
+    "clue": "Un patrón de diseño que separa una aplicación en tres componentes interconectados: Modelo, Vista y Controlador, mejorando la organización y escalabilidad."
+  },
+  "1388": {
+    "word": "Singleton",
+    "clue": "Un patrón de diseño que restringe una clase a una única instancia, asegurando un punto de acceso controlado a los recursos compartidos."
+  },
+  "1389": {
+    "word": "Fábrica",
+    "clue": "Un patrón de diseño creacional que proporciona una interfaz para crear objetos en una clase base, pero permite que las subclases alteren los tipos de objetos creados."
+  },
+  "1390": {
+    "word": "Observador",
+    "clue": "Un patrón de comportamiento donde un objeto mantiene una lista de dependientes y los notifica sobre cambios de estado, promoviendo un acoplamiento débil."
+  },
+  "1391": {
+    "word": "Estrategia",
+    "clue": "Un patrón de diseño que permite seleccionar el comportamiento de un algoritmo en tiempo de ejecución, proporcionando flexibilidad y funcionalidad variada."
+  },
+  "1392": {
+    "word": "Decorador",
+    "clue": "Un patrón estructural que permite agregar comportamientos a objetos individuales de forma dinámica, sin afectar a otros objetos de la misma clase."
+  },
+  "1393": {
+    "word": "Caché",
+    "clue": "El proceso de almacenar datos accedidos con frecuencia en un área de almacenamiento temporal para acelerar solicitudes futuras."
+  },
+  "1394": {
+    "word": "Carga Perezosa",
+    "clue": "Un patrón de diseño que retrasa la inicialización de un objeto hasta el momento en que se necesita, mejorando el rendimiento y la gestión de recursos."
+  },
+  "1395": {
+    "word": "División de Código",
+    "clue": "La práctica de dividir el código en paquetes más pequeños que se pueden cargar según sea necesario, reduciendo los tiempos de carga inicial."
+  },
+  "1396": {
+    "word": "Minificación",
+    "clue": "El proceso de eliminar caracteres innecesarios del código sin cambiar su funcionalidad, reduciendo el tamaño del archivo y mejorando los tiempos de carga."
+  },
+  "1397": {
+    "word": "Tree Shaking",
+    "clue": "Una técnica utilizada para eliminar el código inactivo de un paquete final, asegurando que solo se incluyan las partes necesarias."
+  },
+  "1398": {
+    "word": "Compresión",
+    "clue": "El proceso de reducir el tamaño de archivos o datos, haciéndolos más rápidos de transmitir y consumiendo menos espacio de almacenamiento."
+  },
+  "1399": {
+    "word": "Autenticación",
+    "clue": "El proceso de verificar la identidad de un usuario o sistema, asegurando que sean quienes dicen ser."
+  },
+  "1400": {
+    "word": "Autorización",
+    "clue": "El proceso de determinar si un usuario o sistema tiene derechos para acceder a recursos específicos o realizar ciertas acciones."
+  },
+  "1401": {
+    "word": "Encriptación",
+    "clue": "Un método para proteger datos convirtiéndolos en un formato codificado, haciéndolos ilegibles sin la clave o método adecuado para decodificarlos."
+  },
+  "1402": {
+    "word": "Tokenización",
+    "clue": "El proceso de sustituir datos sensibles con símbolos de identificación únicos (tokens) que retienen información esencial sin comprometer la seguridad."
+  },
+  "1403": {
+    "word": "XSS",
+    "clue": "(Cross-Site Scripting) Una vulnerabilidad que permite a los atacantes inyectar scripts maliciosos en páginas web vistas por los usuarios, comprometiendo la seguridad."
+  },
+  "1404": {
+    "word": "CSRF",
+    "clue": "(Cross-Site Request Forgery) Un ataque que engaña a un usuario para que realice acciones en una aplicación web donde está autenticado, sin su consentimiento."
+  },
+  "1405": {
+    "word": "Pruebas Unitarias",
+    "clue": "Pruebas que verifican la funcionalidad de una sección específica de código, generalmente a nivel de función, para asegurar que se comporte como se espera."
+  },
+  "1406": {
+    "word": "Pruebas de Integración",
+    "clue": "Pruebas que verifican cómo las diferentes partes de la aplicación funcionan juntas, asegurando que los componentes integrados operen correctamente."
+  },
+  "1407": {
+    "word": "Simulación",
+    "clue": "Una técnica en pruebas donde se crean objetos o funciones simulados para imitar el comportamiento de componentes reales, permitiendo pruebas aisladas."
+  },
+  "1408": {
+    "word": "E2E",
+    "clue": "(End-to-End) Pruebas que validan el flujo completo de la aplicación de principio a fin, asegurando que todos los componentes integrados funcionen como se espera."
+  },
+  "1409": {
+    "word": "Cobertura de Pruebas",
+    "clue": "Una medida de cuánto del código es probado mediante pruebas automatizadas, indicando el grado en que se valida la aplicación."
+  },
+  "1410": {
+    "word": "Pruebas de Regresión",
+    "clue": "Pruebas que aseguran que los cambios en el código no afecten negativamente la funcionalidad existente de la aplicación."
+  },
+  "1411": {
+    "word": "Base de Datos",
+    "clue": "Un conjunto estructurado de datos almacenado en un ordenador, especialmente uno accesible de diversas maneras."
+  },
+  "1412": {
+    "word": "Tabla",
+    "clue": "Un conjunto de datos organizados en filas y columnas dentro de una base de datos."
+  },
+  "1413": {
+    "word": "Fila",
+    "clue": "Un único registro en una tabla, que representa una instancia única de datos."
+  },
+  "1414": {
+    "word": "Columna",
+    "clue": "Un conjunto vertical de datos en una tabla, que representa un atributo específico de los datos."
+  },
+  "1415": {
+    "word": "Esquema",
+    "clue": "La organización o estructura de una base de datos, incluyendo tablas y relaciones."
+  },
+  "1416": {
+    "word": "Consulta",
+    "clue": "Una solicitud de datos o información de una base de datos, generalmente escrita en SQL."
+  },
+  "1417": {
+    "word": "Relacional",
+    "clue": "Un tipo de base de datos que almacena datos en tablas y permite relaciones entre ellas."
+  },
+  "1418": {
+    "word": "NoSQL",
+    "clue": "Una categoría de sistemas de gestión de bases de datos que no utilizan modelos relacionales tradicionales."
+  },
+  "1419": {
+    "word": "Clave-Valor",
+    "clue": "Un modelo de almacenamiento de datos simple que usa una clave para acceder a su valor correspondiente."
+  },
+  "1420": {
+    "word": "Documento",
+    "clue": "Un tipo de base de datos NoSQL que almacena datos en formatos de documentos, a menudo utilizando JSON."
+  },
+  "1421": {
+    "word": "Gráfico",
+    "clue": "Un tipo de base de datos que utiliza estructuras de gráficos para consultas semánticas con nodos y aristas."
+  },
+  "1422": {
+    "word": "Columnar",
+    "clue": "Un tipo de base de datos que almacena datos en columnas en lugar de filas, optimizando el acceso a lectura."
+  },
+  "1423": {
+    "word": "SELECT",
+    "clue": "Un comando utilizado para recuperar datos de una base de datos."
+  },
+  "1424": {
+    "word": "INSERT",
+    "clue": "Un comando utilizado para añadir nuevos registros a una tabla de base de datos."
+  },
+  "1425": {
+    "word": "UPDATE",
+    "clue": "Un comando utilizado para modificar registros existentes en una tabla de base de datos."
+  },
+  "1426": {
+    "word": "DELETE",
+    "clue": "Un comando utilizado para eliminar registros de una tabla de base de datos."
+  },
+  "1427": {
+    "word": "JOIN",
+    "clue": "Un comando utilizado para combinar filas de dos o más tablas basándose en una columna relacionada."
+  },
+  "1428": {
+    "word": "WHERE",
+    "clue": "Una cláusula utilizada para especificar condiciones al seleccionar registros en una consulta."
+  },
+  "1429": {
+    "word": "CREATE",
+    "clue": "Un comando utilizado para crear nuevos objetos en la base de datos, como tablas o índices."
+  },
+  "1430": {
+    "word": "ALTER",
+    "clue": "Un comando utilizado para modificar objetos existentes en una base de datos."
+  },
+  "1431": {
+    "word": "DROP",
+    "clue": "Un comando utilizado para eliminar objetos de una base de datos, como tablas o vistas."
+  },
+  "1432": {
+    "word": "TRUNCATE",
+    "clue": "Un comando utilizado para eliminar todos los registros de una tabla sin registrar eliminaciones individuales de filas."
+  },
+  "1433": {
+    "word": "RENAME",
+    "clue": "Un comando utilizado para cambiar el nombre de un objeto en la base de datos."
+  },
+  "1434": {
+    "word": "CONSTRAINT",
+    "clue": "Una regla aplicada a una columna en una tabla para garantizar la integridad de los datos."
+  },
+  "1435": {
+    "word": "Transacción",
+    "clue": "Una secuencia de operaciones ejecutadas como una sola unidad lógica de trabajo."
+  },
+  "1436": {
+    "word": "Atomicidad",
+    "clue": "La propiedad que garantiza que las transacciones se completen por completo o no se realicen en absoluto."
+  },
+  "1437": {
+    "word": "Consistencia",
+    "clue": "La propiedad que garantiza que una transacción lleva la base de datos de un estado válido a otro."
+  },
+  "1438": {
+    "word": "Aislamiento",
+    "clue": "La propiedad que asegura que las transacciones no interfieran entre sí."
+  },
+  "1439": {
+    "word": "Durabilidad",
+    "clue": "La propiedad que garantiza que, una vez confirmada una transacción, permanecerá así."
+  },
+  "1440": {
+    "word": "Reversión",
+    "clue": "La operación que devuelve una base de datos a un estado anterior en caso de error."
+  },
+  "1441": {
+    "word": "Índice",
+    "clue": "Una estructura de datos que mejora la velocidad de las operaciones de recuperación de datos en una tabla de base de datos."
+  },
+  "1442": {
+    "word": "Particionamiento",
+    "clue": "El proceso de dividir una base de datos en partes más pequeñas y manejables."
+  },
+  "1443": {
+    "word": "Sharding",
+    "clue": "Un método para distribuir datos en múltiples bases de datos para mejorar el rendimiento y la escalabilidad."
+  },
+  "1444": {
+    "word": "Cacheo",
+    "clue": "Almacenamiento de datos a los que se accede frecuentemente en memoria para acelerar solicitudes futuras."
+  },
+  "1445": {
+    "word": "Normalización",
+    "clue": "El proceso de organizar una base de datos para reducir la redundancia y mejorar la integridad."
+  },
+  "1446": {
+    "word": "Desnormalización",
+    "clue": "El proceso de combinar tablas para reducir la complejidad de las consultas, a menudo a costa de la redundancia de datos."
+  },
+  "1447": {
+    "word": "Encriptación",
+    "clue": "El proceso de convertir datos en un formato codificado para evitar accesos no autorizados."
+  },
+  "1448": {
+    "word": "Control de Acceso",
+    "clue": "La práctica de limitar el acceso a datos o recursos solo a usuarios autorizados."
+  },
+  "1449": {
+    "word": "Copia de Seguridad",
+    "clue": "El proceso de crear copias de datos para prevenir pérdidas en caso de fallos."
+  },
+  "1450": {
+    "word": "Replicación",
+    "clue": "El proceso de copiar datos de una base de datos a otra para garantizar la consistencia y disponibilidad."
+  },
+  "1451": {
+    "word": "Inyección SQL",
+    "clue": "Un tipo de ataque que permite a un atacante ejecutar declaraciones SQL maliciosas."
+  },
+  "1452": {
+    "word": "Roles de Usuario",
+    "clue": "Permisos definidos que determinan qué acciones puede realizar un usuario en una base de datos."
+  },
+  "1453": {
+    "word": "Servidor",
+    "clue": "Un equipo o sistema que proporciona recursos, datos, servicios o programas a otros equipos, llamados clientes."
+  },
+  "1454": {
+    "word": "Cliente",
+    "clue": "Un dispositivo o programa que accede a un servicio proporcionado por un servidor, a menudo a través de una red."
+  },
+  "1455": {
+    "word": "API",
+    "clue": "Un conjunto de reglas y protocolos para construir e interactuar con aplicaciones de software."
+  },
+  "1456": {
+    "word": "Solicitud",
+    "clue": "Un mensaje enviado desde un cliente a un servidor para solicitar datos o acciones."
+  },
+  "1457": {
+    "word": "Respuesta",
+    "clue": "Los datos o confirmación enviados de vuelta desde un servidor a un cliente tras procesar una solicitud."
+  },
+  "1458": {
+    "word": "HTTP",
+    "clue": "Protocolo de transferencia de hipertexto, la base de la comunicación de datos en la web."
+  },
+  "1459": {
+    "word": "Monolito",
+    "clue": "Un sistema único e integrado donde todos los componentes están interconectados y son interdependientes."
+  },
+  "1460": {
+    "word": "Microservicios",
+    "clue": "Un estilo arquitectónico que estructura una aplicación como una colección de pequeños servicios independientes."
+  },
+  "1461": {
+    "word": "Serverless",
+    "clue": "Un modelo de computación en la nube donde el proveedor gestiona el servidor, permitiendo a los desarrolladores enfocarse en el código."
+  },
+  "1462": {
+    "word": "REST",
+    "clue": "Transferencia de Estado Representacional, un estilo arquitectónico para diseñar aplicaciones en red."
+  },
+  "1463": {
+    "word": "GraphQL",
+    "clue": "Un lenguaje de consulta para APIs que permite a los clientes solicitar solo los datos que necesitan."
+  },
+  "1464": {
+    "word": "Eventos",
+    "clue": "Acciones o sucesos que pueden desencadenar procesos en un sistema o aplicación."
+  },
+  "1465": {
+    "word": "Node.js",
+    "clue": "Entorno de ejecución de JavaScript construido sobre el motor V8 de Chrome, usado para crear aplicaciones de red escalables."
+  },
+  "1466": {
+    "word": "Python",
+    "clue": "Lenguaje de programación de alto nivel conocido por su legibilidad y versatilidad en el desarrollo web."
+  },
+  "1467": {
+    "word": "Java",
+    "clue": "Lenguaje de programación ampliamente usado, conocido por su portabilidad entre plataformas y buen rendimiento."
+  },
+  "1468": {
+    "word": "Ruby",
+    "clue": "Lenguaje de programación dinámico y de código abierto, conocido por su simplicidad y productividad, usado frecuentemente en desarrollo web."
+  },
+  "1469": {
+    "word": "PHP",
+    "clue": "Lenguaje de secuencias de comandos del lado del servidor diseñado para el desarrollo web, también utilizado como lenguaje de propósito general."
+  },
+  "1470": {
+    "word": "Go",
+    "clue": "Lenguaje de programación compilado y de tipado estático, diseñado para simplicidad y eficiencia, usado comúnmente en servicios backend."
+  },
+  "1471": {
+    "word": "Express",
+    "clue": "Un marco de aplicaciones web minimalista y flexible para Node.js, utilizado para construir APIs."
+  },
+  "1472": {
+    "word": "Django",
+    "clue": "Marco web de Python de alto nivel que fomenta el desarrollo rápido y un diseño limpio y pragmático."
+  },
+  "1473": {
+    "word": "Flask",
+    "clue": "Un marco de aplicaciones web ligero WSGI en Python, diseñado para simplicidad y flexibilidad."
+  },
+  "1474": {
+    "word": "Spring",
+    "clue": "Un marco integral para el desarrollo empresarial en Java, que proporciona una amplia gama de capacidades."
+  },
+  "1475": {
+    "word": "Laravel",
+    "clue": "Un marco de aplicaciones web PHP con una sintaxis expresiva y herramientas integradas para desarrollo."
+  },
+  "1476": {
+    "word": "FastAPI",
+    "clue": "Marco web moderno y rápido para construir APIs con Python 3.6+ basado en las anotaciones de tipo estándar de Python."
+  },
+  "1477": {
+    "word": "SQL",
+    "clue": "Lenguaje de consulta estructurada, usado para gestionar y manipular bases de datos relacionales."
+  },
+  "1478": {
+    "word": "NoSQL",
+    "clue": "Categoría de sistemas de bases de datos que no utilizan SQL como interfaz principal, usados frecuentemente para datos no estructurados."
+  },
+  "1479": {
+    "word": "ORM",
+    "clue": "Mapeo Objeto-Relacional, una técnica de programación para convertir datos entre sistemas de tipos incompatibles."
+  },
+  "1480": {
+    "word": "Pooling",
+    "clue": "Práctica de mantener un grupo de conexiones a bases de datos que pueden reutilizarse, mejorando el rendimiento."
+  },
+  "1481": {
+    "word": "Transacciones",
+    "clue": "Secuencia de operaciones realizadas como una sola unidad lógica de trabajo que puede confirmarse o deshacerse."
+  },
+  "1482": {
+    "word": "Índices",
+    "clue": "Estructuras de datos que mejoran la velocidad de las operaciones de recuperación de datos en una tabla de base de datos."
+  },
+  "1483": {
+    "word": "Auth",
+    "clue": "Abreviatura de autenticación, el proceso de verificar la identidad de un usuario o sistema."
+  },
+  "1484": {
+    "word": "Roles",
+    "clue": "Permisos definidos que determinan qué acciones puede realizar un usuario dentro de una aplicación."
+  },
+  "1485": {
+    "word": "SSL",
+    "clue": "Capa de sockets seguros, tecnología estándar de seguridad para establecer un enlace cifrado entre un servidor y un cliente."
+  },
+  "1486": {
+    "word": "Tokens",
+    "clue": "Cadenas de datos que representan la autorización de un usuario para acceder a recursos, usados comúnmente en autenticación."
+  },
+  "1487": {
+    "word": "OAuth",
+    "clue": "Estándar abierto para la delegación de acceso, usado comúnmente para autenticación basada en tokens."
+  },
+  "1488": {
+    "word": "CORS",
+    "clue": "Intercambio de recursos de origen cruzado, un mecanismo que permite solicitar recursos restringidos de un dominio diferente."
+  },
+  "1489": {
+    "word": "Equilibrio de Carga",
+    "clue": "Distribución del tráfico de red entre múltiples servidores para evitar que un solo servidor se sobrecargue."
+  },
+  "1490": {
+    "word": "Cache",
+    "clue": "Mecanismo para almacenar temporalmente datos y reducir el tiempo de acceso, mejorando el rendimiento."
+  },
+  "1491": {
+    "word": "Async",
+    "clue": "Abreviatura de asincrónico, técnica de programación que permite que múltiples tareas se ejecuten concurrentemente sin bloqueo."
+  },
+  "1492": {
+    "word": "Queues",
+    "clue": "Estructuras de datos que almacenan y gestionan datos en un orden de primero en entrar, primero en salir (FIFO), usados frecuentemente para la planificación de tareas."
+  },
+  "1493": {
+    "word": "Escalabilidad",
+    "clue": "Proceso de ajustar recursos para manejar cargas aumentadas, ya sea de manera vertical u horizontal."
+  },
+  "1494": {
+    "word": "Zip",
+    "clue": "Proceso de reducir el tamaño de archivos o datos para mejorar la eficiencia de almacenamiento o transmisión."
+  },
+  "1495": {
+    "word": "HTML",
+    "clue": "Lenguaje de marcado estándar utilizado para crear páginas web."
+  },
+  "1496": {
+    "word": "CSS",
+    "clue": "Lenguaje de hojas de estilo utilizado para describir la presentación de un documento escrito en HTML o XML."
+  },
+  "1497": {
+    "word": "JavaScript",
+    "clue": "Lenguaje de programación de alto nivel utilizado para crear efectos interactivos en los navegadores web."
+  },
+  "1498": {
+    "word": "DOM",
+    "clue": "Modelo de objetos del documento, interfaz de programación para documentos web que representa la estructura del documento como un árbol de objetos."
+  },
+  "1499": {
+    "word": "Navegador",
+    "clue": "Aplicación de software utilizada para acceder y visualizar sitios web."
+  },
+  "1500": {
+    "word": "Rendering",
+    "clue": "Proceso de generar una imagen a partir de un modelo mediante programas informáticos."
+  },
+  "1501": {
+    "word": "Flexbox",
+    "clue": "Un modelo de diseño CSS que proporciona una manera eficiente de organizar, alinear y distribuir el espacio entre los elementos en un contenedor."
+  },
+  "1502": {
+    "word": "Grid",
+    "clue": "Un sistema de diseño CSS que permite la creación de diseños web complejos utilizando una estructura de cuadrícula."
+  },
+  "1503": {
+    "word": "Box",
+    "clue": "El área rectangular que ocupa un elemento HTML, definida por su contenido, relleno, borde y margen."
+  },
+  "1504": {
+    "word": "Margin",
+    "clue": "El espacio fuera del borde de un elemento, creando distancia entre los elementos."
+  },
+  "1505": {
+    "word": "Padding",
+    "clue": "El espacio entre el contenido de un elemento y su borde."
+  },
+  "1506": {
+    "word": "Alignment",
+    "clue": "La colocación de los elementos en relación entre sí y con el diseño de la página."
+  },
+  "1507": {
+    "word": "React",
+    "clue": "Una biblioteca de JavaScript para construir interfaces de usuario, particularmente para aplicaciones de una sola página."
+  },
+  "1508": {
+    "word": "Angular",
+    "clue": "Una plataforma y marco de trabajo para construir aplicaciones del lado del cliente utilizando HTML y TypeScript."
+  },
+  "1509": {
+    "word": "Vue",
+    "clue": "Un marco de trabajo progresivo de JavaScript para construir interfaces de usuario y aplicaciones de una sola página."
+  },
+  "1510": {
+    "word": "Svelte",
+    "clue": "Un marco moderno de JavaScript que compila componentes en JavaScript optimizado estándar en el momento de la construcción."
+  },
+  "1511": {
+    "word": "jQuery",
+    "clue": "Una biblioteca de JavaScript rápida, pequeña y rica en características que simplifica tareas como la navegación y manipulación de documentos HTML."
+  },
+  "1512": {
+    "word": "Lit",
+    "clue": "Una biblioteca simple para construir componentes web rápidos y livianos usando JavaScript estándar."
+  },
+  "1513": {
+    "word": "Redux",
+    "clue": "Un contenedor de estado predecible para aplicaciones JavaScript, comúnmente utilizado con React."
+  },
+  "1514": {
+    "word": "Context",
+    "clue": "Una característica de React que permite a los componentes compartir valores sin tener que pasar explícitamente las propiedades a través de cada nivel."
+  },
+  "1515": {
+    "word": "Vuex",
+    "clue": "Un patrón de gestión de estado + biblioteca para aplicaciones Vue.js."
+  },
+  "1516": {
+    "word": "Hooks",
+    "clue": "Funciones que permiten usar estado y otras características de React sin escribir una clase."
+  },
+  "1517": {
+    "word": "MobX",
+    "clue": "Una biblioteca de gestión de estado que hace la gestión de estado simple y escalable aplicando de manera transparente la programación reactiva funcional."
+  },
+  "1518": {
+    "word": "Zustand",
+    "clue": "Una solución pequeña, rápida y escalable para la gestión de estado en React."
+  },
+  "1519": {
+    "word": "Media",
+    "clue": "Las consultas de medios CSS se usan para aplicar estilos basados en las características del dispositivo, como el ancho o la altura."
+  },
+  "1520": {
+    "word": "Breakpoints",
+    "clue": "Puntos definidos en CSS donde el diseño cambia según el tamaño de la ventana de visualización."
+  },
+  "1521": {
+    "word": "Fluid",
+    "clue": "Un enfoque de diseño adaptable donde los elementos ajustan su tamaño en relación con su contenedor."
+  },
+  "1522": {
+    "word": "Adaptive",
+    "clue": "Un enfoque de diseño donde se sirven diferentes diseños a diferentes dispositivos o tamaños de pantalla."
+  },
+  "1523": {
+    "word": "Mobile-first",
+    "clue": "Una estrategia de diseño que prioriza la experiencia del usuario móvil antes de escalar a pantallas más grandes."
+  },
+  "1524": {
+    "word": "Viewport",
+    "clue": "El área visible de una página web en la pantalla de un dispositivo, a menudo referenciada en diseño responsive."
+  },
+  "1525": {
+    "word": "Lazyload",
+    "clue": "Un patrón de diseño que retrasa la carga de imágenes u otros recursos hasta que son necesarios."
+  },
+  "1526": {
+    "word": "Minify",
+    "clue": "El proceso de eliminar caracteres innecesarios del código (como espacios en blanco) para reducir su tamaño."
+  },
+  "1527": {
+    "word": "CDN",
+    "clue": "Red de Distribución de Contenido, un sistema de servidores distribuidos que entregan contenido web a los usuarios según su ubicación geográfica."
+  },
+  "1528": {
+    "word": "Bundle",
+    "clue": "El proceso de combinar múltiples archivos en un solo archivo para reducir la cantidad de solicitudes realizadas por una aplicación web."
+  },
+  "1529": {
+    "word": "Cache",
+    "clue": "Un mecanismo para almacenar temporalmente datos de acceso frecuente para acelerar las solicitudes posteriores."
+  },
+  "1530": {
+    "word": "Optimize",
+    "clue": "El proceso de hacer algo tan efectivo o funcional como sea posible, a menudo en el contexto del rendimiento del código."
+  },
+  "1531": {
+    "word": "Jest",
+    "clue": "Un marco de pruebas de JavaScript encantador con un enfoque en la simplicidad y soporte para grandes aplicaciones web."
+  },
+  "1532": {
+    "word": "Cypress",
+    "clue": "Un marco de pruebas de JavaScript de extremo a extremo para aplicaciones web, centrado en hacer las pruebas fáciles y confiables."
+  },
+  "1533": {
+    "word": "Mocha",
+    "clue": "Un marco de pruebas de JavaScript rico en características que funciona en Node.js y en el navegador, haciendo que las pruebas asincrónicas sean simples."
+  },
+  "1534": {
+    "word": "Enzyme",
+    "clue": "Una utilidad de pruebas de JavaScript para React que facilita la prueba de tus componentes React."
+  },
+  "1535": {
+    "word": "Playwright",
+    "clue": "Un marco para probar aplicaciones web en diferentes navegadores con una sola API."
+  },
+  "1536": {
+    "word": "Puppeteer",
+    "clue": "Una biblioteca de Node que proporciona una API de alto nivel para controlar Chrome o Chromium a través del Protocolo DevTools."
+  },
+  "1537": {
+    "word": "Materia",
+    "clue": "Sustancia que tiene masa y ocupa espacio."
+  },
+  "1538": {
+    "word": "Espacio",
+    "clue": "La extensión tridimensional ilimitada en la que ocurren los objetos y eventos."
+  },
+  "1539": {
+    "word": "Tiempo",
+    "clue": "Período medido durante el cual ocurre un evento."
+  },
+  "1540": {
+    "word": "Longitud",
+    "clue": "La medida de algo de un extremo a otro."
+  },
+  "1541": {
+    "word": "Volumen",
+    "clue": "La cantidad de espacio que ocupa un objeto."
+  },
+  "1542": {
+    "word": "Densidad",
+    "clue": "Masa por unidad de volumen de una sustancia."
+  },
+  "1543": {
+    "word": "Unidades SI",
+    "clue": "Sistema internacionalmente aceptado de unidades de medida."
+  },
+  "1544": {
+    "word": "Cantidad escalar",
+    "clue": "Una cantidad que solo tiene magnitud."
+  },
+  "1545": {
+    "word": "Cantidad vectorial",
+    "clue": "Una cantidad que tiene tanto magnitud como dirección."
+  },
+  "1546": {
+    "word": "Distancia",
+    "clue": "La longitud total del camino recorrido por un objeto."
+  },
+  "1547": {
+    "word": "Desplazamiento",
+    "clue": "La distancia más corta desde la posición inicial a la final."
+  },
+  "1548": {
+    "word": "Precisión",
+    "clue": "Qué tan cerca está un valor medido del valor real."
+  },
+  "1549": {
+    "word": "Gravitacional",
+    "clue": "Fuerza que atrae dos cuerpos entre sí."
+  },
+  "1550": {
+    "word": "Electromagnética",
+    "clue": "Fuerza asociada con campos eléctricos y magnéticos."
+  },
+  "1551": {
+    "word": "Nuclear",
+    "clue": "Fuerza que mantiene unido el núcleo de un átomo."
+  },
+  "1552": {
+    "word": "Tensión",
+    "clue": "Fuerza transmitida a través de una cuerda o cuerda."
+  },
+  "1553": {
+    "word": "Compresión",
+    "clue": "Fuerza que acorta o aprieta un objeto."
+  },
+  "1554": {
+    "word": "Fricción",
+    "clue": "Resistencia al movimiento cuando dos superficies están en contacto."
+  },
+  "1555": {
+    "word": "Química",
+    "clue": "Energía almacenada en los enlaces de los compuestos químicos."
+  },
+  "1556": {
+    "word": "Nuclear",
+    "clue": "Energía almacenada en el núcleo de un átomo."
+  },
+  "1557": {
+    "word": "Elástica",
+    "clue": "Energía potencial almacenada en un objeto cuando está deformado."
+  },
+  "1558": {
+    "word": "Luz",
+    "clue": "Energía visible para el ojo humano."
+  },
+  "1559": {
+    "word": "Sonido",
+    "clue": "Energía producida por la vibración de las partículas de aire."
+  },
+  "1560": {
+    "word": "Potencial",
+    "clue": "Energía almacenada en un objeto debido a su posición."
+  },
+  "1561": {
+    "word": "Masa",
+    "clue": "La cantidad de materia en un objeto."
+  },
+  "1562": {
+    "word": "Carga",
+    "clue": "Una propiedad eléctrica de la materia que hace que experimente una fuerza en un campo electromagnético."
+  },
+  "1563": {
+    "word": "Momento",
+    "clue": "La cantidad de movimiento que tiene un objeto."
+  },
+  "1564": {
+    "word": "Energía",
+    "clue": "La capacidad de hacer trabajo o causar cambio."
+  },
+  "1565": {
+    "word": "Simetría",
+    "clue": "Un arreglo equilibrado de partes en lados opuestos de un eje central."
+  },
+  "1566": {
+    "word": "Balance",
+    "clue": "La condición en la que diferentes elementos son iguales o en las proporciones correctas."
+  },
+  "1567": {
+    "word": "Fuerza",
+    "clue": "Un empujón o tirón que actúa sobre un objeto."
+  },
+  "1568": {
+    "word": "Velocidad",
+    "clue": "La velocidad de un objeto en una dirección específica."
+  },
+  "1569": {
+    "word": "Aceleración",
+    "clue": "La tasa de cambio de la velocidad de un objeto."
+  },
+  "1570": {
+    "word": "Masa",
+    "clue": "La cantidad de materia en un objeto."
+  },
+  "1571": {
+    "word": "Inercia",
+    "clue": "La tendencia de un objeto a resistir los cambios en su estado de movimiento."
+  },
+  "1572": {
+    "word": "Momento",
+    "clue": "La cantidad de movimiento que tiene un objeto."
+  },
+  "1573": {
+    "word": "Primera Ley",
+    "clue": "Un objeto en reposo permanece en reposo, y un objeto en movimiento permanece en movimiento a menos que una fuerza neta actúe sobre él."
+  },
+  "1574": {
+    "word": "Segunda Ley",
+    "clue": "La aceleración de un objeto es directamente proporcional a la fuerza neta que actúa sobre él e inversamente proporcional a su masa."
+  },
+  "1575": {
+    "word": "Tercera Ley",
+    "clue": "Por cada acción, hay una reacción igual y opuesta."
+  },
+  "1576": {
+    "word": "Fricción",
+    "clue": "La fuerza que se opone al movimiento relativo de dos superficies en contacto."
+  },
+  "1577": {
+    "word": "Gravedad",
+    "clue": "Una fuerza que atrae dos cuerpos entre sí."
+  },
+  "1578": {
+    "word": "Reacción",
+    "clue": "La respuesta o contraacción a una acción o fuerza."
+  },
+  "1579": {
+    "word": "Trabajo",
+    "clue": "La energía transferida hacia o desde un objeto mediante la aplicación de una fuerza a lo largo de una distancia."
+  },
+  "1580": {
+    "word": "Potencia",
+    "clue": "La tasa a la que se realiza el trabajo o se transfiere energía."
+  },
+  "1581": {
+    "word": "Cinética",
+    "clue": "Energía poseída por un objeto debido a su movimiento."
+  },
+  "1582": {
+    "word": "Potencial",
+    "clue": "Energía almacenada en un objeto debido a su posición o estado."
+  },
+  "1583": {
+    "word": "Eficiencia",
+    "clue": "La relación entre el trabajo útil realizado y la energía total gastada."
+  },
+  "1584": {
+    "word": "Impulso",
+    "clue": "Cambio en el momento resultante de una fuerza aplicada durante un período de tiempo."
+  },
+  "1585": {
+    "word": "Calor",
+    "clue": "La transferencia de energía térmica de un objeto a otro."
+  },
+  "1586": {
+    "word": "Temperatura",
+    "clue": "Una medida de la energía cinética promedio de las partículas en una sustancia."
+  },
+  "1587": {
+    "word": "Térmico",
+    "clue": "Relacionado con el calor o la temperatura."
+  },
+  "1588": {
+    "word": "Energía",
+    "clue": "La capacidad de hacer trabajo o producir calor."
+  },
+  "1589": {
+    "word": "Sistema",
+    "clue": "Un conjunto de componentes interactuantes o interdependientes considerados para un propósito."
+  },
+  "1590": {
+    "word": "Equilibrio",
+    "clue": "Un estado en el que las fuerzas o influencias opuestas están equilibradas."
+  },
+  "1591": {
+    "word": "Primera Ley",
+    "clue": "La energía no se puede crear ni destruir, solo transformarse."
+  },
+  "1592": {
+    "word": "Segunda Ley",
+    "clue": "La entropía total de un sistema aislado nunca puede disminuir con el tiempo."
+  },
+  "1593": {
+    "word": "Entropía",
+    "clue": "Una medida del desorden o aleatoriedad en un sistema."
+  },
+  "1594": {
+    "word": "Flujo de Calor",
+    "clue": "La transferencia de energía térmica entre sistemas debido a una diferencia de temperatura."
+  },
+  "1595": {
+    "word": "Energía Interna",
+    "clue": "La energía total contenida dentro de un sistema."
+  },
+  "1596": {
+    "word": "Trabajo",
+    "clue": "Transferencia de energía que ocurre cuando un objeto es movido por una fuerza externa."
+  },
+  "1597": {
+    "word": "Conducción",
+    "clue": "La transferencia de calor a través del contacto directo de los materiales."
+  },
+  "1598": {
+    "word": "Convección",
+    "clue": "La transferencia de calor por el movimiento de fluidos."
+  },
+  "1599": {
+    "word": "Radiación",
+    "clue": "La transferencia de energía a través de ondas electromagnéticas."
+  },
+  "1600": {
+    "word": "Aislamiento",
+    "clue": "Material utilizado para reducir la transferencia de calor."
+  },
+  "1601": {
+    "word": "Calor Específico",
+    "clue": "La cantidad de calor requerida para elevar la temperatura de una unidad de masa en un grado Celsius."
+  },
+  "1602": {
+    "word": "Máquina Térmica",
+    "clue": "Un dispositivo que convierte la energía térmica en trabajo mecánico."
+  },
+  "1603": {
+    "word": "Carga",
+    "clue": "Una propiedad de la materia que hace que experimente una fuerza en un campo electromagnético."
+  },
+  "1604": {
+    "word": "Voltaje",
+    "clue": "La diferencia de potencial eléctrico entre dos puntos."
+  },
+  "1605": {
+    "word": "Corriente",
+    "clue": "El flujo de carga eléctrica en un circuito."
+  },
+  "1606": {
+    "word": "Resistencia",
+    "clue": "La oposición al flujo de corriente eléctrica."
+  },
+  "1607": {
+    "word": "Circuito",
+    "clue": "Un camino cerrado a través del cual fluye una corriente eléctrica."
+  },
+  "1608": {
+    "word": "Conductor",
+    "clue": "Un material que permite el flujo de corriente eléctrica."
+  },
+  "1609": {
+    "word": "Magnetismo",
+    "clue": "La fuerza ejercida por los imanes cuando se atraen o repelen entre sí."
+  },
+  "1610": {
+    "word": "Campo",
+    "clue": "Una región en la que una cantidad física particular tiene un valor."
+  },
+  "1611": {
+    "word": "Polos",
+    "clue": "Los dos extremos de un imán donde la fuerza magnética es más fuerte."
+  },
+  "1612": {
+    "word": "Fuerza Magnética",
+    "clue": "La atracción o repulsión entre objetos magnéticos."
+  },
+  "1613": {
+    "word": "Electroimán",
+    "clue": "Un imán creado por una corriente eléctrica."
+  },
+  "1614": {
+    "word": "Flujo",
+    "clue": "La tasa de flujo de una propiedad a través de una superficie."
+  },
+  "1615": {
+    "word": "Inducción",
+    "clue": "La producción de voltaje a través de un conductor cuando está expuesto a un campo magnético cambiante."
+  },
+  "1616": {
+    "word": "Ley de Faraday",
+    "clue": "El principio de que un campo magnético cambiante induce una fuerza electromotriz en un circuito."
+  },
+  "1617": {
+    "word": "Transformador",
+    "clue": "Un dispositivo que cambia el voltaje de la corriente alterna."
+  },
+  "1618": {
+    "word": "Generador",
+    "clue": "Una máquina que convierte la energía mecánica en energía eléctrica."
+  },
+  "1619": {
+    "word": "Inductor",
+    "clue": "Un componente eléctrico pasivo que almacena energía en un campo magnético."
+  },
+  "1620": {
+    "word": "Electromotriz",
+    "clue": "Relativo a la generación de corriente eléctrica por un campo magnético cambiante."
+  },
+  "1621": {
+    "word": "Onda",
+    "clue": "Una perturbación que viaja a través del espacio y la materia, transfiriendo energía."
+  },
+  "1622": {
+    "word": "Frecuencia",
+    "clue": "El número de ondas que pasan por un punto en un período de tiempo dado."
+  },
+  "1623": {
+    "word": "Longitud de Onda",
+    "clue": "La distancia entre crestas sucesivas de una onda."
+  },
+  "1624": {
+    "word": "Amplitud",
+    "clue": "El desplazamiento máximo de los puntos de una onda desde su posición de reposo."
+  },
+  "1625": {
+    "word": "Periodo",
+    "clue": "El tiempo que tarda un ciclo completo de una onda en pasar por un punto dado."
+  },
+  "1626": {
+    "word": "Velocidad",
+    "clue": "La velocidad a la que una onda viaja a través de un medio."
+  },
+  "1627": {
+    "word": "Transversal",
+    "clue": "Ondas en las que el movimiento de las partículas es perpendicular a la dirección de propagación de la onda."
+  },
+  "1628": {
+    "word": "Longitudinal",
+    "clue": "Ondas en las que el movimiento de las partículas es paralelo a la dirección de propagación de la onda."
+  },
+  "1629": {
+    "word": "Compresión",
+    "clue": "Una región en una onda longitudinal donde las partículas están más juntas."
+  },
+  "1630": {
+    "word": "Rarefacción",
+    "clue": "Una región en una onda longitudinal donde las partículas están más separadas."
+  },
+  "1631": {
+    "word": "Pulso",
+    "clue": "Una sola perturbación que viaja a través de un medio."
+  },
+  "1632": {
+    "word": "Onda Estacionaria",
+    "clue": "Una onda que permanece en una posición constante, formada por la interferencia de dos ondas que viajan en direcciones opuestas."
+  },
+  "1633": {
+    "word": "Reflexión",
+    "clue": "El rebote de una onda cuando golpea una superficie."
+  },
+  "1634": {
+    "word": "Refracción",
+    "clue": "La desviación de una onda al pasar de un medio a otro."
+  },
+  "1635": {
+    "word": "Lente",
+    "clue": "Un dispositivo óptico transparente que refracta la luz para converger o divergir haces."
+  },
+  "1636": {
+    "word": "Prisma",
+    "clue": "Un elemento óptico transparente que dispersa la luz en sus colores constituyentes."
+  },
+  "1637": {
+    "word": "Difracción",
+    "clue": "La desviación de las ondas alrededor de obstáculos y aberturas."
+  },
+  "1638": {
+    "word": "Interferencia",
+    "clue": "El fenómeno que ocurre cuando dos ondas se encuentran y se combinan."
   }
 }
