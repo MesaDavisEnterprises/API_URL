@@ -31,8 +31,8 @@
     "english": "Egg",
     "spanish": "Huevo",
     "description": "A protein-rich item from chickens, often eaten for breakfast.",
-    "imageUrl": "https://meatmart.lk/wp-content/uploads/2023/06/iouiok-700x700.webp.jpg",
-    "audioUrl": "https://example.com/sounds/egg.mp3"
+    "imageUrl": "egg",
+    "audioUrl": "egg"
   },
   "6": {
     "english": "Rice",
