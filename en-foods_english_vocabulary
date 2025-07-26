@@ -10,14 +10,14 @@
     "english": "Bread",
     "spanish": "Pan",
     "description": "It's a staple food made from flour and water.",
-    "imageUrl": "https://example.com/images/bread.png",
+    "imageUrl": "https://png.pngtree.com/png-clipart/20230428/original/pngtree-bread-square-food-png-image_9118270.png",
     "audioUrl": "https://example.com/sounds/bread.mp3"
   },
   "3": {
     "english": "Milk",
     "spanish": "Leche",
     "description": "A white liquid we get from cows.",
-    "imageUrl": "https://example.com/images/milk.png",
+    "imageUrl": "https://atlas-content-cdn.pixelsquid.com/stock-images/glass-of-milk-2J8GZn7-600.jpg",
     "audioUrl": "https://example.com/sounds/milk.mp3"
   },
   "4": {
