@@ -1,0 +1,142 @@
+{
+  "1": {
+    "english": "Apple",
+    "spanish": "Manzana",
+    "description": "This fruit often comes in red, green, or yellow.",
+    "imageUrl": "apple",
+    "audioUrl": "apple"
+  },
+  "2": {
+    "english": "Bread",
+    "spanish": "Pan",
+    "description": "It's a staple food made from flour and water.",
+    "imageUrl": "bread",
+    "audioUrl": "bread"
+  },
+  "3": {
+    "english": "Milk",
+    "spanish": "Leche",
+    "description": "A white liquid we get from cows.",
+    "imageUrl": "milk",
+    "audioUrl": "milk"
+  },
+  "4": {
+    "english": "Cheese",
+    "spanish": "Queso",
+    "description": "Often made from curdled milk, it can be solid or soft.",
+    "imageUrl": "cheese",
+    "audioUrl": "cheese"
+  },
+  "5": {
+    "english": "Egg",
+    "spanish": "Huevo",
+    "description": "A protein-rich item from chickens, often eaten for breakfast.",
+    "imageUrl": "egg",
+    "audioUrl": "egg"
+  },
+  "6": {
+    "english": "Rice",
+    "spanish": "Arroz",
+    "description": "Small grains, a main food in many Asian cuisines.",
+    "imageUrl": "rice",
+    "audioUrl": "rice"
+  },
+  "7": {
+    "english": "Chicken",
+    "spanish": "Pollo",
+    "description": "A common poultry meat, often roasted or fried.",
+    "imageUrl": "chicken",
+    "audioUrl": "chicken"
+  },
+  "8": {
+    "english": "Fish",
+    "spanish": "Pescado",
+    "description": "It swims in the water and is a good source of omega-3.",
+    "imageUrl": "fish",
+    "audioUrl": "fish"
+  },
+  "9": {
+    "english": "Potato",
+    "spanish": "Papa",
+    "description": "A starchy vegetable that grows underground, good for fries.",
+    "imageUrl": "potato",
+    "audioUrl": "potato"
+  },
+  "10": {
+    "english": "Carrot",
+    "spanish": "Zanahoria",
+    "description": "A long, orange root vegetable, good for eyesight.",
+    "imageUrl": "carrot",
+    "audioUrl": "carrot"
+  },
+  "11": {
+    "english": "Banana",
+    "spanish": "Plátano",
+    "description": "A yellow fruit, popular for smoothies and quick energy.",
+    "imageUrl": "banana",
+    "audioUrl": "banana"
+  },
+  "12": {
+    "english": "Orange",
+    "spanish": "Naranja",
+    "description": "A citrus fruit known for its color and vitamin C.",
+    "imageUrl": "orange",
+    "audioUrl": "orange"
+  },
+  "13": {
+    "english": "Coffee",
+    "spanish": "Café",
+    "description": "A popular brown beverage that gives you energy.",
+    "imageUrl": "coffee",
+    "audioUrl": "coffee"
+  },
+  "14": {
+    "english": "Water",
+    "spanish": "Agua",
+    "description": "Essential clear liquid for all life.",
+    "imageUrl": "water",
+    "audioUrl": "water"
+  },
+  "15": {
+    "english": "Pasta",
+    "spanish": "Pasta",
+    "description": "Made from dough, often shaped into spaghetti or macaroni.",
+    "imageUrl": "pasta",
+    "audioUrl": "pasta"
+  },
+  "16": {
+    "english": "Tomato",
+    "spanish": "Tomate",
+    "description": "A red fruit, often used in salads and sauces.",
+    "imageUrl": "tomato",
+    "audioUrl": "tomato"
+  },
+  "17": {
+    "english": "Onion",
+    "spanish": "Cebolla",
+    "description": "A pungent vegetable that can make you cry when cut.",
+    "imageUrl": "onion",
+    "audioUrl": "onion"
+  },
+  "18": {
+    "english": "Butter",
+    "spanish": "Mantequilla",
+    "description": "A yellow dairy spread, good on toast.",
+    "imageUrl": "butter",
+    "audioUrl": "butter"
+  },
+  "19": {
+    "english": "Sugar",
+    "spanish": "Azúcar",
+    "description": "A sweet, white crystalline substance.",
+    "imageUrl": "sugar",
+    "audioUrl": "sugar"
+  },
+  "20": {
+    "english": "Salt",
+    "spanish": "Sal",
+    "description": "A white crystalline seasoning, often found by the sea.",
+    "imageUrl": "salt",
+    "audioUrl": "salt"
+  }
+}
