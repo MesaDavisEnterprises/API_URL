@@ -2,14 +2,14 @@
   "1": {
     "english": "Apple",
     "spanish": "Manzana",
-    "description": "",
+    "description": "Esto es una Manzana",
     "imageUrl": "https://example.com/images/apple.png",
     "audioUrl": "https://example.com/sounds/apple.mp3"
   },
   "2": {
     "english": "Bread",
     "spanish": "Pan",
-    "description": "",
+    "description": "Esto es un Pan",
     "imageUrl": "https://example.com/images/bread.png",
     "audioUrl": "https://example.com/sounds/bread.mp3"
   }
