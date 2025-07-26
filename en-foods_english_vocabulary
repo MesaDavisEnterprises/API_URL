@@ -66,77 +66,77 @@
     "english": "Carrot",
     "spanish": "Zanahoria",
     "description": "A long, orange root vegetable, good for eyesight.",
-    "imageUrl": "https://example.com/images/carrot.png",
-    "audioUrl": "https://example.com/sounds/carrot.mp3"
+    "imageUrl": "carrot",
+    "audioUrl": "carrot"
   },
   "11": {
     "english": "Banana",
     "spanish": "Plátano",
     "description": "A yellow fruit, popular for smoothies and quick energy.",
-    "imageUrl": "https://example.com/images/banana.png",
-    "audioUrl": "https://example.com/sounds/banana.mp3"
+    "imageUrl": "banana",
+    "audioUrl": "banana"
   },
   "12": {
     "english": "Orange",
     "spanish": "Naranja",
     "description": "A citrus fruit known for its color and vitamin C.",
-    "imageUrl": "https://example.com/images/orange.png",
-    "audioUrl": "https://example.com/sounds/orange.mp3"
+    "imageUrl": "orange",
+    "audioUrl": "orange"
   },
   "13": {
     "english": "Coffee",
     "spanish": "Café",
     "description": "A popular brown beverage that gives you energy.",
-    "imageUrl": "https://example.com/images/coffee.png",
-    "audioUrl": "https://example.com/sounds/coffee.mp3"
+    "imageUrl": "coffee",
+    "audioUrl": "coffee"
   },
   "14": {
     "english": "Water",
     "spanish": "Agua",
     "description": "Essential clear liquid for all life.",
-    "imageUrl": "https://example.com/images/water.png",
-    "audioUrl": "https://example.com/sounds/water.mp3"
+    "imageUrl": "water",
+    "audioUrl": "water"
   },
   "15": {
     "english": "Pasta",
     "spanish": "Pasta",
     "description": "Made from dough, often shaped into spaghetti or macaroni.",
-    "imageUrl": "https://example.com/images/pasta.png",
-    "audioUrl": "https://example.com/sounds/pasta.mp3"
+    "imageUrl": "pasta",
+    "audioUrl": "pasta"
   },
   "16": {
     "english": "Tomato",
     "spanish": "Tomate",
     "description": "A red fruit, often used in salads and sauces.",
-    "imageUrl": "https://example.com/images/tomato.png",
-    "audioUrl": "https://example.com/sounds/tomato.mp3"
+    "imageUrl": "tomato",
+    "audioUrl": "tomato"
   },
   "17": {
     "english": "Onion",
     "spanish": "Cebolla",
     "description": "A pungent vegetable that can make you cry when cut.",
-    "imageUrl": "https://example.com/images/onion.png",
-    "audioUrl": "https://example.com/sounds/onion.mp3"
+    "imageUrl": "onion",
+    "audioUrl": "onion"
   },
   "18": {
     "english": "Butter",
     "spanish": "Mantequilla",
     "description": "A yellow dairy spread, good on toast.",
-    "imageUrl": "https://example.com/images/butter.png",
-    "audioUrl": "https://example.com/sounds/butter.mp3"
+    "imageUrl": "butter",
+    "audioUrl": "butter"
   },
   "19": {
     "english": "Sugar",
     "spanish": "Azúcar",
     "description": "A sweet, white crystalline substance.",
-    "imageUrl": "https://example.com/images/sugar.png",
-    "audioUrl": "https://example.com/sounds/sugar.mp3"
+    "imageUrl": "sugar",
+    "audioUrl": "sugar"
   },
   "20": {
     "english": "Salt",
     "spanish": "Sal",
     "description": "A white crystalline seasoning, often found by the sea.",
-    "imageUrl": "https://example.com/images/salt.png",
-    "audioUrl": "https://example.com/sounds/salt.mp3"
+    "imageUrl": "salt",
+    "audioUrl": "salt"
   }
 }
