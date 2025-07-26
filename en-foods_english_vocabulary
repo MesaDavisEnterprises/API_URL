@@ -24,42 +24,42 @@
     "english": "Cheese",
     "spanish": "Queso",
     "description": "Often made from curdled milk, it can be solid or soft.",
-    "imageUrl": "https://example.com/images/cheese.png",
+    "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/045/809/803/small/gourmet-bliss-cutouts-of-delectable-cheese-free-png.png",
     "audioUrl": "https://example.com/sounds/cheese.mp3"
   },
   "5": {
     "english": "Egg",
     "spanish": "Huevo",
     "description": "A protein-rich item from chickens, often eaten for breakfast.",
-    "imageUrl": "https://example.com/images/egg.png",
+    "imageUrl": "https://meatmart.lk/wp-content/uploads/2023/06/iouiok-700x700.webp.jpg",
     "audioUrl": "https://example.com/sounds/egg.mp3"
   },
   "6": {
     "english": "Rice",
     "spanish": "Arroz",
     "description": "Small grains, a main food in many Asian cuisines.",
-    "imageUrl": "https://example.com/images/rice.png",
+    "imageUrl": "https://img.freepik.com/premium-photo/cooked-white-rice-bowl-isolated-white-background_92534-3772.jpg",
     "audioUrl": "https://example.com/sounds/rice.mp3"
   },
   "7": {
     "english": "Chicken",
     "spanish": "Pollo",
     "description": "A common poultry meat, often roasted or fried.",
-    "imageUrl": "https://example.com/images/chicken.png",
+    "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/049/108/308/small_2x/white-chicken-standing-on-a-plain-background-png.png",
     "audioUrl": "https://example.com/sounds/chicken.mp3"
   },
   "8": {
     "english": "Fish",
     "spanish": "Pescado",
     "description": "It swims in the water and is a good source of omega-3.",
-    "imageUrl": "https://example.com/images/fish.png",
+    "imageUrl": "https://png.pngtree.com/png-vector/20240206/ourmid/pngtree-a-fresh-fish-white-background-png-image_11716645.png",
     "audioUrl": "https://example.com/sounds/fish.mp3"
   },
   "9": {
     "english": "Potato",
     "spanish": "Papa",
     "description": "A starchy vegetable that grows underground, good for fries.",
-    "imageUrl": "https://example.com/images/potato.png",
+    "imageUrl": "https://pngimg.com/d/potato_PNG7081.png",
     "audioUrl": "https://example.com/sounds/potato.mp3"
   },
   "10": {
